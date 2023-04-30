@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ben-bo-thien-mac_20162.html",
+    "title" : "Bên Bờ Thiên Mạc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Ân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 8736,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_43555af109531488de5bf9b435f6e7e6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_43555af109531488de5bf9b435f6e7e6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2153,
+    "title" : "BEN BO THIEN MAC-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1094,
+    "title" : "BEN BO THIEN MAC-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2176,
+    "title" : "BEN BO THIEN MAC-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1469,
+    "title" : "BEN BO THIEN MAC-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1844,
+    "title" : "BEN BO THIEN MAC-05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-01.mp3",
+    "title" : "BEN BO THIEN MAC-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-02.mp3",
+    "title" : "BEN BO THIEN MAC-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-03.mp3",
+    "title" : "BEN BO THIEN MAC-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-04.mp3",
+    "title" : "BEN BO THIEN MAC-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-bo-thien-mac.sna/BEN_BO_THIEN_MAC-05.mp3",
+    "title" : "BEN BO THIEN MAC-05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

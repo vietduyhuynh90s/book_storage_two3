@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tat-ca-nhung-gi-canh-con-trai-muon-biet_20123.html",
+    "title" : "Tất Cả Những Gì Cánh Con Trai Muốn Biết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trude Ausfelder",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 31502,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_105b16ce63ea3fd4deadf89ff545e236.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_105b16ce63ea3fd4deadf89ff545e236.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2644,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2248,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2270,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2650,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2231,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2362,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2411,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2142,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1395,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1927,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1251,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1159,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2032,
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_01.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_02.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_03.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_04.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_05.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_06.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_07.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_08.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_09.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_10.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_11.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_12.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_13.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_14.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-gi-canh-con-trai-muon-biet.sna/TAT_CA_NHUNG_GI_CANH_CON_TRAI_MUON_BIET_15.mp3",
+    "title" : "TAT CA NHUNG GI CANH CON TRAI MUON BIET 15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
