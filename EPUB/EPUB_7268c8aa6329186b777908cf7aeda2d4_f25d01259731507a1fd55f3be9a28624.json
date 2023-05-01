@@ -10,7 +10,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-29",
+    "published" : "2023-05-01",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
@@ -31,313 +31,717 @@
     "type" : "application/divina+json"
   } ],
   "readingOrder" : [ {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/0.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_65159d1cfc91d6cc1c3f4e43a9c8e213.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/0.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/1.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_b22c19712e03b9cbf1cc07b8682b9c02.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/1.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/2.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_353ce3040ab9ab2559e310f7cb909a2f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/2.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/3.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_3773484a8769de7b48cc913214131def.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/3.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/4.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_d519c67c122c87157092c0ac584858c5.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/4.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/5.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_f874e793a5659ed8eddb4c7beb5460eb.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/5.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/6.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_badc35ebbc6fd5b4e7105919f40a3eb8.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/6.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/7.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_780ee46d294b9c0356533d22fd5da7d1.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/7.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/8.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_f2f29103ab1d7e61c3cd3a48dec7aad9.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/8.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/9.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_ab577be631c24d2b95bf25c7d4202040.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/9.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/10.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_80fff23b43cd8baccc9aa09e7d72afa7.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/10.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/11.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_147a50b6dee507166f61d433bb4f11e9.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/11.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/12.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_7e11bbd1e38d8009e627f560fcde59f4.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/12.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/13.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_ddb8e045a52bfbe855c25b0a6a90c235.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/13.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/14.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_c222999985874240ddaf4f066029914a.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/14.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/15.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_c36f9bb3c3cd200803d936484feb5d09.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/15.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/16.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_16ec568094c0088e4442980840d513d7.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/16.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/17.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_aa5a7d479d58ad9512f7a52fc421e367.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/17.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/18.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_c8c03c28e9a0e113bdd5a0a3f90663a7.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/18.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/19.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_1df9d22140b07a1d3a60c1b456fc948b.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/19.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/20.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_ae1990949736bd240e233395884bc411.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/20.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/21.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_6f2c277e5d81b6b6698c16136b3d7249.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/21.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/22.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_f3fc0f681b4c21a9ac9cc2ce2c226347.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/22.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/23.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_2275083d3597275d0d58213a237a5beb.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/23.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/24.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_1cf6c4127319a83826a46fb5e870c7f3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/24.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/25.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_80042c0a6a35873a8eaa94d435d91741.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/25.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/26.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_0627f589a5b2058f61ec94e8b9c79952.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/26.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/27.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_428855ac842914e2ba7242ff7f56001b.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/27.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/28.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_21379102857d83dc2ca6a296926e8d08.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/28.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/29.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_671e6e2dc72f9c40256a4b92d51039a5.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/29.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/30.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_4d7e19076bc1cd74fec0f662421230ed.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/30.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/31.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_919faf1311484de12bb8e035d70655eb.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/31.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/32.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_4af325368b6015d145be933a656c8214.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/32.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/33.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_ef0e5bfe66d0be62e9452680848ec5bf.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/33.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/34.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_0188320d4dd8b3725ba1ebc7ac90b3e5.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/34.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/35.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_4823c1e6781839395c332914f8698d61.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/35.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/36.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_9961f1906f1a3d2228e0ca0709f52925.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/36.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/37.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_d828d0fab66cb5d5797e5c654df3f0ac.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/37.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/38.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_4401a79ef0eb089a5f4d8da2f11cc77c.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/38.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/39.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_7a82c6236683d6a459dcc8e26f2c5cda.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/39.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/49.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_d20383d22b50844abe781fca53b234f8.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/49.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/100.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_ae9eef39a2e9388b210fd08fa684714a.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/100.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/lich.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_21f71dae5c92c48cbf1e4ce42179b86b.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "http://cdn5.truyentranh8.net/hdd2/u2/Tobusan9597/26741-toi-tro-thanh-hau-gai-cua-cong-tuoc/11-/lich.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two3/main/IMAGE/IMAGE_7268c8aa6329186b777908cf7aeda2d4_f25d01259731507a1fd55f3be9a28624_2c0a3fb4fc000cb01ccdadd19d60f40f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
+      "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   } ],
   "toc" : null,
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
