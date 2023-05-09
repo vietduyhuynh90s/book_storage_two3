@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-la-toi-nho-em_12131.html",
+    "title" : "Chỉ Là Tôi Nhớ Em",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sammy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41440,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9363d6c545df98f4530dd07554379351.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9363d6c545df98f4530dd07554379351.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chilatoinhoem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 20720,
+    "title" : "Chỉ Là ... Tôi Nhớ Em [Trọn bộ] Truyện ngôn tình hay hài hước vô đối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chilatoinhoem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 20720,
+    "title" : "Chỉ Là ... Tôi Nhớ Em [Trọn bộ] Truyện ngôn tình hay hài hước vô đối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chilatoinhoem/1.mp3",
+    "title" : "Chỉ Là ... Tôi Nhớ Em [Trọn bộ] Truyện ngôn tình hay hài hước vô đối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chilatoinhoem/2.mp3",
+    "title" : "Chỉ Là ... Tôi Nhớ Em [Trọn bộ] Truyện ngôn tình hay hài hước vô đối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

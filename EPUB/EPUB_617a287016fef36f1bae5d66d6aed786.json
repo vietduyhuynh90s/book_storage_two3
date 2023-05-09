@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truy-the_12360.html",
+    "title" : "Truy Thê",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luna Huang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 67801,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_617a287016fef36f1bae5d66d6aed786.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_617a287016fef36f1bae5d66d6aed786.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truy-the/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5331,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4722,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4731,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5077,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4585,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3172,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4979,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4994,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5164,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5118,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5015,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4926,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4712,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truy-the/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5275,
+    "title" : "Xuyên Không Hay - Truy Thê Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truy-the/1.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/10.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/11.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/12.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/13.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/14.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/2.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/3.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/4.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/5.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/6.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/7.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/8.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truy-the/9.mp3",
+    "title" : "Xuyên Không Hay - Truy Thê Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

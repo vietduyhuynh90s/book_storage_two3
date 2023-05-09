@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vi-em-ma-den_15473.html",
+    "title" : "Vì Em Mà Đến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trường Câu Lạc Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 34808,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_01dd505cc0bf96dec1f7eda10f2fc7d1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_01dd505cc0bf96dec1f7eda10f2fc7d1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vi-em-ma-den/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3659,
+    "title" : "Xuyên qua nữ phụ lấy chồng tổng tài| Truyện ngôn tình xuyên không, nữ cường, nam cường, he siêu hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3202,
+    "title" : "[P2] Xuyên qua nữ phụ làm vợ tổng tài|Tổng tài lạnh lùng vừa gặp đã yêu|Truyện ngôn tình xuyên không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3877,
+    "title" : "[P3] Xuyên qua nữ phụ lấy chồng tổng tài| Vì yêu tổng tài vào bếp| Truyện xuyên không nữ cường hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3424,
+    "title" : "[P4] Xuyên qua nữ phụ làm vợ tổng tài| Truyện ngôn tình xuyên không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4244,
+    "title" : "[P5] Xuyên qua nữ phụ làm vợ tổng tài| Truyện ngôn tình xuyên không nữ cường, cực sủng siêu hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "[P6] Xuyên qua nữ phụ làm vợ tổng tài| Truyện ngôn tình xuyên không, nữ cường cực sủng hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3808,
+    "title" : "[P7] Xuyên qua nữ phụ làm vợ tổng tài| Bị tổng tài cưỡng hôn| Truyện ngôn tình xuyên không, nữ cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3910,
+    "title" : "[P8] Xuyên qua nữ phụ làm vợ tổng tài| Tổng tài bá đạo thật sự nguy hiểm| Ngôn tình xuyên không hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4954,
+    "title" : "Tập cuối cực hay| Xuyên qua nữ phụ làm vợ tổng tài| Truyện ngôn tình xuyên không, nữ cường, sủng HE",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vi-em-ma-den/1.mp3",
+    "title" : "Xuyên qua nữ phụ lấy chồng tổng tài| Truyện ngôn tình xuyên không, nữ cường, nam cường, he siêu hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/2.mp3",
+    "title" : "[P2] Xuyên qua nữ phụ làm vợ tổng tài|Tổng tài lạnh lùng vừa gặp đã yêu|Truyện ngôn tình xuyên không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/3.mp3",
+    "title" : "[P3] Xuyên qua nữ phụ lấy chồng tổng tài| Vì yêu tổng tài vào bếp| Truyện xuyên không nữ cường hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/4.mp3",
+    "title" : "[P4] Xuyên qua nữ phụ làm vợ tổng tài| Truyện ngôn tình xuyên không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/5.mp3",
+    "title" : "[P5] Xuyên qua nữ phụ làm vợ tổng tài| Truyện ngôn tình xuyên không nữ cường, cực sủng siêu hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/6.mp3",
+    "title" : "[P6] Xuyên qua nữ phụ làm vợ tổng tài| Truyện ngôn tình xuyên không, nữ cường cực sủng hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/7.mp3",
+    "title" : "[P7] Xuyên qua nữ phụ làm vợ tổng tài| Bị tổng tài cưỡng hôn| Truyện ngôn tình xuyên không, nữ cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/8.mp3",
+    "title" : "[P8] Xuyên qua nữ phụ làm vợ tổng tài| Tổng tài bá đạo thật sự nguy hiểm| Ngôn tình xuyên không hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-em-ma-den/9.mp3",
+    "title" : "Tập cuối cực hay| Xuyên qua nữ phụ làm vợ tổng tài| Truyện ngôn tình xuyên không, nữ cường, sủng HE",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

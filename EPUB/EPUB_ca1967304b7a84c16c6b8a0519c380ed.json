@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tan-nuong-la-nu-quy_14870.html",
+    "title" : "Tân Nương Là Nữ Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Độc Hành Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21185,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_ca1967304b7a84c16c6b8a0519c380ed.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_ca1967304b7a84c16c6b8a0519c380ed.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4671,
+    "title" : "Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4306,
+    "title" : "[Tập 2] Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3955,
+    "title" : "[Tập 3] Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4046,
+    "title" : "[Tập 4] Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4207,
+    "title" : "[Tập Cuối] Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/1.mp3",
+    "title" : "Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/2.mp3",
+    "title" : "[Tập 2] Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/3.mp3",
+    "title" : "[Tập 3] Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/4.mp3",
+    "title" : "[Tập 4] Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-la-quy/5.mp3",
+    "title" : "[Tập Cuối] Tân Nương Là Nữ Quỷ | Truyện ma hay mới nhất Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuong-tinh-quan-uoc_10539.html",
+    "title" : "Tương Tỉnh - Quân Ước",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quân Ứơc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40114,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_decdee34fa93606056d7156981e953a1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_decdee34fa93606056d7156981e953a1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuong-tinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7730,
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuong-tinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6754,
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuong-tinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6340,
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuong-tinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6650,
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuong-tinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12640,
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P5 hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuong-tinh/1.mp3",
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuong-tinh/2.mp3",
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuong-tinh/3.mp3",
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuong-tinh/4.mp3",
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuong-tinh/5.mp3",
+    "title" : "TƯƠNG TỈNH – Truyện Ngôn Tình Hiện Đại ,Thực Tế Hay,Nhẹ Nhàng –P5 hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

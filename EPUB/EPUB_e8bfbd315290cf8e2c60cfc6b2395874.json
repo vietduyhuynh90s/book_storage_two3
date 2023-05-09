@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-trinh-ve-phuong-dong-dr-blair-thomas-spalding_9990.html",
+    "title" : "Hành Trình về Phương Đông - Dr. Blair Thomas Spalding.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dr. Blair Thomas Spalding",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24853,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_e8bfbd315290cf8e2c60cfc6b2395874.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_e8bfbd315290cf8e2c60cfc6b2395874.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/01LiGiGiThiU/01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2656,
+    "title" : "01 Intro",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2713,
+    "title" : "02 Người đạo sĩ thành Benares",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2708,
+    "title" : "03 Khoa học thực nghiệm và chiêm tinh huyền bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2717,
+    "title" : "04 Trên đường thiên lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2702,
+    "title" : "05 Thành phố thiên liêng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2678,
+    "title" : "06 Những sự kiện huyền bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2734,
+    "title" : "07 Vị đạo sĩ có thể chửa mọi thứ bệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "08 Đời sống siêu nhân loại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1783,
+    "title" : "09 Cỏi vô hình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1398,
+    "title" : "10 Hành trình về phương đông",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/01LiGiGiThiU/01.mp3",
+    "title" : "01 Intro",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/02.mp3",
+    "title" : "02 Người đạo sĩ thành Benares",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/03.mp3",
+    "title" : "03 Khoa học thực nghiệm và chiêm tinh huyền bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/04.mp3",
+    "title" : "04 Trên đường thiên lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/05.mp3",
+    "title" : "05 Thành phố thiên liêng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/06.mp3",
+    "title" : "06 Những sự kiện huyền bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/07.mp3",
+    "title" : "07 Vị đạo sĩ có thể chửa mọi thứ bệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/08.mp3",
+    "title" : "08 Đời sống siêu nhân loại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/09.mp3",
+    "title" : "09 Cỏi vô hình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LiGiGiThiU/10.mp3",
+    "title" : "10 Hành trình về phương đông",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

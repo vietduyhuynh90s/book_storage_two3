@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-song-hanh-phuc_12970.html",
+    "title" : "Cuộc Sống Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tử Thanh Du",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 51654,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_8ff2c0e99943d5b1ddd1cdc1e410e8f1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_8ff2c0e99943d5b1ddd1cdc1e410e8f1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3368,
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2983,
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7065,
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7218,
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6589,
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7172,
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7165,
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6521,
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/1.mp3",
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/2.mp3",
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/3.mp3",
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/4.mp3",
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/5.mp3",
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/6.mp3",
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/7.mp3",
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/8.mp3",
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-hanh-phuc/9.mp3",
+    "title" : "Truyện ngôn tình nhẹ nhàng sâu lắng đáng nghe - MC Bảo Anh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

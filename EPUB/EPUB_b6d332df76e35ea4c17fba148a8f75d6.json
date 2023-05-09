@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/neu-toi-biet-duoc-khi-con-20-tina-seelig_10603.html",
+    "title" : "Nếu Tôi Biết Được Khi Còn 20 - Tina Seelig",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tina Seelig",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19337,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_b6d332df76e35ea4c17fba148a8f75d6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_b6d332df76e35ea4c17fba148a8f75d6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1490,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1571,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 10 - End",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1787,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2151,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1652,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2962,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1865,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2359,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1648,
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/1.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/10.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 10 - End",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/2.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/3.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/4.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/5.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/6.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/7.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/8.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neu-toi-biet-duoc-khi-con-20/9.mp3",
+    "title" : "Nếu Tôi Biết Khi Còn 20 - Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

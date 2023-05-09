@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tren-doi-mo-mat-va-mo_12145.html",
+    "title" : "Trên Đồi Mở Mắt Và Mơ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Văn Thành Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10020,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_6129b8572515f86f6ee096489f2ebb0f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_6129b8572515f86f6ee096489f2ebb0f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tren_doi_mo_mat_va_mo/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3332,
+    "title" : "Đọc Truyện Đêm Khuya ‖ Truyện Dài Hay Tuyển Chọn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tren_doi_mo_mat_va_mo/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "Đọc Truyện Đêm Khuya ‖ Truyện Dài Hay Tuyển Chọn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tren_doi_mo_mat_va_mo/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3310,
+    "title" : "Đọc Truyện Đêm Khuya ‖ Truyện Dài Hay Tuyển Chọn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tren_doi_mo_mat_va_mo/1.mp3",
+    "title" : "Đọc Truyện Đêm Khuya ‖ Truyện Dài Hay Tuyển Chọn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tren_doi_mo_mat_va_mo/2.mp3",
+    "title" : "Đọc Truyện Đêm Khuya ‖ Truyện Dài Hay Tuyển Chọn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tren_doi_mo_mat_va_mo/3.mp3",
+    "title" : "Đọc Truyện Đêm Khuya ‖ Truyện Dài Hay Tuyển Chọn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cam-y-chi-ha_14508.html",
+    "title" : "Cẩm Y Chi Hạ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lam Sắc Sư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 123159,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_968aaa14b405c1ca0bed4cfd8d9b82bc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_968aaa14b405c1ca0bed4cfd8d9b82bc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cam-y-chi-ha/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 93,
+    "title" : "Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7819,
+    "title" : "Phần 9 (C46-55) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6208,
+    "title" : "Phần 10 (C56-63) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7511,
+    "title" : "Phần 11 (C64-73) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8347,
+    "title" : "Phần 12 (C74-84) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7114,
+    "title" : "Phần 13 (C85-92) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9110,
+    "title" : "Phần 14 (C93-102) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9208,
+    "title" : "Phần 15 (C103-110) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5062,
+    "title" : "Phần 16 (C111-115) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7076,
+    "title" : "Phần 17 (C116-122) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10658,
+    "title" : "Phần 18 (C123-130) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2949,
+    "title" : "Lam Sắc Sư - Phần 1 (C1-3) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7051,
+    "title" : "Phần 19 (C131-135) End - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3468,
+    "title" : "Phần 2 (C4-7) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "Phần 3 (C8-10) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4264,
+    "title" : "Phần 4 (C11-15) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3864,
+    "title" : "Phần 5 (C16-20) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3964,
+    "title" : "Phần 6 (C21-25) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8324,
+    "title" : "Phần 7 (C26-35) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8468,
+    "title" : "Phần 8 (C36-45) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cam-y-chi-ha/1.mp3",
+    "title" : "Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/10.mp3",
+    "title" : "Phần 9 (C46-55) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/11.mp3",
+    "title" : "Phần 10 (C56-63) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/12.mp3",
+    "title" : "Phần 11 (C64-73) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/13.mp3",
+    "title" : "Phần 12 (C74-84) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/14.mp3",
+    "title" : "Phần 13 (C85-92) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/15.mp3",
+    "title" : "Phần 14 (C93-102) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/16.mp3",
+    "title" : "Phần 15 (C103-110) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/17.mp3",
+    "title" : "Phần 16 (C111-115) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/18.mp3",
+    "title" : "Phần 17 (C116-122) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/19.mp3",
+    "title" : "Phần 18 (C123-130) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/2.mp3",
+    "title" : "Lam Sắc Sư - Phần 1 (C1-3) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/20.mp3",
+    "title" : "Phần 19 (C131-135) End - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/3.mp3",
+    "title" : "Phần 2 (C4-7) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/4.mp3",
+    "title" : "Phần 3 (C8-10) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/5.mp3",
+    "title" : "Phần 4 (C11-15) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/6.mp3",
+    "title" : "Phần 5 (C16-20) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/7.mp3",
+    "title" : "Phần 6 (C21-25) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/8.mp3",
+    "title" : "Phần 7 (C26-35) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-y-chi-ha/9.mp3",
+    "title" : "Phần 8 (C36-45) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

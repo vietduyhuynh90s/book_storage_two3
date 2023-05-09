@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-lao-ba-to-lap-surachan_10717.html",
+    "title" : "Kế Lão Bà - Tố Lạp (SuraChan)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tố Lạp (SuraChan)",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 54657,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_0cdf00f0d4c3fe57e0a5338b22252956.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_0cdf00f0d4c3fe57e0a5338b22252956.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-lao-ba/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3936,
+    "title" : "Kế Lão Bà Tập 01 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "Kế Lão Bà Tập 10 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4971,
+    "title" : "Kế Lão Bà Tập 11 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6850,
+    "title" : "Kế Lão Bà Tập 12 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5804,
+    "title" : "Kế Lão Bà Tập 02 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3018,
+    "title" : "Kế Lão Bà Tập 03 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "Kế Lão Bà Tập 04 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "Kế Lão Bà Tập 05 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3641,
+    "title" : "Kế Lão Bà Tập 06 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4453,
+    "title" : "Kế Lão Bà Tập 07 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5932,
+    "title" : "Kế Lão Bà Tập 08 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5014,
+    "title" : "Kế Lão Bà Tập 09 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-lao-ba/1.mp3",
+    "title" : "Kế Lão Bà Tập 01 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/10.mp3",
+    "title" : "Kế Lão Bà Tập 10 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/11.mp3",
+    "title" : "Kế Lão Bà Tập 11 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/12.mp3",
+    "title" : "Kế Lão Bà Tập 12 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/2.mp3",
+    "title" : "Kế Lão Bà Tập 02 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/3.mp3",
+    "title" : "Kế Lão Bà Tập 03 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/4.mp3",
+    "title" : "Kế Lão Bà Tập 04 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/5.mp3",
+    "title" : "Kế Lão Bà Tập 05 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/6.mp3",
+    "title" : "Kế Lão Bà Tập 06 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/7.mp3",
+    "title" : "Kế Lão Bà Tập 07 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/8.mp3",
+    "title" : "Kế Lão Bà Tập 08 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lao-ba/9.mp3",
+    "title" : "Kế Lão Bà Tập 09 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

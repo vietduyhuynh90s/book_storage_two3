@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doa-lan-rung-noi-loan-james-h-chase_10019.html",
+    "title" : "Đóa Lan Rừng Nổi Loạn - James H. Chase.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James H. Chase",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24432,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_8ffefb05b62b5fa53686551394c25f81.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_8ffefb05b62b5fa53686551394c25f81.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dlrnl_201902/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4759,
+    "title" : "Tập 1 &2 -Đóa Lan rừng nổi loạn -James H. Chase -Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dlrnl_201902/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5231,
+    "title" : "Tập 3 & 4 - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dlrnl_201902/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5511,
+    "title" : "Tập 5&6 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dlrnl_201902/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4892,
+    "title" : "Tập 7 & 8 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dlrnl_201902/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4039,
+    "title" : "Tập 9 END - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dlrnl_201902/1.mp3",
+    "title" : "Tập 1 &2 -Đóa Lan rừng nổi loạn -James H. Chase -Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dlrnl_201902/2.mp3",
+    "title" : "Tập 3 & 4 - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dlrnl_201902/3.mp3",
+    "title" : "Tập 5&6 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dlrnl_201902/4.mp3",
+    "title" : "Tập 7 & 8 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dlrnl_201902/5.mp3",
+    "title" : "Tập 9 END - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

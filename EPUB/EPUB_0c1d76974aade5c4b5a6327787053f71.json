@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quan-tro-ma_14879.html",
+    "title" : "Quán Trọ Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thanh Hùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 43593,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_0c1d76974aade5c4b5a6327787053f71.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_0c1d76974aade5c4b5a6327787053f71.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quan-tro-ma/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3973,
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4312,
+    "title" : "#5 Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "#6-Hết | Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4184,
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4075,
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3841,
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4053,
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3875,
+    "title" : "Sau Áng Sương Mờ [ Tiếp nối truyện Quán Trọ Ma ] Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4531,
+    "title" : "#2 Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "#3 Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4091,
+    "title" : "#4 Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quan-tro-ma/1.mp3",
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/10.mp3",
+    "title" : "#5 Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/11.mp3",
+    "title" : "#6-Hết | Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/2.mp3",
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/3.mp3",
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/4.mp3",
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/5.mp3",
+    "title" : "Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc | Đất Đồng Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/6.mp3",
+    "title" : "Sau Áng Sương Mờ [ Tiếp nối truyện Quán Trọ Ma ] Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/7.mp3",
+    "title" : "#2 Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/8.mp3",
+    "title" : "#3 Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-tro-ma/9.mp3",
+    "title" : "#4 Sau Áng Sương Mờ | Truyện ma dân gian xưa hay Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

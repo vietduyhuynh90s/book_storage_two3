@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/to-dong-ro-mau-quy-co-nu_10145.html",
+    "title" : "Tơ Đồng Rỏ Máu - Quỷ Cổ Nữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỷ Cổ Nữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 54890,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_f2e9373d7b0e9d207dbe8693c142935a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_f2e9373d7b0e9d207dbe8693c142935a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/todongromau/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5561,
+    "title" : "TRUYỆN MA MỚI NHẤT | HAY NHƯ TRUYỆN NGUYỄN NGỌC NGẠN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/todongromau/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6698,
+    "title" : "TRUYỆN MA MỚI NHẤT | HAY NHƯ TRUYỆN NGUYỄN NGỌC NGẠN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/todongromau/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7589,
+    "title" : "TRUYỆN MA MỚI NHẤT | HAY NHƯ TRUYỆN NGUYỄN NGỌC NGẠN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/todongromau/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6112,
+    "title" : "TRUYỆN MA MỚI NHẤT | HAY NHƯ TRUYỆN NGUYỄN NGỌC NGẠN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/todongromau/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10142,
+    "title" : "truyện ma audio hay nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/todongromau/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7102,
+    "title" : "TRUYỆN MA AUDIO RẤT HAY VÀ HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/todongromau/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7216,
+    "title" : "TRUYỆN MA AUDIO RẤT HAY VÀ HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/todongromau/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4470,
+    "title" : "TRUYỆN MA HAY NHẤT 2018",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/todongromau/1.mp3",
+    "title" : "TRUYỆN MA MỚI NHẤT | HAY NHƯ TRUYỆN NGUYỄN NGỌC NGẠN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/todongromau/2.mp3",
+    "title" : "TRUYỆN MA MỚI NHẤT | HAY NHƯ TRUYỆN NGUYỄN NGỌC NGẠN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/todongromau/3.mp3",
+    "title" : "TRUYỆN MA MỚI NHẤT | HAY NHƯ TRUYỆN NGUYỄN NGỌC NGẠN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/todongromau/4.mp3",
+    "title" : "TRUYỆN MA MỚI NHẤT | HAY NHƯ TRUYỆN NGUYỄN NGỌC NGẠN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/todongromau/5.mp3",
+    "title" : "truyện ma audio hay nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/todongromau/6.mp3",
+    "title" : "TRUYỆN MA AUDIO RẤT HAY VÀ HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/todongromau/7.mp3",
+    "title" : "TRUYỆN MA AUDIO RẤT HAY VÀ HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/todongromau/8.mp3",
+    "title" : "TRUYỆN MA HAY NHẤT 2018",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

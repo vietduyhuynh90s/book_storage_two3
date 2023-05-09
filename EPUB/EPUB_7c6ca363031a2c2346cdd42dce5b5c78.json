@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doi-thay-doi-khi-chung-ta-thay-doi-andrew-matthews_10547.html",
+    "title" : "Đời Thay Đổi Khi Chúng Ta Thay Đổi - Andrew Matthews",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Andrew Matthews",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 58231,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_7c6ca363031a2c2346cdd42dce5b5c78.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_7c6ca363031a2c2346cdd42dce5b5c78.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14683,
+    "title" : "Being Happy | Andrew Matthews",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13789,
+    "title" : "Making Friends|Andrew Matthews",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14420,
+    "title" : "Follow Your Heart|Andrew Matthews",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9896,
+    "title" : "Being A Happy Teenager|Andrew Matthews",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5443,
+    "title" : "Happiness Now|Andrew Matthews",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/1.mp3",
+    "title" : "Being Happy | Andrew Matthews",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/2.mp3",
+    "title" : "Making Friends|Andrew Matthews",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/3.mp3",
+    "title" : "Follow Your Heart|Andrew Matthews",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/4.mp3",
+    "title" : "Being A Happy Teenager|Andrew Matthews",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-thay-doi-khi-chung-ta-thay-doi/5.mp3",
+    "title" : "Happiness Now|Andrew Matthews",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

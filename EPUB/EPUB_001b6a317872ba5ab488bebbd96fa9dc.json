@@ -1,0 +1,1493 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-tu-quai-tkkg-stefan-wolf-trinh-tham_3788.html",
+    "title" : "Tứ quái TKKG - Stefan Wolf.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stefan Wolf",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 161746,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_001b6a317872ba5ab488bebbd96fa9dc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_001b6a317872ba5ab488bebbd96fa9dc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1222,
+    "title" : "Tứ Quái TKKG Tập 01 P00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1406,
+    "title" : "Tứ Quái TKKG Tập 01 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1435,
+    "title" : "Tứ Quái TKKG Tập 01 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1240,
+    "title" : "Tứ Quái TKKG Tập 01 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1204,
+    "title" : "Tứ Quái TKKG Tập 01 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1053,
+    "title" : "Tứ Quái TKKG Tập 01 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1381,
+    "title" : "Tứ Quái TKKG Tập 01 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1133,
+    "title" : "Tứ Quái TKKG Tập 02 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1932,
+    "title" : "Tứ Quái TKKG Tập 02 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1334,
+    "title" : "Tứ Quái TKKG Tập 02 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1244,
+    "title" : "Tứ Quái TKKG Tập 02 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1581,
+    "title" : "Tứ Quái TKKG Tập 02 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1457,
+    "title" : "Tứ Quái TKKG Tập 02 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2014,
+    "title" : "Tứ Quái TKKG Tập 03 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1693,
+    "title" : "Tứ Quái TKKG Tập 03 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "Tứ Quái TKKG Tập 03 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1131,
+    "title" : "Tứ Quái TKKG Tập 03 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1624,
+    "title" : "Tứ Quái TKKG Tập 03 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1297,
+    "title" : "Tứ Quái TKKG Tập 03 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1196,
+    "title" : "Tứ Quái TKKG Tập 04 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 928,
+    "title" : "Tứ Quái TKKG Tập 04 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P03.2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1560,
+    "title" : "Tứ Quái TKKG Tập 04 P03.2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1378,
+    "title" : "Tứ Quái TKKG Tập 04 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1264,
+    "title" : "Tứ Quái TKKG Tập 04 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1341,
+    "title" : "Tứ Quái TKKG Tập 04 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1618,
+    "title" : "Tứ Quái TKKG Tập 04 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 926,
+    "title" : "Tứ Quái TKKG Tập 04 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1674,
+    "title" : "Tứ Quái TKKG Tập 05 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1579,
+    "title" : "Tứ Quái TKKG Tập 05 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1209,
+    "title" : "Tứ Quái TKKG Tập 05 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 973,
+    "title" : "Tứ Quái TKKG Tập 05 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1477,
+    "title" : "Tứ Quái TKKG Tập 05 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1578,
+    "title" : "Tứ Quái TKKG Tập 05 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1641,
+    "title" : "Tứ Quái TKKG Tập 05 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1315,
+    "title" : "Tứ Quái TKKG Tập 06 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1228,
+    "title" : "Tứ Quái TKKG Tập 06 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1875,
+    "title" : "Tứ Quái TKKG Tập 06 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1212,
+    "title" : "Tứ Quái TKKG Tập 06 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 869,
+    "title" : "Tứ Quái TKKG Tập 06 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1114,
+    "title" : "Tứ Quái TKKG Tập 06 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1446,
+    "title" : "Tứ Quái TKKG Tập 06 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1381,
+    "title" : "Tứ Quái TKKG Tập 06 P08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1170,
+    "title" : "Tứ Quái TKKG Tập 07 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1016,
+    "title" : "Tứ Quái TKKG Tập 07 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1243,
+    "title" : "Tứ Quái TKKG Tập 07 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1844,
+    "title" : "Tứ Quái TKKG Tập 07 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1275,
+    "title" : "Tứ Quái TKKG Tập 07 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1215,
+    "title" : "Tứ Quái TKKG Tập 07 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1291,
+    "title" : "Tứ Quái TKKG Tập 07 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 889,
+    "title" : "Tứ Quái TKKG Tập 08 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1341,
+    "title" : "Tứ Quái TKKG Tập 08 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 838,
+    "title" : "Tứ Quái TKKG Tập 08 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 867,
+    "title" : "Tứ Quái TKKG Tập 08 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 969,
+    "title" : "Tứ Quái TKKG Tập 08 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 752,
+    "title" : "Tứ Quái TKKG Tập 08 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1603,
+    "title" : "Tứ Quái TKKG Tập 08 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 848,
+    "title" : "Tứ Quái TKKG Tập 08 P08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 716,
+    "title" : "Tứ Quái TKKG Tập 08 P09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1092,
+    "title" : "Tứ Quái TKKG Tập 08 P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1101,
+    "title" : "Tứ Quái TKKG Tập 09 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "Tứ Quái TKKG Tập 09 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 945,
+    "title" : "Tứ Quái TKKG Tập 09 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1196,
+    "title" : "Tứ Quái TKKG Tập 09 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 687,
+    "title" : "Tứ Quái TKKG Tập 09 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1161,
+    "title" : "Tứ Quái TKKG Tập 09 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1197,
+    "title" : "Tứ Quái TKKG Tập 09 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1008,
+    "title" : "Tứ Quái TKKG Tập 09 P08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1263,
+    "title" : "Tứ Quái TKKG Tập 09 P09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 891,
+    "title" : "Tứ Quái TKKG Tập 09 P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1605,
+    "title" : "Tứ Quái TKKG Tập 10 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1250,
+    "title" : "Tứ Quái TKKG Tập 10 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1392,
+    "title" : "Tứ Quái TKKG Tập 10 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1038,
+    "title" : "Tứ Quái TKKG Tập 10 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1629,
+    "title" : "Tứ Quái TKKG Tập 10 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1039,
+    "title" : "Tứ Quái TKKG Tập 10 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1550,
+    "title" : "Tứ Quái TKKG Tập 10 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1502,
+    "title" : "Tứ Quái TKKG Tập 10 P08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 989,
+    "title" : "Tứ Quái TKKG Tập 11 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1291,
+    "title" : "Tứ Quái TKKG Tập 11 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 794,
+    "title" : "Tứ Quái TKKG Tập 11 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1239,
+    "title" : "Tứ Quái TKKG Tập 11 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1069,
+    "title" : "Tứ Quái TKKG Tập 11 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1057,
+    "title" : "Tứ Quái TKKG Tập 11 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1667,
+    "title" : "Tứ Quái TKKG Tập 11 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 859,
+    "title" : "Tứ Quái TKKG Tập 11 P08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1468,
+    "title" : "Tứ Quái TKKG Tập 11 P09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1099,
+    "title" : "Tứ Quái TKKG Tập 11 P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1885,
+    "title" : "Tứ Quái TKKG Tập 12 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1099,
+    "title" : "Tứ Quái TKKG Tập 12 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1392,
+    "title" : "Tứ Quái TKKG Tập 12 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 994,
+    "title" : "Tứ Quái TKKG Tập 12 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1560,
+    "title" : "Tứ Quái TKKG Tập 12 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1150,
+    "title" : "Tứ Quái TKKG Tập 12 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 759,
+    "title" : "Tứ Quái TKKG Tập 12 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1534,
+    "title" : "Tứ Quái TKKG Tập 12 P08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1937,
+    "title" : "Tứ Quái TKKG Tập 13 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2084,
+    "title" : "Tứ Quái TKKG Tập 13 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1262,
+    "title" : "Tứ Quái TKKG Tập 13 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1548,
+    "title" : "Tứ Quái TKKG Tập 13 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1841,
+    "title" : "Tứ Quái TKKG Tập 13 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1864,
+    "title" : "Tứ Quái TKKG Tập 13 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1668,
+    "title" : "Tứ Quái TKKG Tập 14 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1551,
+    "title" : "Tứ Quái TKKG Tập 14 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "Tứ Quái TKKG Tập 14 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1109,
+    "title" : "Tứ Quái TKKG Tập 14 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1150,
+    "title" : "Tứ Quái TKKG Tập 14 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1230,
+    "title" : "Tứ Quái TKKG Tập 14 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1534,
+    "title" : "Tứ Quái TKKG Tập 14 P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2106,
+    "title" : "Tứ Quái TKKG Tập 15 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1138,
+    "title" : "Tứ Quái TKKG Tập 15 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1844,
+    "title" : "Tứ Quái TKKG Tập 15 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2153,
+    "title" : "Tứ Quái TKKG Tập 15 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1030,
+    "title" : "Tứ Quái TKKG Tập 15 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2456,
+    "title" : "Tứ Quái TKKG Tập 15 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1375,
+    "title" : "Tứ Quái TKKG Tập 16 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1155,
+    "title" : "Tứ Quái TKKG Tập 16 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1615,
+    "title" : "Tứ Quái TKKG Tập 16 P03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1426,
+    "title" : "Tứ Quái TKKG Tập 16 P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 780,
+    "title" : "Tứ Quái TKKG Tập 16 P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1311,
+    "title" : "Tứ Quái TKKG Tập 16 P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2158,
+    "title" : "Tứ Quái TKKG Tập 16 P07",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P00.mp3",
+    "title" : "Tứ Quái TKKG Tập 01 P00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 01 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 01 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 01 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 01 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 01 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2001_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 01 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 02 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 02 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 02 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 02 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 02 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2002_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 02 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 03 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 03 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 03 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 03 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 03 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2003_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 03 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 04 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 04 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P03.2.mp3",
+    "title" : "Tứ Quái TKKG Tập 04 P03.2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 04 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 04 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 04 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 04 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2004_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 04 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 05 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 05 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 05 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 05 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 05 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 05 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2005_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 05 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 06 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 06 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 06 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 06 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 06 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 06 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 06 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2006_P08.mp3",
+    "title" : "Tứ Quái TKKG Tập 06 P08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 07 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 07 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 07 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 07 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 07 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 07 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2007_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 07 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P08.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P09.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2008_P10.mp3",
+    "title" : "Tứ Quái TKKG Tập 08 P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P08.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P09.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2009_P10.mp3",
+    "title" : "Tứ Quái TKKG Tập 09 P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 10 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 10 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 10 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 10 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 10 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 10 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 10 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2010_P08.mp3",
+    "title" : "Tứ Quái TKKG Tập 10 P08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P08.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P09.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2011_P10.mp3",
+    "title" : "Tứ Quái TKKG Tập 11 P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 12 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 12 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 12 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 12 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 12 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 12 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 12 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2012_P08.mp3",
+    "title" : "Tứ Quái TKKG Tập 12 P08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 13 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 13 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 13 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 13 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 13 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2013_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 13 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 14 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 14 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 14 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 14 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 14 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 14 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2014_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 14 P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 15 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 15 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 15 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 15 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 15 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2015_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 15 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P01.mp3",
+    "title" : "Tứ Quái TKKG Tập 16 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P02.mp3",
+    "title" : "Tứ Quái TKKG Tập 16 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P03.mp3",
+    "title" : "Tứ Quái TKKG Tập 16 P03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P04.mp3",
+    "title" : "Tứ Quái TKKG Tập 16 P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P05.mp3",
+    "title" : "Tứ Quái TKKG Tập 16 P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P06.mp3",
+    "title" : "Tứ Quái TKKG Tập 16 P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-quai-tkkg-tap-03-p-01/T%E1%BB%A9%20Qu%C3%A1i%20TKKG_T%E1%BA%ADp%2016_P07.mp3",
+    "title" : "Tứ Quái TKKG Tập 16 P07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

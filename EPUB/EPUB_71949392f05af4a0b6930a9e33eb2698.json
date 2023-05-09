@@ -1,0 +1,1481 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-cuong-phan-phai-he-thong_18973.html",
+    "title" : "Tối Cường Phản Phái Hệ Thống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Thất Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 641394,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_71949392f05af4a0b6930a9e33eb2698.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_71949392f05af4a0b6930a9e33eb2698.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/ToiCuongPhanPhaiheThong%20001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9291,
+    "title" : "ToiCuongPhanPhaiheThong 001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7390,
+    "title" : "ToiCuongPhanPhaiheThong 002",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8148,
+    "title" : "ToiCuongPhanPhaiheThong 003",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7965,
+    "title" : "ToiCuongPhanPhaiheThong 004",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7953,
+    "title" : "ToiCuongPhanPhaiheThong 005",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8130,
+    "title" : "ToiCuongPhanPhaiheThong 006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7797,
+    "title" : "ToiCuongPhanPhaiheThong 007",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7727,
+    "title" : "ToiCuongPhanPhaiheThong 008",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7932,
+    "title" : "ToiCuongPhanPhaiheThong 009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7730,
+    "title" : "ToiCuongPhanPhaiheThong 010",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7496,
+    "title" : "ToiCuongPhanPhaiheThong 011",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7318,
+    "title" : "ToiCuongPhanPhaiheThong 012",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7569,
+    "title" : "ToiCuongPhanPhaiheThong 013",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7243,
+    "title" : "ToiCuongPhanPhaiheThong 014",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7428,
+    "title" : "ToiCuongPhanPhaiheThong 015",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7257,
+    "title" : "ToiCuongPhanPhaiheThong 016",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7386,
+    "title" : "ToiCuongPhanPhaiheThong 017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7106,
+    "title" : "ToiCuongPhanPhaiheThong 018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7300,
+    "title" : "ToiCuongPhanPhaiheThong 019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6538,
+    "title" : "ToiCuongPhanPhaiheThong 020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7310,
+    "title" : "ToiCuongPhanPhaiheThong 021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7048,
+    "title" : "ToiCuongPhanPhaiheThong 022",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7185,
+    "title" : "ToiCuongPhanPhaiheThong 023",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7248,
+    "title" : "ToiCuongPhanPhaiheThong 024",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7333,
+    "title" : "ToiCuongPhanPhaiheThong 025",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7275,
+    "title" : "ToiCuongPhanPhaiheThong 026",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7186,
+    "title" : "ToiCuongPhanPhaiheThong 027",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7371,
+    "title" : "ToiCuongPhanPhaiheThong 028",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7204,
+    "title" : "ToiCuongPhanPhaiheThong 029",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong030.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7077,
+    "title" : "ToiCuongPhanPhaiheThong 030",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong031.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7722,
+    "title" : "ToiCuongPhanPhaiheThong 031",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong032.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8151,
+    "title" : "ToiCuongPhanPhaiheThong 032",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong033.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8181,
+    "title" : "ToiCuongPhanPhaiheThong 033",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong034.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8277,
+    "title" : "ToiCuongPhanPhaiheThong 034",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong035.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8129,
+    "title" : "ToiCuongPhanPhaiheThong 035",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong036.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8323,
+    "title" : "ToiCuongPhanPhaiheThong 036",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong037.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8272,
+    "title" : "ToiCuongPhanPhaiheThong 037",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong038.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5752,
+    "title" : "ToiCuongPhanPhaiheThong 038",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong039.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4191,
+    "title" : "ToiCuongPhanPhaiheThong 039",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong040.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4155,
+    "title" : "ToiCuongPhanPhaiheThong 040",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong041.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4135,
+    "title" : "ToiCuongPhanPhaiheThong 041",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong042.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4096,
+    "title" : "ToiCuongPhanPhaiheThong 042",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong043.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4194,
+    "title" : "ToiCuongPhanPhaiheThong 043",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong044.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4091,
+    "title" : "ToiCuongPhanPhaiheThong 044",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong045.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4076,
+    "title" : "ToiCuongPhanPhaiheThong 045",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong046.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4014,
+    "title" : "ToiCuongPhanPhaiheThong 046",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong047.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4090,
+    "title" : "ToiCuongPhanPhaiheThong 047",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong048.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4183,
+    "title" : "ToiCuongPhanPhaiheThong 048",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong049.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4121,
+    "title" : "ToiCuongPhanPhaiheThong 049",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong050.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4108,
+    "title" : "ToiCuongPhanPhaiheThong 050",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong051.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3905,
+    "title" : "ToiCuongPhanPhaiheThong 051",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong052.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3938,
+    "title" : "ToiCuongPhanPhaiheThong 052",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong053.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4037,
+    "title" : "ToiCuongPhanPhaiheThong 053",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong054.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3923,
+    "title" : "ToiCuongPhanPhaiheThong 054",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong055.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4846,
+    "title" : "ToiCuongPhanPhaiheThong 055",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong056.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4192,
+    "title" : "ToiCuongPhanPhaiheThong 056",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong057.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4100,
+    "title" : "ToiCuongPhanPhaiheThong 057",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong058.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4255,
+    "title" : "ToiCuongPhanPhaiheThong 058",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong059.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4138,
+    "title" : "ToiCuongPhanPhaiheThong 059",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong060.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4243,
+    "title" : "ToiCuongPhanPhaiheThong 060",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong061.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4173,
+    "title" : "ToiCuongPhanPhaiheThong 061",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong062.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4181,
+    "title" : "ToiCuongPhanPhaiheThong 062",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong063.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4208,
+    "title" : "ToiCuongPhanPhaiheThong 063",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong064.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4293,
+    "title" : "ToiCuongPhanPhaiheThong 064",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong065.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4212,
+    "title" : "ToiCuongPhanPhaiheThong 065",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong066.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4192,
+    "title" : "ToiCuongPhanPhaiheThong 066",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong067.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4212,
+    "title" : "ToiCuongPhanPhaiheThong 067",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong068.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4253,
+    "title" : "ToiCuongPhanPhaiheThong 068",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong069.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4282,
+    "title" : "ToiCuongPhanPhaiheThong 069",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong070.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4314,
+    "title" : "ToiCuongPhanPhaiheThong 070",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong071.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4193,
+    "title" : "ToiCuongPhanPhaiheThong 071",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong072.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4262,
+    "title" : "ToiCuongPhanPhaiheThong 072",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong073.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4259,
+    "title" : "ToiCuongPhanPhaiheThong 073",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong074.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4204,
+    "title" : "ToiCuongPhanPhaiheThong 074",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong075.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4250,
+    "title" : "ToiCuongPhanPhaiheThong 075",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong076.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4311,
+    "title" : "ToiCuongPhanPhaiheThong 076",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong077.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4343,
+    "title" : "ToiCuongPhanPhaiheThong 077",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong078.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4208,
+    "title" : "ToiCuongPhanPhaiheThong 078",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong079.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4316,
+    "title" : "ToiCuongPhanPhaiheThong 079",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong080.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4228,
+    "title" : "ToiCuongPhanPhaiheThong 080",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong081.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4239,
+    "title" : "ToiCuongPhanPhaiheThong 081",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong082.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4331,
+    "title" : "ToiCuongPhanPhaiheThong 082",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong083.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4288,
+    "title" : "ToiCuongPhanPhaiheThong 083",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong084.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4285,
+    "title" : "ToiCuongPhanPhaiheThong 084",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong085.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4213,
+    "title" : "ToiCuongPhanPhaiheThong 085",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong086.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4203,
+    "title" : "ToiCuongPhanPhaiheThong 086",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong087.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4314,
+    "title" : "ToiCuongPhanPhaiheThong 087",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong088.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4285,
+    "title" : "ToiCuongPhanPhaiheThong 088",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong089.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4300,
+    "title" : "ToiCuongPhanPhaiheThong 089",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong090.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4312,
+    "title" : "ToiCuongPhanPhaiheThong 090",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong091.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4213,
+    "title" : "ToiCuongPhanPhaiheThong 091",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong092.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4275,
+    "title" : "ToiCuongPhanPhaiheThong 092",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong093.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4289,
+    "title" : "ToiCuongPhanPhaiheThong 093",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong094.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4159,
+    "title" : "ToiCuongPhanPhaiheThong 094",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong095.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4257,
+    "title" : "ToiCuongPhanPhaiheThong 095",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong096.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4183,
+    "title" : "ToiCuongPhanPhaiheThong 096",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong097.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4198,
+    "title" : "ToiCuongPhanPhaiheThong 097",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong098.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4194,
+    "title" : "ToiCuongPhanPhaiheThong 098",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong099.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4191,
+    "title" : "ToiCuongPhanPhaiheThong 099",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4209,
+    "title" : "ToiCuongPhanPhaiheThong 100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4271,
+    "title" : "ToiCuongPhanPhaiheThong 101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4271,
+    "title" : "ToiCuongPhanPhaiheThong 102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4252,
+    "title" : "ToiCuongPhanPhaiheThong 103",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4160,
+    "title" : "ToiCuongPhanPhaiheThong 104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4651,
+    "title" : "ToiCuongPhanPhaiheThong 105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3753,
+    "title" : "ToiCuongPhanPhaiheThong 106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4257,
+    "title" : "ToiCuongPhanPhaiheThong 107",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4111,
+    "title" : "ToiCuongPhanPhaiheThong 108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4157,
+    "title" : "ToiCuongPhanPhaiheThong 109",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4204,
+    "title" : "ToiCuongPhanPhaiheThong 110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4183,
+    "title" : "ToiCuongPhanPhaiheThong 111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4083,
+    "title" : "ToiCuongPhanPhaiheThong 112",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3708,
+    "title" : "ToiCuongPhanPhaiheThong 113",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "ToiCuongPhanPhaiheThong 114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3755,
+    "title" : "ToiCuongPhanPhaiheThong 115",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3669,
+    "title" : "ToiCuongPhanPhaiheThong 116",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5863,
+    "title" : "ToiCuongPhanPhaiheThong 117",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7355,
+    "title" : "ToiCuongPhanPhaiheThong 118",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7234,
+    "title" : "ToiCuongPhanPhaiheThong 119",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7101,
+    "title" : "ToiCuongPhanPhaiheThong 120",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/ToiCuongPhanPhaiheThong%20001.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong002.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 002",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong003.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 003",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong004.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 004",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong005.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 005",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong006.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong007.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 007",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong008.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 008",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong009.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong010.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 010",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong011.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong012.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 012",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong013.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 013",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong014.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 014",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong015.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 015",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong016.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 016",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong017.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong018.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong019.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong020.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong021.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong022.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 022",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong023.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 023",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong024.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 024",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong025.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 025",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong026.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 026",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong027.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 027",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong028.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 028",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong029.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 029",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong030.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 030",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong031.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 031",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong032.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 032",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong033.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 033",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong034.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 034",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong035.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 035",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong036.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 036",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong037.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 037",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong038.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 038",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong039.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 039",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong040.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 040",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong041.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 041",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong042.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 042",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong043.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 043",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong044.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 044",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong045.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 045",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong046.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 046",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong047.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 047",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong048.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 048",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong049.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 049",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong050.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 050",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong051.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 051",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong052.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 052",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong053.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 053",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong054.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 054",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong055.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 055",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong056.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 056",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong057.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 057",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong058.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 058",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong059.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 059",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong060.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 060",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong061.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 061",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong062.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 062",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong063.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 063",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong064.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 064",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong065.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 065",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong066.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 066",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong067.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 067",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong068.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 068",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong069.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 069",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong070.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 070",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong071.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 071",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong072.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 072",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong073.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 073",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong074.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 074",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong075.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 075",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong076.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 076",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong077.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 077",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong078.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 078",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong079.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 079",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong080.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 080",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong081.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 081",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong082.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 082",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong083.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 083",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong084.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 084",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong085.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 085",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong086.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 086",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong087.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 087",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong088.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 088",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong089.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 089",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong090.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 090",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong091.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 091",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong092.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 092",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong093.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 093",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong094.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 094",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong095.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 095",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong096.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 096",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong097.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 097",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong098.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 098",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong099.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 099",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong100.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong101.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 101",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong102.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong103.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 103",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong104.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 104",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong105.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong106.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 106",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong107.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 107",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong108.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong109.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 109",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong110.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 110",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong111.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong112.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 112",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong113.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 113",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong114.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 114",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong115.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 115",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong116.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 116",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong117.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 117",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong118.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 118",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong119.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 119",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ToiCuongPhanPhaiheThong001/Toicuongphanphaihethong120.mp3",
+    "title" : "ToiCuongPhanPhaiheThong 120",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

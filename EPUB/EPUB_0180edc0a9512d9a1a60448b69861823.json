@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/rong-bay-phuong-mua_14512.html",
+    "title" : "Rồng Bay Phượng Múa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nguyệt Thính Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 80541,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_0180edc0a9512d9a1a60448b69861823.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_0180edc0a9512d9a1a60448b69861823.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4985,
+    "title" : "Phần 1 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5722,
+    "title" : "Phần 10 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4007,
+    "title" : "Phần 11 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6092,
+    "title" : "Phần 12 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4899,
+    "title" : "Phần 13 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4543,
+    "title" : "Phần 14 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "Phần 15 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9911,
+    "title" : "Phần 16 (End) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4149,
+    "title" : "Phần 2 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5010,
+    "title" : "Phần 3 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4305,
+    "title" : "Phần 4 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3801,
+    "title" : "Phần 5 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4481,
+    "title" : "Phần 6 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4943,
+    "title" : "Phần 7 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5302,
+    "title" : "Phần 8 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4815,
+    "title" : "Phần 9 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/1.mp3",
+    "title" : "Phần 1 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/10.mp3",
+    "title" : "Phần 10 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/11.mp3",
+    "title" : "Phần 11 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/12.mp3",
+    "title" : "Phần 12 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/13.mp3",
+    "title" : "Phần 13 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/14.mp3",
+    "title" : "Phần 14 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/15.mp3",
+    "title" : "Phần 15 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/16.mp3",
+    "title" : "Phần 16 (End) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/2.mp3",
+    "title" : "Phần 2 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/3.mp3",
+    "title" : "Phần 3 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/4.mp3",
+    "title" : "Phần 4 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/5.mp3",
+    "title" : "Phần 5 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/6.mp3",
+    "title" : "Phần 6 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/7.mp3",
+    "title" : "Phần 7 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/8.mp3",
+    "title" : "Phần 8 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rong-bay-phuong-mua/9.mp3",
+    "title" : "Phần 9 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

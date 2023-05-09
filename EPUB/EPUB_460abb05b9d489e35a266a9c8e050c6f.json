@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hay-dat-nang-len-tam-tham-hoa-james-h-chase_10022.html",
+    "title" : "Hãy Đặt Nàng Lên Tấm Thảm Hoa - James H. Chase.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James H. Chase",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20806,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_460abb05b9d489e35a266a9c8e050c6f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_460abb05b9d489e35a266a9c8e050c6f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hdnltvh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2398,
+    "title" : "Tập 1 – Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2228,
+    "title" : "Tập 2 – Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2239,
+    "title" : "Tập 3 – Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2263,
+    "title" : "Tập 4 – Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "Tập 5 – Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2405,
+    "title" : "Tập 6 – Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2708,
+    "title" : "Tập 7 – Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2025,
+    "title" : "Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hdnltvh/1.mp3",
+    "title" : "Tập 1 – Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/2.mp3",
+    "title" : "Tập 2 – Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/3.mp3",
+    "title" : "Tập 3 – Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/4.mp3",
+    "title" : "Tập 4 – Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/5.mp3",
+    "title" : "Tập 5 – Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/6.mp3",
+    "title" : "Tập 6 – Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/7.mp3",
+    "title" : "Tập 7 – Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/8.mp3",
+    "title" : "Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hdnltvh/9.mp3",
+    "title" : "Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

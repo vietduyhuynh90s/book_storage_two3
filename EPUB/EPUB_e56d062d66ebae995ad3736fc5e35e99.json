@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bach-nhat-y-sam-tan-cam-truc_11150.html",
+    "title" : "Bạch Nhật Y Sam Tận - Cẩm Trúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cẩm Trúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 65538,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_e56d062d66ebae995ad3736fc5e35e99.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_e56d062d66ebae995ad3736fc5e35e99.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 112,
+    "title" : "Cẩm Trúc - GIỚI THIỆU - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3174,
+    "title" : "Cẩm Trúc - Tập 9 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3289,
+    "title" : "Cẩm Trúc - Tập 10 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3350,
+    "title" : "Cẩm Trúc - Tập 11 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2909,
+    "title" : "Cẩm Trúc - Tập 12 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2922,
+    "title" : "Cẩm Trúc - Tập 13 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3075,
+    "title" : "Cẩm Trúc - Tập 14 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3453,
+    "title" : "Cẩm Trúc - Tập 15 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "Cẩm Trúc - Tập 16 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3447,
+    "title" : "Cẩm Trúc - Tập 17 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2357,
+    "title" : "Cẩm Trúc - Tập 18 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4043,
+    "title" : "Cẩm Trúc - Tập 1 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3821,
+    "title" : "Cẩm Trúc - Tập 19 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 622,
+    "title" : "Cẩm Trúc - Tập 20 END - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4656,
+    "title" : "Cẩm Trúc - Tập 2 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3556,
+    "title" : "Cẩm Trúc - Tập 3 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4052,
+    "title" : "Cẩm Trúc - Tập 4 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "Cẩm Trúc - Tập 5 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "Cẩm Trúc - Tập 6 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3470,
+    "title" : "Cẩm Trúc - Tập 7 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "Cẩm Trúc - Tập 8 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/1.mp3",
+    "title" : "Cẩm Trúc - GIỚI THIỆU - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/10.mp3",
+    "title" : "Cẩm Trúc - Tập 9 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/11.mp3",
+    "title" : "Cẩm Trúc - Tập 10 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/12.mp3",
+    "title" : "Cẩm Trúc - Tập 11 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/13.mp3",
+    "title" : "Cẩm Trúc - Tập 12 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/14.mp3",
+    "title" : "Cẩm Trúc - Tập 13 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/15.mp3",
+    "title" : "Cẩm Trúc - Tập 14 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/16.mp3",
+    "title" : "Cẩm Trúc - Tập 15 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/17.mp3",
+    "title" : "Cẩm Trúc - Tập 16 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/18.mp3",
+    "title" : "Cẩm Trúc - Tập 17 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/19.mp3",
+    "title" : "Cẩm Trúc - Tập 18 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/2.mp3",
+    "title" : "Cẩm Trúc - Tập 1 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/20.mp3",
+    "title" : "Cẩm Trúc - Tập 19 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/21.mp3",
+    "title" : "Cẩm Trúc - Tập 20 END - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/3.mp3",
+    "title" : "Cẩm Trúc - Tập 2 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/4.mp3",
+    "title" : "Cẩm Trúc - Tập 3 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/5.mp3",
+    "title" : "Cẩm Trúc - Tập 4 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/6.mp3",
+    "title" : "Cẩm Trúc - Tập 5 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/7.mp3",
+    "title" : "Cẩm Trúc - Tập 6 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/8.mp3",
+    "title" : "Cẩm Trúc - Tập 7 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bach_nhat_y_san_tan/9.mp3",
+    "title" : "Cẩm Trúc - Tập 8 - Audio Cổ đại, Huyền Huyễn, Trọng Sinh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

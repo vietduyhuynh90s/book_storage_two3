@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-mat-ngoi-nha-nghi_15721.html",
+    "title" : "Bí Mật Ngôi Nhà Nghỉ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 46232,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_1afa53d6b053bad5d86010f4d1ef8367.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_1afa53d6b053bad5d86010f4d1ef8367.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bmnnn/00001_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2118,
+    "title" : "00001 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00002_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "00002 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00003_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1305,
+    "title" : "00003 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00004_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2020,
+    "title" : "00004 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00005_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2275,
+    "title" : "00005 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00006_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2283,
+    "title" : "00006 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00007_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2497,
+    "title" : "00007 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00008_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2817,
+    "title" : "00008 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00009_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1661,
+    "title" : "00009 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00010_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2189,
+    "title" : "00010 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00011_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1614,
+    "title" : "00011 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00012_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "00012 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00013_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2610,
+    "title" : "00013 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00014_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "00014 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00015_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2035,
+    "title" : "00015 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00016_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2050,
+    "title" : "00016 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00017_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2112,
+    "title" : "00017 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00018_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1634,
+    "title" : "00018 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00019_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1967,
+    "title" : "00019 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00020_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2524,
+    "title" : "00020 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00021_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1777,
+    "title" : "00021 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00022_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "00022 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00023_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2374,
+    "title" : "00023 Bí mật ngôi nhà nghỉ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bmnnn/00001_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00001 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00002_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00002 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00003_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00003 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00004_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00004 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00005_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00005 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00006_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00006 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00007_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00007 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00008_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00008 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00009_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00009 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00010_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00010 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00011_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00011 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00012_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00012 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00013_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00013 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00014_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00014 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00015_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00015 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00016_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00016 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00017_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00017 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00018_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00018 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00019_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00019 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00020_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00020 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00021_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00021 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00022_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00022 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmnnn/00023_Bi%CC%81%20ma%CC%A3%CC%82t%20ngo%CC%82i%20nha%CC%80%20nghi%CC%89.m4a",
+    "title" : "00023 Bí mật ngôi nhà nghỉ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

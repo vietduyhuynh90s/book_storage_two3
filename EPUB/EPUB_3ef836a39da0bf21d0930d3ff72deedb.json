@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ly-hon-roi-yeu_12101.html",
+    "title" : "Ly Hôn Rồi Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Ngưng Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24922,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_3ef836a39da0bf21d0930d3ff72deedb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_3ef836a39da0bf21d0930d3ff72deedb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4434,
+    "title" : "Dạ Ngưng Tử - Truyện ngôn tình hiện đại cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3874,
+    "title" : "Ly Hôn Rồi Yêu [Phần 2] – Truyện ngôn tình hiện đại mới và hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4878,
+    "title" : "Ly Hôn Rồi Yêu [Phần 3] – Truyện ngôn tình hiện đại cực hấp dẫn 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5868,
+    "title" : "Ly Hôn Rồi Yêu [Phần 4] – Truyện ngôn tình hiện đại hay và Hot 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5868,
+    "title" : "Ly Hôn Rồi Yêu [Phần cuối] – Truyện ngôn tình cực hay 2017",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/1.mp3",
+    "title" : "Dạ Ngưng Tử - Truyện ngôn tình hiện đại cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/2.mp3",
+    "title" : "Ly Hôn Rồi Yêu [Phần 2] – Truyện ngôn tình hiện đại mới và hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/3.mp3",
+    "title" : "Ly Hôn Rồi Yêu [Phần 3] – Truyện ngôn tình hiện đại cực hấp dẫn 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/4.mp3",
+    "title" : "Ly Hôn Rồi Yêu [Phần 4] – Truyện ngôn tình hiện đại hay và Hot 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lyhonroiyeu_201903/5.mp3",
+    "title" : "Ly Hôn Rồi Yêu [Phần cuối] – Truyện ngôn tình cực hay 2017",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

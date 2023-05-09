@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/giay-phut-lo-lam_15720.html",
+    "title" : "Giây Phút Lỡ Lầm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8366,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_169c801eeb0a5744fa794b53d2cee2dc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_169c801eeb0a5744fa794b53d2cee2dc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%201%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1042,
+    "title" : "Giây phút lỡ lầm   Chương 1   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%202%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2085,
+    "title" : "Giây phút lỡ lầm   Chương 2   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%203%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 973,
+    "title" : "Giây phút lỡ lầm   Chương 3   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%204%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1256,
+    "title" : "Giây phút lỡ lầm   Chương 4   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%205%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1712,
+    "title" : "Giây phút lỡ lầm   Chương 5   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%206%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1298,
+    "title" : "Giây phút lỡ lầm   Chương 6   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%201%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "title" : "Giây phút lỡ lầm   Chương 1   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%202%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "title" : "Giây phút lỡ lầm   Chương 2   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%203%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "title" : "Giây phút lỡ lầm   Chương 3   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%204%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "title" : "Giây phút lỡ lầm   Chương 4   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%205%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "title" : "Giây phút lỡ lầm   Chương 5   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gpll_20220326/Gia%CC%82y%20phu%CC%81t%20lo%CC%9B%CC%83%20la%CC%82%CC%80m%20_%20Chu%CC%9Bo%CC%9Bng%206%20_%20Agatha%20Christie%20_%20Hercule%20Poirot%20%28192kbit_AAC%29.m4a",
+    "title" : "Giây phút lỡ lầm   Chương 6   Agatha Christie   Hercule Poirot (192kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

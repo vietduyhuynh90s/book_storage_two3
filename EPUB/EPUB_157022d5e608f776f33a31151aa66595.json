@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ma-xui-quy-khien_12924.html",
+    "title" : "Ma Xui Quỷ Khiến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Hiểu Bình",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 34283,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_157022d5e608f776f33a31151aa66595.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_157022d5e608f776f33a31151aa66595.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2733,
+    "title" : "MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "Truyện Trinh Thám hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3893,
+    "title" : "Truyện Trinh Thám - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2693,
+    "title" : "MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2863,
+    "title" : "MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3353,
+    "title" : "MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "Truyện Trinh Thám Kinh Dị - Lý Hiểu Bình - MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3053,
+    "title" : "Truyện Trinh Thám Kinh Dị - Lý Hiểu Bình - MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "Truyện Trinh Thám - Lý Hiểu Bình - MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/1.mp3",
+    "title" : "MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/10.mp3",
+    "title" : "Truyện Trinh Thám hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/11.mp3",
+    "title" : "Truyện Trinh Thám - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/2.mp3",
+    "title" : "MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/3.mp3",
+    "title" : "MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/4.mp3",
+    "title" : "MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/5.mp3",
+    "title" : "MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/6.mp3",
+    "title" : "MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/7.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị - Lý Hiểu Bình - MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/8.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị - Lý Hiểu Bình - MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-xui-quy-khien/9.mp3",
+    "title" : "Truyện Trinh Thám - Lý Hiểu Bình - MC Thanh Bình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

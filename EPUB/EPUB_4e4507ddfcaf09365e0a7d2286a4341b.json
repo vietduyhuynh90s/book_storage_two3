@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chiem-doat-vo-yeu-tieu-ngon_10674.html",
+    "title" : "Chiếm Đoạt Vợ Yêu - Tiểu Ngôn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiểu Ngôn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14899,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_4e4507ddfcaf09365e0a7d2286a4341b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_4e4507ddfcaf09365e0a7d2286a4341b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chiem-doat-vo-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8021,
+    "title" : "Truyện Ngôn Tình Hay Đến Mê Mẩn Lòng Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiem-doat-vo-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6878,
+    "title" : "Chiếm Đoạt Vợ Yêu [Phần 2 HẾT] Kết Thúc Thú Vị",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chiem-doat-vo-yeu/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Đến Mê Mẩn Lòng Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiem-doat-vo-yeu/2.mp3",
+    "title" : "Chiếm Đoạt Vợ Yêu [Phần 2 HẾT] Kết Thúc Thú Vị",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

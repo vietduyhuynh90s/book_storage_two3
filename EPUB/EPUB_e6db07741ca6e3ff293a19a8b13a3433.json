@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-muu-hoi-tam-hoang_14982.html",
+    "title" : "Âm Mưu Hội Tam Hoàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Andriei Lievin",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 39031,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_e6db07741ca6e3ff293a19a8b13a3433.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_e6db07741ca6e3ff293a19a8b13a3433.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4192,
+    "title" : "Âm Mưu Hội Tam Hoàng 1 | lời Thề Trong Chùa - Truyện Trinh Thám Hay - MC Thanh Binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3250,
+    "title" : "Truyện trinh thám hình sự - MC Thanh Binh (Cực Hay)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "Truyện trinh thám hay - MC Thanh Binh (Cực Hay)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4098,
+    "title" : "Âm Mưu Hội Tam Hoàng 2 | Xác chết Đảo Balacan Mati - Truyện Trinh Thám - MC Thanh Binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "Âm Mưu Hội Tam Hoàng 3 | Lập Mưu - Truyện Trinh Thám - MC Thanh Binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "Âm Mưu Hội Tam Hoàng - Truyện trinh thám mới (Rất Hay) - MC Thanh Binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3804,
+    "title" : "Âm Mưu Hội Tam Hoàng 5 - Truyện trinh thám mới (Rất Hay) - MC Thanh Binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "Âm Mưu Hội Tam Hoàng 6 - Truyện trinh thám mới (Rất Hay) - MC Thanh Binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "Âm mưu Hội Tam Hoàng 7 - Truyện trinh thám cực Hay - MC Thanh Binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3709,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "Âm Mưu Hội Tam Hoàng 9- Truyện trinh thám cực hay | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/1.mp3",
+    "title" : "Âm Mưu Hội Tam Hoàng 1 | lời Thề Trong Chùa - Truyện Trinh Thám Hay - MC Thanh Binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/10.mp3",
+    "title" : "Truyện trinh thám hình sự - MC Thanh Binh (Cực Hay)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/11.mp3",
+    "title" : "Truyện trinh thám hay - MC Thanh Binh (Cực Hay)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/2.mp3",
+    "title" : "Âm Mưu Hội Tam Hoàng 2 | Xác chết Đảo Balacan Mati - Truyện Trinh Thám - MC Thanh Binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/3.mp3",
+    "title" : "Âm Mưu Hội Tam Hoàng 3 | Lập Mưu - Truyện Trinh Thám - MC Thanh Binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/4.mp3",
+    "title" : "Âm Mưu Hội Tam Hoàng - Truyện trinh thám mới (Rất Hay) - MC Thanh Binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/5.mp3",
+    "title" : "Âm Mưu Hội Tam Hoàng 5 - Truyện trinh thám mới (Rất Hay) - MC Thanh Binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/6.mp3",
+    "title" : "Âm Mưu Hội Tam Hoàng 6 - Truyện trinh thám mới (Rất Hay) - MC Thanh Binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/7.mp3",
+    "title" : "Âm mưu Hội Tam Hoàng 7 - Truyện trinh thám cực Hay - MC Thanh Binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/8.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-muu-hoi-tam-hoang_202006/9.mp3",
+    "title" : "Âm Mưu Hội Tam Hoàng 9- Truyện trinh thám cực hay | MC THANH BÌNH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

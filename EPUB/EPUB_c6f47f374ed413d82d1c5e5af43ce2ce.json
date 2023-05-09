@@ -1,0 +1,1289 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quy-vuong-kim-bai-sung-phi-cha-me-tho_12012.html",
+    "title" : "Quỷ Vương Kim Bài Sủng Phi - Chá Mễ Thố",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chá Mễ Thố",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 238632,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_c6f47f374ed413d82d1c5e5af43ce2ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_c6f47f374ed413d82d1c5e5af43ce2ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2586,
+    "title" : "Chương 1-4 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "Chương 30-32 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3558,
+    "title" : "Chương 151+152+153 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2422,
+    "title" : "Chương 154a - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3038,
+    "title" : "Chương 154b - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1934,
+    "title" : "Chương 155a - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1770,
+    "title" : "Chương 155b (END) - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1789,
+    "title" : "Chương 33-35 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "Chương 36-38 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1734,
+    "title" : "Chương 39-41 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "Chương 42-44 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1710,
+    "title" : "Chương 45-47 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1742,
+    "title" : "Chương 48-50 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1734,
+    "title" : "Chương 51-53 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1672,
+    "title" : "Chương 54-56 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1100,
+    "title" : "Chương 57-58 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1540,
+    "title" : "Chương 5-7 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "Chương 59 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "Chương 60 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2678,
+    "title" : "Chương 61 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2630,
+    "title" : "Chương 62 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2368,
+    "title" : "Chương 63 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2656,
+    "title" : "Chương 64 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2758,
+    "title" : "Chương 65 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2702,
+    "title" : "Chương 66 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2642,
+    "title" : "Chương 67 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2688,
+    "title" : "Chương 68 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1619,
+    "title" : "Chương 8-10 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2716,
+    "title" : "Chương 69 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2692,
+    "title" : "Chương 70 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2542,
+    "title" : "Chương 71 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2454,
+    "title" : "Chương 72 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2602,
+    "title" : "Chương 73 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2642,
+    "title" : "Chương 74 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2568,
+    "title" : "Chương 75 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2622,
+    "title" : "Chương 76 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2680,
+    "title" : "Chương 77 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2646,
+    "title" : "Chương 78 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1672,
+    "title" : "Chương 11-13 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "Chương 79 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2596,
+    "title" : "Chương 80 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2498,
+    "title" : "Chương 81 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "Chương 82 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2538,
+    "title" : "Chương 83 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2592,
+    "title" : "Chương 84 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2580,
+    "title" : "Chương 85 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2598,
+    "title" : "Chương 86 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2526,
+    "title" : "Chương 87 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2616,
+    "title" : "Chương 88 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2311,
+    "title" : "Chương 14-18 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2524,
+    "title" : "Chương 89 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2520,
+    "title" : "Chương 90 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2562,
+    "title" : "Chương 91 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2518,
+    "title" : "Chương 92 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2478,
+    "title" : "Chương 93 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2508,
+    "title" : "Chương 94 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2466,
+    "title" : "Chương 95 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2274,
+    "title" : "Chương 96 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2416,
+    "title" : "Chương 97 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2490,
+    "title" : "Chương 98 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1115,
+    "title" : "Chương 19-20 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2482,
+    "title" : "Chương 99 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2494,
+    "title" : "Chương 100 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2490,
+    "title" : "Chương 101 & 102 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2600,
+    "title" : "Chương 103 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "Chương 104 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2258,
+    "title" : "Chương 105 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2188,
+    "title" : "Chương 106 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3468,
+    "title" : "Chương 107+108 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2096,
+    "title" : "Chương 109 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "Chương 110 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1791,
+    "title" : "Chương 21-23 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2204,
+    "title" : "Chương 111 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1988,
+    "title" : "Chương 112 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Chương 113 + 114 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2394,
+    "title" : "Chương 115 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1936,
+    "title" : "Chương 116 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2262,
+    "title" : "Chương 117 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2044,
+    "title" : "Chương 118 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "Chương 119 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1836,
+    "title" : "Chương 120 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1874,
+    "title" : "Chương 121 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1742,
+    "title" : "Chương 24-26 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1896,
+    "title" : "Chương 122 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1870,
+    "title" : "Chương 123 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "Chương 124 (Reuploaded)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3126,
+    "title" : "Chương 125+126 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2682,
+    "title" : "Chương 127+128 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1886,
+    "title" : "Chương 129 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1770,
+    "title" : "Chương 130 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "Chương 131 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1802,
+    "title" : "Chương 132 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1758,
+    "title" : "Chương 133 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1777,
+    "title" : "Chương 27-29 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2050,
+    "title" : "Chương 134 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "Chương 135 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2014,
+    "title" : "Chương 136+137 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "Chương 138 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3062,
+    "title" : "Chương 139+140 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2270,
+    "title" : "Chương 141+142 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2826,
+    "title" : "Chương 143+144 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2092,
+    "title" : "Chương 145 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2346,
+    "title" : "Chương 146+147+148 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1626,
+    "title" : "Chương 149+150 - Truyện Audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/1.mp3",
+    "title" : "Chương 1-4 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/10.mp3",
+    "title" : "Chương 30-32 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/100.mp3",
+    "title" : "Chương 151+152+153 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/101.mp3",
+    "title" : "Chương 154a - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/102.mp3",
+    "title" : "Chương 154b - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/103.mp3",
+    "title" : "Chương 155a - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/104.mp3",
+    "title" : "Chương 155b (END) - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/11.mp3",
+    "title" : "Chương 33-35 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/12.mp3",
+    "title" : "Chương 36-38 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/13.mp3",
+    "title" : "Chương 39-41 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/14.mp3",
+    "title" : "Chương 42-44 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/15.mp3",
+    "title" : "Chương 45-47 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/16.mp3",
+    "title" : "Chương 48-50 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/17.mp3",
+    "title" : "Chương 51-53 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/18.mp3",
+    "title" : "Chương 54-56 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/19.mp3",
+    "title" : "Chương 57-58 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/2.mp3",
+    "title" : "Chương 5-7 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/20.mp3",
+    "title" : "Chương 59 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/21.mp3",
+    "title" : "Chương 60 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/22.mp3",
+    "title" : "Chương 61 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/23.mp3",
+    "title" : "Chương 62 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/24.mp3",
+    "title" : "Chương 63 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/25.mp3",
+    "title" : "Chương 64 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/26.mp3",
+    "title" : "Chương 65 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/27.mp3",
+    "title" : "Chương 66 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/28.mp3",
+    "title" : "Chương 67 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/29.mp3",
+    "title" : "Chương 68 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/3.mp3",
+    "title" : "Chương 8-10 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/30.mp3",
+    "title" : "Chương 69 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/31.mp3",
+    "title" : "Chương 70 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/32.mp3",
+    "title" : "Chương 71 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/33.mp3",
+    "title" : "Chương 72 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/34.mp3",
+    "title" : "Chương 73 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/35.mp3",
+    "title" : "Chương 74 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/36.mp3",
+    "title" : "Chương 75 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/37.mp3",
+    "title" : "Chương 76 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/38.mp3",
+    "title" : "Chương 77 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/39.mp3",
+    "title" : "Chương 78 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/4.mp3",
+    "title" : "Chương 11-13 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/40.mp3",
+    "title" : "Chương 79 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/41.mp3",
+    "title" : "Chương 80 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/42.mp3",
+    "title" : "Chương 81 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/43.mp3",
+    "title" : "Chương 82 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/44.mp3",
+    "title" : "Chương 83 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/45.mp3",
+    "title" : "Chương 84 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/46.mp3",
+    "title" : "Chương 85 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/47.mp3",
+    "title" : "Chương 86 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/48.mp3",
+    "title" : "Chương 87 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/49.mp3",
+    "title" : "Chương 88 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/5.mp3",
+    "title" : "Chương 14-18 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/50.mp3",
+    "title" : "Chương 89 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/51.mp3",
+    "title" : "Chương 90 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/52.mp3",
+    "title" : "Chương 91 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/53.mp3",
+    "title" : "Chương 92 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/54.mp3",
+    "title" : "Chương 93 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/55.mp3",
+    "title" : "Chương 94 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/56.mp3",
+    "title" : "Chương 95 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/57.mp3",
+    "title" : "Chương 96 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/58.mp3",
+    "title" : "Chương 97 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/59.mp3",
+    "title" : "Chương 98 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/6.mp3",
+    "title" : "Chương 19-20 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/60.mp3",
+    "title" : "Chương 99 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/61.mp3",
+    "title" : "Chương 100 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/62.mp3",
+    "title" : "Chương 101 & 102 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/63.mp3",
+    "title" : "Chương 103 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/64.mp3",
+    "title" : "Chương 104 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/65.mp3",
+    "title" : "Chương 105 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/66.mp3",
+    "title" : "Chương 106 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/67.mp3",
+    "title" : "Chương 107+108 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/68.mp3",
+    "title" : "Chương 109 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/69.mp3",
+    "title" : "Chương 110 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/7.mp3",
+    "title" : "Chương 21-23 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/70.mp3",
+    "title" : "Chương 111 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/71.mp3",
+    "title" : "Chương 112 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/72.mp3",
+    "title" : "Chương 113 + 114 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/73.mp3",
+    "title" : "Chương 115 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/74.mp3",
+    "title" : "Chương 116 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/75.mp3",
+    "title" : "Chương 117 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/76.mp3",
+    "title" : "Chương 118 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/77.mp3",
+    "title" : "Chương 119 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/78.mp3",
+    "title" : "Chương 120 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/79.mp3",
+    "title" : "Chương 121 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/8.mp3",
+    "title" : "Chương 24-26 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/80.mp3",
+    "title" : "Chương 122 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/81.mp3",
+    "title" : "Chương 123 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/82.mp3",
+    "title" : "Chương 124 (Reuploaded)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/83.mp3",
+    "title" : "Chương 125+126 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/84.mp3",
+    "title" : "Chương 127+128 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/85.mp3",
+    "title" : "Chương 129 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/86.mp3",
+    "title" : "Chương 130 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/87.mp3",
+    "title" : "Chương 131 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/88.mp3",
+    "title" : "Chương 132 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/89.mp3",
+    "title" : "Chương 133 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/9.mp3",
+    "title" : "Chương 27-29 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/90.mp3",
+    "title" : "Chương 134 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/91.mp3",
+    "title" : "Chương 135 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/92.mp3",
+    "title" : "Chương 136+137 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/93.mp3",
+    "title" : "Chương 138 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/94.mp3",
+    "title" : "Chương 139+140 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/95.mp3",
+    "title" : "Chương 141+142 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/96.mp3",
+    "title" : "Chương 143+144 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/97.mp3",
+    "title" : "Chương 145 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/98.mp3",
+    "title" : "Chương 146+147+148 - Truyện Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-vuong-kim-bai-sung-phi/99.mp3",
+    "title" : "Chương 149+150 - Truyện Audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

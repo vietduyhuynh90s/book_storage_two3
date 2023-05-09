@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-cach-mang-mot-cong-rom_19143.html",
+    "title" : "Cuộc Cách Mạng Một Cọng Rơm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Masanobu Fukuoka",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29880,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_feea1189e4a5334a4192d117db3acb1a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_feea1189e4a5334a4192d117db3acb1a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cach-mang-1/cach-mang-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "cach-mang-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cach-mang-1/cach-mang-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "cach-mang-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cach-mang-1/cach-mang-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "cach-mang-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cach-mang-1/cach-mang-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6480,
+    "title" : "cach-mang-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cach-mang-1/cach-mang-1.mp3",
+    "title" : "cach-mang-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-mang-1/cach-mang-2.mp3",
+    "title" : "cach-mang-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-mang-1/cach-mang-3.mp3",
+    "title" : "cach-mang-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cach-mang-1/cach-mang-4.mp3",
+    "title" : "cach-mang-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

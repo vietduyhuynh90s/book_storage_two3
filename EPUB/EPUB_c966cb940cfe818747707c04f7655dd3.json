@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cua-chuot-va-cua-nguoi_18632.html",
+    "title" : "Của Chuột Và Của Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John Steinbeck",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12078,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_c966cb940cfe818747707c04f7655dd3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_c966cb940cfe818747707c04f7655dd3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cua-chuot-va-nguoi-02/C%E1%BB%A7a%20Chu%E1%BB%99t%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4304,
+    "title" : "Của Chuột Và Người 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cua-chuot-va-nguoi-02/C%E1%BB%A7a%20Chu%E1%BB%99t%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5143,
+    "title" : "Của Chuột Và Người 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cua-chuot-va-nguoi-02/C%E1%BB%A7a%20Chu%E1%BB%99t%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "Của Chuột Và Người 03",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cua-chuot-va-nguoi-02/C%E1%BB%A7a%20Chu%E1%BB%99t%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di_01.mp3",
+    "title" : "Của Chuột Và Người 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cua-chuot-va-nguoi-02/C%E1%BB%A7a%20Chu%E1%BB%99t%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di_02.mp3",
+    "title" : "Của Chuột Và Người 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cua-chuot-va-nguoi-02/C%E1%BB%A7a%20Chu%E1%BB%99t%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di_03.mp3",
+    "title" : "Của Chuột Và Người 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

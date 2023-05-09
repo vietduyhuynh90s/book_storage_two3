@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thien-nhai-khach_15638.html",
+    "title" : "Thiên Nhai Khách",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Priest",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 68992,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_1c4d7c14345f4af0d55e3c225aa5e6b8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_1c4d7c14345f4af0d55e3c225aa5e6b8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-nhai-khach/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1949,
+    "title" : "Tác giả: Priest - Chương 1+2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1697,
+    "title" : "Tác giả: Priest - Chương 19+20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1609,
+    "title" : "Tác giả: Priest - Chương 21+22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1866,
+    "title" : "Tác giả: Priest - Chương 23+24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1613,
+    "title" : "Tác giả: Priest - Chương 25+26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1667,
+    "title" : "Tác giả: Priest - Chương 27+28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1711,
+    "title" : "Tác giả: Priest - Chương 29+30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1572,
+    "title" : "Tác giả: Priest - Chương 31+32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1656,
+    "title" : "Tác giả: Priest - Chương 33+34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1656,
+    "title" : "Tác giả: Priest - Chương 35+36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "Tác giả: Priest - Chương 37+38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1424,
+    "title" : "Tác giả: Priest - Chương 3+4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1679,
+    "title" : "Tác giả: Priest - Chương 39+40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1723,
+    "title" : "Tác giả: Priest - Chương 41+42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1672,
+    "title" : "Tác giả: Priest - Chương 43+44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1605,
+    "title" : "Tác giả: Priest - Chương 45+46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1777,
+    "title" : "Tác giả: Priest - Chương 47+48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1822,
+    "title" : "Tác giả: Priest - Chương 49+50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1696,
+    "title" : "Tác giả: Priest - Chương 51+52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1564,
+    "title" : "Tác giả: Priest - Chương 53+54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1573,
+    "title" : "Tác giả: Priest - Chương 55+56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "Tác giả: Priest - Chương 57+58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1533,
+    "title" : "Tác giả: Priest - Chương 5+6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1795,
+    "title" : "Tác giả: Priest - Chương 59+60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1622,
+    "title" : "Tác giả: Priest - Chương 61+62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1825,
+    "title" : "Tác giả: Priest - Chương 63+64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "Tác giả: Priest - Chương 65+66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1731,
+    "title" : "Tác giả: Priest - Chương 67+68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "Tác giả: Priest - Chương 69+70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1754,
+    "title" : "Tác giả: Priest - Chương 71+72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2075,
+    "title" : "Tác giả: Priest - Chương 73+74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2146,
+    "title" : "Tác giả: Priest - Chương 75+76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1273,
+    "title" : "Tác giả: Priest - Chương 77-Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1476,
+    "title" : "Tác giả: Priest - Chương 7+8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1021,
+    "title" : "Tác giả: Priest - Phiên ngoại 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1507,
+    "title" : "Tác giả: Priest - Phiên ngoại 2+3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 827,
+    "title" : "Tác giả: Priest - Phiên ngoại 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "Tác giả: Priest - Chương 9+10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1553,
+    "title" : "Tác giả: Priest - Chương 11+12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1621,
+    "title" : "Tác giả: Priest - Chương 13+14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1612,
+    "title" : "Tác giả: Priest - Chương 15+16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1502,
+    "title" : "Tác giả: Priest - Chương 17+18",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-nhai-khach/1.mp3",
+    "title" : "Tác giả: Priest - Chương 1+2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/10.mp3",
+    "title" : "Tác giả: Priest - Chương 19+20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/11.mp3",
+    "title" : "Tác giả: Priest - Chương 21+22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/12.mp3",
+    "title" : "Tác giả: Priest - Chương 23+24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/13.mp3",
+    "title" : "Tác giả: Priest - Chương 25+26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/14.mp3",
+    "title" : "Tác giả: Priest - Chương 27+28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/15.mp3",
+    "title" : "Tác giả: Priest - Chương 29+30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/16.mp3",
+    "title" : "Tác giả: Priest - Chương 31+32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/17.mp3",
+    "title" : "Tác giả: Priest - Chương 33+34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/18.mp3",
+    "title" : "Tác giả: Priest - Chương 35+36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/19.mp3",
+    "title" : "Tác giả: Priest - Chương 37+38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/2.mp3",
+    "title" : "Tác giả: Priest - Chương 3+4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/20.mp3",
+    "title" : "Tác giả: Priest - Chương 39+40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/21.mp3",
+    "title" : "Tác giả: Priest - Chương 41+42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/22.mp3",
+    "title" : "Tác giả: Priest - Chương 43+44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/23.mp3",
+    "title" : "Tác giả: Priest - Chương 45+46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/24.mp3",
+    "title" : "Tác giả: Priest - Chương 47+48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/25.mp3",
+    "title" : "Tác giả: Priest - Chương 49+50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/26.mp3",
+    "title" : "Tác giả: Priest - Chương 51+52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/27.mp3",
+    "title" : "Tác giả: Priest - Chương 53+54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/28.mp3",
+    "title" : "Tác giả: Priest - Chương 55+56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/29.mp3",
+    "title" : "Tác giả: Priest - Chương 57+58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/3.mp3",
+    "title" : "Tác giả: Priest - Chương 5+6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/30.mp3",
+    "title" : "Tác giả: Priest - Chương 59+60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/31.mp3",
+    "title" : "Tác giả: Priest - Chương 61+62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/32.mp3",
+    "title" : "Tác giả: Priest - Chương 63+64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/33.mp3",
+    "title" : "Tác giả: Priest - Chương 65+66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/34.mp3",
+    "title" : "Tác giả: Priest - Chương 67+68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/35.mp3",
+    "title" : "Tác giả: Priest - Chương 69+70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/36.mp3",
+    "title" : "Tác giả: Priest - Chương 71+72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/37.mp3",
+    "title" : "Tác giả: Priest - Chương 73+74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/38.mp3",
+    "title" : "Tác giả: Priest - Chương 75+76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/39.mp3",
+    "title" : "Tác giả: Priest - Chương 77-Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/4.mp3",
+    "title" : "Tác giả: Priest - Chương 7+8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/40.mp3",
+    "title" : "Tác giả: Priest - Phiên ngoại 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/41.mp3",
+    "title" : "Tác giả: Priest - Phiên ngoại 2+3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/42.mp3",
+    "title" : "Tác giả: Priest - Phiên ngoại 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/5.mp3",
+    "title" : "Tác giả: Priest - Chương 9+10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/6.mp3",
+    "title" : "Tác giả: Priest - Chương 11+12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/7.mp3",
+    "title" : "Tác giả: Priest - Chương 13+14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/8.mp3",
+    "title" : "Tác giả: Priest - Chương 15+16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-nhai-khach/9.mp3",
+    "title" : "Tác giả: Priest - Chương 17+18",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

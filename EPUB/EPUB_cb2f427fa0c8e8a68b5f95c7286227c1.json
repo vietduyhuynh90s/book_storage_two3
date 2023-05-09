@@ -1,0 +1,353 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phi-vu-cuoi-lawrence-block_9552.html",
+    "title" : "Phi Vụ Cuối - Lawrence Block",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lawrence Block",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41436,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_cb2f427fa0c8e8a68b5f95c7286227c1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_cb2f427fa0c8e8a68b5f95c7286227c1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phi-vu-vuoi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1841,
+    "title" : "Phần 1,2 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1131,
+    "title" : "Phần 16 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1296,
+    "title" : "Phần 17 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1341,
+    "title" : "Phần 18, 19 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1334,
+    "title" : "Phần 20 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1716,
+    "title" : "Phần 21 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1989,
+    "title" : "Phần 22, 23 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1645,
+    "title" : "Phần 24 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1684,
+    "title" : "Phần 25, 26 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2031,
+    "title" : "Phần 27, 28 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2003,
+    "title" : "Phần 29, 30 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1545,
+    "title" : "Phần 3 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 941,
+    "title" : "Phần 31 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1581,
+    "title" : "Phần 32 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1293,
+    "title" : "Phần 33, 34 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "Phần 35, 36 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1711,
+    "title" : "Phần 37, 38 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1622,
+    "title" : "Phần 39, 40 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "Phần 41,42 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1408,
+    "title" : "Phần 4,5 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2017,
+    "title" : "Phần 6,7 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1819,
+    "title" : "Phần 8,9 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1111,
+    "title" : "Phần 10 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1488,
+    "title" : "Phần 11 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1753,
+    "title" : "Phần 12, 13 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1438,
+    "title" : "Phần 14, 15 l Lawrence Block l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phi-vu-vuoi/1.mp3",
+    "title" : "Phần 1,2 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/10.mp3",
+    "title" : "Phần 16 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/11.mp3",
+    "title" : "Phần 17 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/12.mp3",
+    "title" : "Phần 18, 19 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/13.mp3",
+    "title" : "Phần 20 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/14.mp3",
+    "title" : "Phần 21 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/15.mp3",
+    "title" : "Phần 22, 23 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/16.mp3",
+    "title" : "Phần 24 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/17.mp3",
+    "title" : "Phần 25, 26 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/18.mp3",
+    "title" : "Phần 27, 28 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/19.mp3",
+    "title" : "Phần 29, 30 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/2.mp3",
+    "title" : "Phần 3 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/20.mp3",
+    "title" : "Phần 31 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/21.mp3",
+    "title" : "Phần 32 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/22.mp3",
+    "title" : "Phần 33, 34 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/23.mp3",
+    "title" : "Phần 35, 36 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/24.mp3",
+    "title" : "Phần 37, 38 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/25.mp3",
+    "title" : "Phần 39, 40 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/26.mp3",
+    "title" : "Phần 41,42 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/3.mp3",
+    "title" : "Phần 4,5 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/4.mp3",
+    "title" : "Phần 6,7 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/5.mp3",
+    "title" : "Phần 8,9 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/6.mp3",
+    "title" : "Phần 10 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/7.mp3",
+    "title" : "Phần 11 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/8.mp3",
+    "title" : "Phần 12, 13 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-vuoi/9.mp3",
+    "title" : "Phần 14, 15 l Lawrence Block l Audiobook VTC Now",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

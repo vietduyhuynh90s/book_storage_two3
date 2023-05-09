@@ -1,0 +1,521 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hiep-dinh-30-ngay-lam-gay-lam-tri-lac_10439.html",
+    "title" : "Hiệp Định 30 Ngày Làm Gay - Lâm Tri Lạc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lâm Tri Lạc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 47269,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_3e858b283cfc9f7a8791614ff6d23a27.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_3e858b283cfc9f7a8791614ff6d23a27.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1021,
+    "title" : "Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1078,
+    "title" : "Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 969,
+    "title" : "Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1043,
+    "title" : "Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1280,
+    "title" : "Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1139,
+    "title" : "Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1384,
+    "title" : "Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 983,
+    "title" : "Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1086,
+    "title" : "Tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1084,
+    "title" : "Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 864,
+    "title" : "Tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1044,
+    "title" : "Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1256,
+    "title" : "Tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 789,
+    "title" : "Tập 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 963,
+    "title" : "Tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1497,
+    "title" : "Tập 23(H)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 709,
+    "title" : "Tập 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1328,
+    "title" : "Tập 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1161,
+    "title" : "Tập 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 869,
+    "title" : "Tập 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1111,
+    "title" : "Tập 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1287,
+    "title" : "Tập 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 961,
+    "title" : "Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1125,
+    "title" : "Tập 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1372,
+    "title" : "Tập 31 (Hôn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 747,
+    "title" : "Tập 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 897,
+    "title" : "Tập 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1164,
+    "title" : "Tập 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1098,
+    "title" : "Tập 35(H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 969,
+    "title" : "Tập 36(H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1028,
+    "title" : "Tập 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "Tập 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3348,
+    "title" : "Tập 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 938,
+    "title" : "Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 675,
+    "title" : "Tập 40 -Hết-",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 998,
+    "title" : "Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1014,
+    "title" : "Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1245,
+    "title" : "Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1052,
+    "title" : "Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 972,
+    "title" : "Tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/1.mp3",
+    "title" : "Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/10.mp3",
+    "title" : "Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/11.mp3",
+    "title" : "Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/12.mp3",
+    "title" : "Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/13.mp3",
+    "title" : "Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/14.mp3",
+    "title" : "Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/15.mp3",
+    "title" : "Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/16.mp3",
+    "title" : "Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/17.mp3",
+    "title" : "Tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/18.mp3",
+    "title" : "Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/19.mp3",
+    "title" : "Tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/2.mp3",
+    "title" : "Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/20.mp3",
+    "title" : "Tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/21.mp3",
+    "title" : "Tập 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/22.mp3",
+    "title" : "Tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/23.mp3",
+    "title" : "Tập 23(H)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/24.mp3",
+    "title" : "Tập 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/25.mp3",
+    "title" : "Tập 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/26.mp3",
+    "title" : "Tập 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/27.mp3",
+    "title" : "Tập 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/28.mp3",
+    "title" : "Tập 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/29.mp3",
+    "title" : "Tập 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/3.mp3",
+    "title" : "Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/30.mp3",
+    "title" : "Tập 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/31.mp3",
+    "title" : "Tập 31 (Hôn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/32.mp3",
+    "title" : "Tập 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/33.mp3",
+    "title" : "Tập 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/34.mp3",
+    "title" : "Tập 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/35.mp3",
+    "title" : "Tập 35(H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/36.mp3",
+    "title" : "Tập 36(H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/37.mp3",
+    "title" : "Tập 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/38.mp3",
+    "title" : "Tập 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/39.mp3",
+    "title" : "Tập 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/4.mp3",
+    "title" : "Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/40.mp3",
+    "title" : "Tập 40 -Hết-",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/5.mp3",
+    "title" : "Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/6.mp3",
+    "title" : "Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/7.mp3",
+    "title" : "Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/8.mp3",
+    "title" : "Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hiep-dinh-30-ngay-lam-gay/9.mp3",
+    "title" : "Tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

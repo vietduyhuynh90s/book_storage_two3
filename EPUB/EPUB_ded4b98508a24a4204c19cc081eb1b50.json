@@ -1,0 +1,1013 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hau-tinh-than-bien_10029.html",
+    "title" : "Hậu Tinh Thần Biến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngã Cật Tây Hồng Thị",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 212096,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_ded4b98508a24a4204c19cc081eb1b50.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_ded4b98508a24a4204c19cc081eb1b50.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "HauTinhThanBien 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "HauTinhThanBien 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "HauTinhThanBien 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "HauTinhThanBien 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "HauTinhThanBien 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2713,
+    "title" : "HauTinhThanBien 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "HauTinhThanBien 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2749,
+    "title" : "HauTinhThanBien 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "HauTinhThanBien 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2836,
+    "title" : "HauTinhThanBien 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2914,
+    "title" : "HauTinhThanBien 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2776,
+    "title" : "HauTinhThanBien 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2791,
+    "title" : "HauTinhThanBien 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2755,
+    "title" : "HauTinhThanBien 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "HauTinhThanBien 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2824,
+    "title" : "HauTinhThanBien 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2834,
+    "title" : "HauTinhThanBien 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2606,
+    "title" : "HauTinhThanBien 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "HauTinhThanBien 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2796,
+    "title" : "HauTinhThanBien 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2799,
+    "title" : "HauTinhThanBien 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "HauTinhThanBien 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "HauTinhThanBien 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2779,
+    "title" : "HauTinhThanBien 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2725,
+    "title" : "HauTinhThanBien 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2439,
+    "title" : "HauTinhThanBien 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2758,
+    "title" : "HauTinhThanBien 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2744,
+    "title" : "HauTinhThanBien 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2770,
+    "title" : "HauTinhThanBien 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "HauTinhThanBien 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "HauTinhThanBien 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2780,
+    "title" : "HauTinhThanBien 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "HauTinhThanBien 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "HauTinhThanBien 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2774,
+    "title" : "HauTinhThanBien 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2830,
+    "title" : "HauTinhThanBien 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2807,
+    "title" : "HauTinhThanBien 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2788,
+    "title" : "HauTinhThanBien 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "HauTinhThanBien 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2774,
+    "title" : "HauTinhThanBien 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "HauTinhThanBien 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2803,
+    "title" : "HauTinhThanBien 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "HauTinhThanBien 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "HauTinhThanBien 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "HauTinhThanBien 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2880,
+    "title" : "HauTinhThanBien 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2810,
+    "title" : "HauTinhThanBien 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2739,
+    "title" : "HauTinhThanBien 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2846,
+    "title" : "HauTinhThanBien 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2809,
+    "title" : "HauTinhThanBien 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2773,
+    "title" : "HauTinhThanBien 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "HauTinhThanBien 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2839,
+    "title" : "HauTinhThanBien 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "HauTinhThanBien 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2744,
+    "title" : "HauTinhThanBien 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "HauTinhThanBien 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2784,
+    "title" : "HauTinhThanBien 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "HauTinhThanBien 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2672,
+    "title" : "HauTinhThanBien 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2729,
+    "title" : "HauTinhThanBien 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2782,
+    "title" : "HauTinhThanBien 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2949,
+    "title" : "HauTinhThanBien 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2792,
+    "title" : "HauTinhThanBien 63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2749,
+    "title" : "HauTinhThanBien 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2799,
+    "title" : "HauTinhThanBien 65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2747,
+    "title" : "HauTinhThanBien 66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1847,
+    "title" : "HauTinhThanBien 67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1856,
+    "title" : "HauTinhThanBien 68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1873,
+    "title" : "HauTinhThanBien 69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1875,
+    "title" : "HauTinhThanBien 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1893,
+    "title" : "HauTinhThanBien 71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1881,
+    "title" : "HauTinhThanBien 72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1918,
+    "title" : "HauTinhThanBien 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1959,
+    "title" : "HauTinhThanBien 74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "HauTinhThanBien 75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1848,
+    "title" : "HauTinhThanBien 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1821,
+    "title" : "HauTinhThanBien 77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1842,
+    "title" : "HauTinhThanBien 78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "HauTinhThanBien 79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "HauTinhThanBien 80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "HauTinhThanBien 81",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_01.mp3",
+    "title" : "HauTinhThanBien 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_02.mp3",
+    "title" : "HauTinhThanBien 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_03.mp3",
+    "title" : "HauTinhThanBien 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_04.mp3",
+    "title" : "HauTinhThanBien 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_05.mp3",
+    "title" : "HauTinhThanBien 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_06.mp3",
+    "title" : "HauTinhThanBien 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_07.mp3",
+    "title" : "HauTinhThanBien 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_08.mp3",
+    "title" : "HauTinhThanBien 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_09.mp3",
+    "title" : "HauTinhThanBien 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_10.mp3",
+    "title" : "HauTinhThanBien 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_11.mp3",
+    "title" : "HauTinhThanBien 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_12.mp3",
+    "title" : "HauTinhThanBien 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_13.mp3",
+    "title" : "HauTinhThanBien 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_14.mp3",
+    "title" : "HauTinhThanBien 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_15.mp3",
+    "title" : "HauTinhThanBien 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_16.mp3",
+    "title" : "HauTinhThanBien 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_17.mp3",
+    "title" : "HauTinhThanBien 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_18.mp3",
+    "title" : "HauTinhThanBien 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_19.mp3",
+    "title" : "HauTinhThanBien 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_20.mp3",
+    "title" : "HauTinhThanBien 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_21.mp3",
+    "title" : "HauTinhThanBien 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_22.mp3",
+    "title" : "HauTinhThanBien 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_23.mp3",
+    "title" : "HauTinhThanBien 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_24.mp3",
+    "title" : "HauTinhThanBien 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_25.mp3",
+    "title" : "HauTinhThanBien 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_26.mp3",
+    "title" : "HauTinhThanBien 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_27.mp3",
+    "title" : "HauTinhThanBien 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_28.mp3",
+    "title" : "HauTinhThanBien 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_29.mp3",
+    "title" : "HauTinhThanBien 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_30.mp3",
+    "title" : "HauTinhThanBien 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_31.mp3",
+    "title" : "HauTinhThanBien 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_32.mp3",
+    "title" : "HauTinhThanBien 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_33.mp3",
+    "title" : "HauTinhThanBien 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_34.mp3",
+    "title" : "HauTinhThanBien 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_35.mp3",
+    "title" : "HauTinhThanBien 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_36.mp3",
+    "title" : "HauTinhThanBien 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_37.mp3",
+    "title" : "HauTinhThanBien 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_38.mp3",
+    "title" : "HauTinhThanBien 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_39.mp3",
+    "title" : "HauTinhThanBien 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_40.mp3",
+    "title" : "HauTinhThanBien 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_41.mp3",
+    "title" : "HauTinhThanBien 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_42.mp3",
+    "title" : "HauTinhThanBien 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_43.mp3",
+    "title" : "HauTinhThanBien 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_44.mp3",
+    "title" : "HauTinhThanBien 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_45.mp3",
+    "title" : "HauTinhThanBien 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_46.mp3",
+    "title" : "HauTinhThanBien 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_47.mp3",
+    "title" : "HauTinhThanBien 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_48.mp3",
+    "title" : "HauTinhThanBien 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_49.mp3",
+    "title" : "HauTinhThanBien 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_50.mp3",
+    "title" : "HauTinhThanBien 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_51.mp3",
+    "title" : "HauTinhThanBien 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_52.mp3",
+    "title" : "HauTinhThanBien 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_53.mp3",
+    "title" : "HauTinhThanBien 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_54.mp3",
+    "title" : "HauTinhThanBien 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_55.mp3",
+    "title" : "HauTinhThanBien 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_56.mp3",
+    "title" : "HauTinhThanBien 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_57.mp3",
+    "title" : "HauTinhThanBien 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_58.mp3",
+    "title" : "HauTinhThanBien 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_59.mp3",
+    "title" : "HauTinhThanBien 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_60.mp3",
+    "title" : "HauTinhThanBien 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_61.mp3",
+    "title" : "HauTinhThanBien 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_62.mp3",
+    "title" : "HauTinhThanBien 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_63.mp3",
+    "title" : "HauTinhThanBien 63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_64.mp3",
+    "title" : "HauTinhThanBien 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_65.mp3",
+    "title" : "HauTinhThanBien 65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_66.mp3",
+    "title" : "HauTinhThanBien 66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_67.mp3",
+    "title" : "HauTinhThanBien 67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_68.mp3",
+    "title" : "HauTinhThanBien 68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_69.mp3",
+    "title" : "HauTinhThanBien 69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_70.mp3",
+    "title" : "HauTinhThanBien 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_71.mp3",
+    "title" : "HauTinhThanBien 71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_72.mp3",
+    "title" : "HauTinhThanBien 72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_73.mp3",
+    "title" : "HauTinhThanBien 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_74.mp3",
+    "title" : "HauTinhThanBien 74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_75.mp3",
+    "title" : "HauTinhThanBien 75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_76.mp3",
+    "title" : "HauTinhThanBien 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_77.mp3",
+    "title" : "HauTinhThanBien 77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_78.mp3",
+    "title" : "HauTinhThanBien 78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_79.mp3",
+    "title" : "HauTinhThanBien 79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_80.mp3",
+    "title" : "HauTinhThanBien 80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HauTinhThanBien/HauTinhThanBien_81.mp3",
+    "title" : "HauTinhThanBien 81",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

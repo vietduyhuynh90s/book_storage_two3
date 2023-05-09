@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-ngoai-thoi-susie-morgenstern_10325.html",
+    "title" : "Bà Ngoại Thời @ - Susie Morgenstern",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Susie Morgenstern",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14153,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_ead5f6a1df45f66e198f6c7d7d66a23d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_ead5f6a1df45f66e198f6c7d7d66a23d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ba-ngoai-thoi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4207,
+    "title" : "Audio BÀ NGOẠI THỜI @ – CÂU CHUYỆN ĐẸP VỀ TÌNH CẢM GIA ĐÌNH Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-ngoai-thoi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Audio BÀ NGOẠI THỜI @ – CÂU CHUYỆN ĐẸP VỀ TÌNH CẢM GIA ĐÌNH Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-ngoai-thoi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3611,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-ngoai-thoi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2453,
+    "title" : "Audio BÀ NGOẠI THỜI @ – CÂU CHUYỆN ĐẸP VỀ TÌNH CẢM GIA ĐÌNH Phần 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ba-ngoai-thoi/1.mp3",
+    "title" : "Audio BÀ NGOẠI THỜI @ – CÂU CHUYỆN ĐẸP VỀ TÌNH CẢM GIA ĐÌNH Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-ngoai-thoi/2.mp3",
+    "title" : "Audio BÀ NGOẠI THỜI @ – CÂU CHUYỆN ĐẸP VỀ TÌNH CẢM GIA ĐÌNH Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-ngoai-thoi/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-ngoai-thoi/4.mp3",
+    "title" : "Audio BÀ NGOẠI THỜI @ – CÂU CHUYỆN ĐẸP VỀ TÌNH CẢM GIA ĐÌNH Phần 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

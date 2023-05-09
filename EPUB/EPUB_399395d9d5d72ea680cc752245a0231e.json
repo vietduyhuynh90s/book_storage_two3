@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-chim-xanh-biec-bay-ve_19126.html",
+    "title" : "Con Chim Xanh Biếc Bay Về",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30426,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_399395d9d5d72ea680cc752245a0231e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_399395d9d5d72ea680cc752245a0231e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "con-chim-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4776,
+    "title" : "con-chim-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5723,
+    "title" : "con-chim-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3880,
+    "title" : "con-chim-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4677,
+    "title" : "con-chim-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8344,
+    "title" : "con-chim-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-1.mp3",
+    "title" : "con-chim-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-2.mp3",
+    "title" : "con-chim-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-3.mp3",
+    "title" : "con-chim-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-4.mp3",
+    "title" : "con-chim-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-5.mp3",
+    "title" : "con-chim-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-chim-1/con-chim-6.mp3",
+    "title" : "con-chim-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

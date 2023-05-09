@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phe-hau-tuong-quan_12554.html",
+    "title" : "Phế Hậu Tướng Quân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhất Độ Quân Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12100,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_470fa2f0e7177b96602ff85e6a07f004.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_470fa2f0e7177b96602ff85e6a07f004.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuong-quan-si-tinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4918,
+    "title" : "Tướng Quân Si Tình - Phần 1, Truyện Ngôn Tình Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuong-quan-si-tinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3313,
+    "title" : "Tướng Quân Si Tình - Phần 2, Truyện Ngôn Tình Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuong-quan-si-tinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2690,
+    "title" : "Tướng Quân Si Tình - Phần 3, Truyện Ngôn Tình Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuong-quan-si-tinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1179,
+    "title" : "Tướng Quân Si Tình - Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuong-quan-si-tinh/1.mp3",
+    "title" : "Tướng Quân Si Tình - Phần 1, Truyện Ngôn Tình Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuong-quan-si-tinh/2.mp3",
+    "title" : "Tướng Quân Si Tình - Phần 2, Truyện Ngôn Tình Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuong-quan-si-tinh/3.mp3",
+    "title" : "Tướng Quân Si Tình - Phần 3, Truyện Ngôn Tình Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuong-quan-si-tinh/4.mp3",
+    "title" : "Tướng Quân Si Tình - Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

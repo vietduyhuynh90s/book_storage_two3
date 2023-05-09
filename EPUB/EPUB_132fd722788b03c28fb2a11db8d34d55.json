@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bach-ho-tinh-quan-uu-dam-hoa_11452.html",
+    "title" : "Bạch Hổ Tinh Quân - Ưu Đàm Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ưu Đàm Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 78956,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_132fd722788b03c28fb2a11db8d34d55.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_132fd722788b03c28fb2a11db8d34d55.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7414,
+    "title" : "MINH CHỦ VÕ LÂM | PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11102,
+    "title" : "QUỶ HỒ LY ĐẮC ĐẠO | PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8569,
+    "title" : "TẬP 3 ĐẠI HIỆP | PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5561,
+    "title" : "TẬP 4 MINH CHỦ VÕ LÂM | PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11241,
+    "title" : "TRANH ĐOẠT | PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8483,
+    "title" : "TẬP 6 VÕ LÂM DẬY SÓNG | PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12177,
+    "title" : "TẬP 7 ÁC NHÂN | PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14409,
+    "title" : "TẬP CUỐI | PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/1.mp3",
+    "title" : "MINH CHỦ VÕ LÂM | PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/2.mp3",
+    "title" : "QUỶ HỒ LY ĐẮC ĐẠO | PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/3.mp3",
+    "title" : "TẬP 3 ĐẠI HIỆP | PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/4.mp3",
+    "title" : "TẬP 4 MINH CHỦ VÕ LÂM | PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/5.mp3",
+    "title" : "TRANH ĐOẠT | PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/6.mp3",
+    "title" : "TẬP 6 VÕ LÂM DẬY SÓNG | PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/7.mp3",
+    "title" : "TẬP 7 ÁC NHÂN | PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bh/8.mp3",
+    "title" : "TẬP CUỐI | PHI TÙNG",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dong-nhan-tam-cam-doan-niem_13020.html",
+    "title" : "[Đồng Nhân Tấm Cám] Đoạn Niệm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bích Hồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33505,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9d06d806ed96d1ce8ec8a404a5b60533.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9d06d806ed96d1ce8ec8a404a5b60533.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 1 ] - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3749,
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 2 ] - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4048,
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 3 ] - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4081,
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 4 ] - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4135,
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 5 ] - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3945,
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 6 ] - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4671,
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 7 ] - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5064,
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 8 END ] - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/1.mp3",
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 1 ] - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/2.mp3",
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 2 ] - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/3.mp3",
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 3 ] - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/4.mp3",
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 4 ] - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/5.mp3",
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 5 ] - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/6.mp3",
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 6 ] - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/7.mp3",
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 7 ] - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-nhan-tam-cam-doan-niem/8.mp3",
+    "title" : "ĐỒNG NHÂN TẤM CÁM ĐOẠN NIỆM [ Tập 8 END ] - Diễn đọc Bi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

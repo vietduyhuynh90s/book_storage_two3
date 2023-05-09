@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bach-khoa-yeu-thuong-lan-rua_11888.html",
+    "title" : "Bách Khoa Yêu Thương - Lan Rùa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lan Rùa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25856,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9b57c547a32860a64717fc2a351d5091.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9b57c547a32860a64717fc2a351d5091.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bachkhoayeuthuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15546,
+    "title" : "Truyện Ngắn Hay Cười Muốn Rụng Rốn ♥ TG Lan Rùa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bachkhoayeuthuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5512,
+    "title" : "Bách Khoa Yêu Thương (Up 2018)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bachkhoayeuthuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4798,
+    "title" : "Kết Thúc - Truyện Ngắn Hay Dễ Thương",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bachkhoayeuthuong/1.mp3",
+    "title" : "Truyện Ngắn Hay Cười Muốn Rụng Rốn ♥ TG Lan Rùa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bachkhoayeuthuong/2.mp3",
+    "title" : "Bách Khoa Yêu Thương (Up 2018)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bachkhoayeuthuong/3.mp3",
+    "title" : "Kết Thúc - Truyện Ngắn Hay Dễ Thương",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xich-quy-kiem-minh-nguyet-vo-uu_11883.html",
+    "title" : "Xích Quỷ Kiếm - Minh Nguyệt Vô Ưu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nguyệt Vô Ưu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 91044,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_44286118ed77c35fb33eabbd4a11f3ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_44286118ed77c35fb33eabbd4a11f3ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xinhquykiem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 360,
+    "title" : "Xích Quỷ Kiếm ( Chương Mở Đầu ) Khởi Thủy _ Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 9 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3912,
+    "title" : "Xích Quỷ Kiếm ( Tập 10 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "Xích Quỷ Kiếm ( Tập 11 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3872,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 12 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3872,
+    "title" : "Xích Quỷ Kiếm ( Tập 13 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3906,
+    "title" : "Xích Quỷ Kiếm ( Tập 14 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3894,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 15 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "Xích Quỷ Kiếm ( Tập 16 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3908,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 17 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3932,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 18 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "Xích Quỷ Kiếm ( Tập 1 ) Biến Cố Vạn Trùng Sơn _ Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3894,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 19 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 20 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3938,
+    "title" : "Xích Quỷ Kiếm ( Tập 21 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3898,
+    "title" : "Xích Quỷ Kiếm ( Tập 22 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "Xích Quỷ Kiếm ( Tập 23 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1824,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 24 ) The End _ Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3972,
+    "title" : "Xích Quỷ Kiếm ( Tập 2 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 3 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3964,
+    "title" : "Xích Quỷ Kiếm ( Tập 4 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3342,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 5 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 6 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3876,
+    "title" : "Xích Quỷ Kiếm ( Tập 7 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3908,
+    "title" : "Xích Quỷ Kiếm ( Tập 8 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xinhquykiem/1.mp3",
+    "title" : "Xích Quỷ Kiếm ( Chương Mở Đầu ) Khởi Thủy _ Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/10.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 9 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/11.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 10 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/12.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 11 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/13.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 12 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/14.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 13 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/15.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 14 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/16.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 15 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/17.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 16 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/18.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 17 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/19.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 18 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/2.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 1 ) Biến Cố Vạn Trùng Sơn _ Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/20.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 19 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/21.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 20 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/22.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 21 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/23.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 22 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/24.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 23 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/25.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 24 ) The End _ Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/3.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 2 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/4.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 3 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/5.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 4 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/6.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 5 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/7.mp3",
+    "title" : "Xích Quỷ Kiếm H+ ( Tập 6 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/8.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 7 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xinhquykiem/9.mp3",
+    "title" : "Xích Quỷ Kiếm ( Tập 8 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

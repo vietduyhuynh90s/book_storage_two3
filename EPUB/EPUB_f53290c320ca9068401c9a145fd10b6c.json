@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/loi-nguyen-lau-lan_15009.html",
+    "title" : "Lời Nguyền Lâu Lan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sái Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 47781,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_f53290c320ca9068401c9a145fd10b6c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_f53290c320ca9068401c9a145fd10b6c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3621,
+    "title" : "Truyện ma trinh thám cực hay | Lời nguyền lâu lan | MC phú cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4513,
+    "title" : "lời nguyền lâu lan tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3166,
+    "title" : "Lời nguyền Lâu Lan tập 11 | Lang thang trên hoang mạc | mc phú cường kể lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "Lời nguyền lâu lan tập 12 | Truyện ma trinh thám mới nhất năm 2020 | do Phú Cường kể lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3348,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3224,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3372,
+    "title" : "Truyện kinh dị trinh thám mới nhất | Lời nguyền lâu lan Tập 2 | mc phú cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3268,
+    "title" : "Truyện ma trinh thám mới nhất | Lời nguyền lâu lan tập 3 | mc phú cường kể lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3061,
+    "title" : "Truyện ma trinh thám cực hay | lời nguyền lâu lan tập 4 | do mc phú cường kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "Lời nguyền lâu lan tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "Truyện ma trinh thám năm 2020 | Lời nguyền lâu lan tập 6 | do mc phú cường kể lại rất hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3473,
+    "title" : "Lời nguyền lâu lan tập 7 | truyện ma cực hay do phú cường kể lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3144,
+    "title" : "Lời nguyền lâu lan tập 8 | Truyện ma trinh thám mới nhất do phú cường kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "Lời nguyền lâu lan tập 9 | truyện ma trinh thám 2020 hay nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/1.mp3",
+    "title" : "Truyện ma trinh thám cực hay | Lời nguyền lâu lan | MC phú cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/10.mp3",
+    "title" : "lời nguyền lâu lan tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/11.mp3",
+    "title" : "Lời nguyền Lâu Lan tập 11 | Lang thang trên hoang mạc | mc phú cường kể lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/12.mp3",
+    "title" : "Lời nguyền lâu lan tập 12 | Truyện ma trinh thám mới nhất năm 2020 | do Phú Cường kể lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/2.mp3",
+    "title" : "Truyện kinh dị trinh thám mới nhất | Lời nguyền lâu lan Tập 2 | mc phú cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/3.mp3",
+    "title" : "Truyện ma trinh thám mới nhất | Lời nguyền lâu lan tập 3 | mc phú cường kể lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/4.mp3",
+    "title" : "Truyện ma trinh thám cực hay | lời nguyền lâu lan tập 4 | do mc phú cường kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/5.mp3",
+    "title" : "Lời nguyền lâu lan tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/6.mp3",
+    "title" : "Truyện ma trinh thám năm 2020 | Lời nguyền lâu lan tập 6 | do mc phú cường kể lại rất hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/7.mp3",
+    "title" : "Lời nguyền lâu lan tập 7 | truyện ma cực hay do phú cường kể lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/8.mp3",
+    "title" : "Lời nguyền lâu lan tập 8 | Truyện ma trinh thám mới nhất do phú cường kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-lau-lan/9.mp3",
+    "title" : "Lời nguyền lâu lan tập 9 | truyện ma trinh thám 2020 hay nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

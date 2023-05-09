@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chan-troi-cu_17488.html",
+    "title" : "Chân Trời Cũ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Dzếnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15045,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_58af7965629320adf4565748e1651c13.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_58af7965629320adf4565748e1651c13.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "01. Chân trời cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1955,
+    "title" : "02. Chân trời cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2152,
+    "title" : "03. Chân trời cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1546,
+    "title" : "04. Chân trời cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2271,
+    "title" : "05. Chân trời cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1867,
+    "title" : "06. Chân trời cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2332,
+    "title" : "07. Chân trời cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1410,
+    "title" : "08. Chân trời cũ (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-01.mp3",
+    "title" : "01. Chân trời cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-02.mp3",
+    "title" : "02. Chân trời cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-03.mp3",
+    "title" : "03. Chân trời cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-04.mp3",
+    "title" : "04. Chân trời cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-05.mp3",
+    "title" : "05. Chân trời cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-06.mp3",
+    "title" : "06. Chân trời cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-07.mp3",
+    "title" : "07. Chân trời cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chan-troi-cu-sachnoiviet/Chan-Troi-Cu-08.mp3",
+    "title" : "08. Chân trời cũ (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

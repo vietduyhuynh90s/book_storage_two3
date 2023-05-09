@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-toa-thanh-dang-cho-anh-cuu-nguyet-hi_11367.html",
+    "title" : "Một Tòa Thành Đang Chờ Anh - Cửu Nguyệt Hi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Nguyệt Hi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 73397,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_468bd11b4d857f26012d56b6273577ab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_468bd11b4d857f26012d56b6273577ab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4876,
+    "title" : "Cửu Nguyệt Hi - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "Cửu Nguyệt Hi - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3803,
+    "title" : "Cửu Nguyệt Hi - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9130,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5019,
+    "title" : "Cửu Nguyệt Hi - Phần 13 (gộp)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3112,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7032,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4775,
+    "title" : "Cửu Nguyệt Hi - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3472,
+    "title" : "Cửu Nguyệt Hi - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6193,
+    "title" : "Cửu Nguyệt Hi - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4951,
+    "title" : "Cửu Nguyệt Hi - Phần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3797,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4533,
+    "title" : "Cửu Nguyệt Hi - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5187,
+    "title" : "Cửu Nguyệt Hi - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "Cửu Nguyệt Hi - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/1.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/10.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/11.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/13.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 13 (gộp)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/2.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/3.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/4.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/5.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/7.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/8.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-toa-thanh-dang-cho-anh/9.mp3",
+    "title" : "Cửu Nguyệt Hi - Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

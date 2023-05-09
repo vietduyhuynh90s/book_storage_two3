@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trong-sinh-thien-kim-tro-ve_15076.html",
+    "title" : "Trọng Sinh Thiên Kim Trở Về",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thập Tam Xuân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 71363,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_085ac3e62d91ce369ce0022b8a565305.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_085ac3e62d91ce369ce0022b8a565305.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4053,
+    "title" : "Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường hay nhất 2020|Siêu phẩm ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4717,
+    "title" : "[Phần10]Trùng sinh thiên kim trở về|Truyện ngôn tình trọng sinh,nữ cường cực hay|Siêu phẩm ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3983,
+    "title" : "[Phần 10] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường cực hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "[Phần 12] Trùng sinh thiên kim trở về|Truyện ngôn tình trọng sinh, nữ cường| Siêu phẩm ngôn tình hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4560,
+    "title" : "[Phần 13] Trùng sinh thiên kim trở lại| Truyện ngôn tình trọng sinh, nữ cường cực hay 2020|Siêu phẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4584,
+    "title" : "[Phần 14] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4148,
+    "title" : "[Phần 15] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường cực hay| Siêu phẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4089,
+    "title" : "[Phần 16] Trùng sinh thiên kim trở lại| Siêu phẩm truyện ngôn tình trọng sinh, nữ cường cực hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "[Đại kết cục] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường hay nhất| Tập cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "[Phần 2] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường siêu hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4292,
+    "title" : "[Phần 3] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường cực hay 2020| Siêu phẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4265,
+    "title" : "[Phần 4] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường| Siêu phẩm ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4148,
+    "title" : "[Phần 5] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường| Siêu phẩm ngôn tình hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4307,
+    "title" : "[Phần 6] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường hay| Siêu phẩm ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5175,
+    "title" : "[Phần 7] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường| Siêu phẩm ngôn tình hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3995,
+    "title" : "[Phần 8]Trùng sinh thiên kim trở về|Truyện ngôn tình trọng sinh nữ cường cực hay|Siêu phẩm ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4280,
+    "title" : "[Phần9]Trùng sinh thiên kim trở về|Truyện ngôn tình trọng sinh, nữ cường cực hay|Siêu phẩm ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/1.mp3",
+    "title" : "Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường hay nhất 2020|Siêu phẩm ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/10.mp3",
+    "title" : "[Phần10]Trùng sinh thiên kim trở về|Truyện ngôn tình trọng sinh,nữ cường cực hay|Siêu phẩm ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/11.mp3",
+    "title" : "[Phần 10] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường cực hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/12.mp3",
+    "title" : "[Phần 12] Trùng sinh thiên kim trở về|Truyện ngôn tình trọng sinh, nữ cường| Siêu phẩm ngôn tình hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/13.mp3",
+    "title" : "[Phần 13] Trùng sinh thiên kim trở lại| Truyện ngôn tình trọng sinh, nữ cường cực hay 2020|Siêu phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/14.mp3",
+    "title" : "[Phần 14] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/15.mp3",
+    "title" : "[Phần 15] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường cực hay| Siêu phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/16.mp3",
+    "title" : "[Phần 16] Trùng sinh thiên kim trở lại| Siêu phẩm truyện ngôn tình trọng sinh, nữ cường cực hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/17.mp3",
+    "title" : "[Đại kết cục] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường hay nhất| Tập cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/2.mp3",
+    "title" : "[Phần 2] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường siêu hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/3.mp3",
+    "title" : "[Phần 3] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường cực hay 2020| Siêu phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/4.mp3",
+    "title" : "[Phần 4] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường| Siêu phẩm ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/5.mp3",
+    "title" : "[Phần 5] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường| Siêu phẩm ngôn tình hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/6.mp3",
+    "title" : "[Phần 6] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường hay| Siêu phẩm ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/7.mp3",
+    "title" : "[Phần 7] Trùng sinh thiên kim trở về| Truyện ngôn tình trọng sinh, nữ cường| Siêu phẩm ngôn tình hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/8.mp3",
+    "title" : "[Phần 8]Trùng sinh thiên kim trở về|Truyện ngôn tình trọng sinh nữ cường cực hay|Siêu phẩm ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-thien-kim-tro-ve/9.mp3",
+    "title" : "[Phần9]Trùng sinh thiên kim trở về|Truyện ngôn tình trọng sinh, nữ cường cực hay|Siêu phẩm ngôn tình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

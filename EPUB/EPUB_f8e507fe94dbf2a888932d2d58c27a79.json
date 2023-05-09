@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tim-lai-gia-tri-cuoc-song_16904.html",
+    "title" : "Tìm Lại Giá Trị Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7100,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_f8e507fe94dbf2a888932d2d58c27a79.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_f8e507fe94dbf2a888932d2d58c27a79.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 380,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/02-ky_uc_ve_hai_nguoi_ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 294,
+    "title" : "Ký ức về hai người bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/03-chiec_nhan_vang_nho_nho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 584,
+    "title" : "Chiếc nhẫn vàng nho nhỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/04-khieu_vu_voi_voi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 518,
+    "title" : "Khiêu vũ với voi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/05-chiec_ghe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 262,
+    "title" : "Chiếc ghế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/06-mau_den_co_ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 382,
+    "title" : "Màu đen là một màu cơ bản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/07-jack_nguoi_ban_tot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 548,
+    "title" : "Jack, người bạn tốt nhất của tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/08-dieu_chua_noi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 584,
+    "title" : "Điều chưa nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/09-khoanh_khac_cua_su_tinh_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 620,
+    "title" : "Khoảnh khắc của sự tỉnh táo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/10-nhung_giot_nuoc_mat_chua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 392,
+    "title" : "Những giọt nước mắt chữa lành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/11-nguoi_ngoi_mot_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 438,
+    "title" : "Người ngồi một mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/12-tim_kiem_mot_tin_hieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 520,
+    "title" : "Tìm kiếm một tín hiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/13-tim_thay_nhung_khoanh_kh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 332,
+    "title" : "Tìm thấy những khoảnh khắc cứu chữa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/14-toi_la_ai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 498,
+    "title" : "Tôi là ai, điều ấy do tôi tự quyết định",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/15-buc_thu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 748,
+    "title" : "Bức thư",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/02-ky_uc_ve_hai_nguoi_ban.mp3",
+    "title" : "Ký ức về hai người bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/03-chiec_nhan_vang_nho_nho.mp3",
+    "title" : "Chiếc nhẫn vàng nho nhỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/04-khieu_vu_voi_voi.mp3",
+    "title" : "Khiêu vũ với voi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/05-chiec_ghe.mp3",
+    "title" : "Chiếc ghế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/06-mau_den_co_ban.mp3",
+    "title" : "Màu đen là một màu cơ bản",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/07-jack_nguoi_ban_tot.mp3",
+    "title" : "Jack, người bạn tốt nhất của tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/08-dieu_chua_noi.mp3",
+    "title" : "Điều chưa nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/09-khoanh_khac_cua_su_tinh_.mp3",
+    "title" : "Khoảnh khắc của sự tỉnh táo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/10-nhung_giot_nuoc_mat_chua.mp3",
+    "title" : "Những giọt nước mắt chữa lành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/11-nguoi_ngoi_mot_minh.mp3",
+    "title" : "Người ngồi một mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/12-tim_kiem_mot_tin_hieu.mp3",
+    "title" : "Tìm kiếm một tín hiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/13-tim_thay_nhung_khoanh_kh.mp3",
+    "title" : "Tìm thấy những khoảnh khắc cứu chữa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/14-toi_la_ai.mp3",
+    "title" : "Tôi là ai, điều ấy do tôi tự quyết định",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss12-timLaiGiaTriCuocSong/15-buc_thu.mp3",
+    "title" : "Bức thư",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tim-ve-suc-manh-vo-bien_20225.html",
+    "title" : "Tìm Về Sức Mạnh Vô Biên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robin Sharma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17143,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_847db246d72807f101e5921acea55395.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_847db246d72807f101e5921acea55395.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4098,
+    "title" : "TIM VE SUC MANH VO BIEN 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "TIM VE SUC MANH VO BIEN 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1849,
+    "title" : "TIM VE SUC MANH VO BIEN 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4266,
+    "title" : "TIM VE SUC MANH VO BIEN 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2138,
+    "title" : "TIM VE SUC MANH VO BIEN 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "TIM VE SUC MANH VO BIEN 06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_01.mp3",
+    "title" : "TIM VE SUC MANH VO BIEN 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_02.mp3",
+    "title" : "TIM VE SUC MANH VO BIEN 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_03.mp3",
+    "title" : "TIM VE SUC MANH VO BIEN 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_04.mp3",
+    "title" : "TIM VE SUC MANH VO BIEN 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_05.mp3",
+    "title" : "TIM VE SUC MANH VO BIEN 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tim-ve-suc-manh-vo-bien.sna/TIM_VE_SUC_MANH_VO_BIEN_06.mp3",
+    "title" : "TIM VE SUC MANH VO BIEN 06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,461 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ly-trieu-di-truyen_12194.html",
+    "title" : "Lý Triều Dị Truyện",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Cuồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 49452,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_272ba11f55d673ff6548c595e17da1e9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_272ba11f55d673ff6548c595e17da1e9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1210,
+    "title" : "Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1283,
+    "title" : "Cây mặt người - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "Hoang mạc cõi người - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1287,
+    "title" : "Bạch Cốt ải - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1555,
+    "title" : "Bách trùng táng thuật - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1467,
+    "title" : "Du hồn giả - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1822,
+    "title" : "Xương Cuồng Giáo - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1205,
+    "title" : "Thuần Long thuật - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1406,
+    "title" : "Con Tà Đại Điên - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1345,
+    "title" : "Nước Nam Hồng - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1386,
+    "title" : "Nam Bình Vương - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1155,
+    "title" : "Quan Tài Kép - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1289,
+    "title" : "Cuồng Thử Dược - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1081,
+    "title" : "Cơn ngứa - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 480,
+    "title" : "Đà Quỷ Phụ - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1410,
+    "title" : "Trường Nha Cuồng Lang Tướng - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1330,
+    "title" : "Bách Quỷ dạ hành - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1180,
+    "title" : "Vọng phu hậu truyện - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1259,
+    "title" : "Những đám rước - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1213,
+    "title" : "Liếm - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1279,
+    "title" : "Xé gân Gà - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "Thống khổ hoan lạc khúc - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1965,
+    "title" : "Linh Miêu - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2155,
+    "title" : "Ngợm Lão Tử - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1414,
+    "title" : "Xương Cuồng Giáo - Thâm Khảo - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1360,
+    "title" : "Đại Lễ Tụ Giáo Chúng - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1878,
+    "title" : "Hồi 32 - Mùi tóc cháy - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2026,
+    "title" : "Hồi 33 - Đực và Cái - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 646,
+    "title" : "Hồi 34: KẾT - Tiếu đàm nơi hiếu sự - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1259,
+    "title" : "Hoang Thai - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "Giao Ước - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 969,
+    "title" : "Bạch Hổ Nguyên Âm - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1871,
+    "title" : "Giáp cước biến - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1439,
+    "title" : "Thạch động - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1471,
+    "title" : "Thuật giả giang hồ - Phan Cuồng [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/1.mp3",
+    "title" : "Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/10.mp3",
+    "title" : "Cây mặt người - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/11.mp3",
+    "title" : "Hoang mạc cõi người - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/12.mp3",
+    "title" : "Bạch Cốt ải - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/13.mp3",
+    "title" : "Bách trùng táng thuật - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/14.mp3",
+    "title" : "Du hồn giả - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/15.mp3",
+    "title" : "Xương Cuồng Giáo - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/16.mp3",
+    "title" : "Thuần Long thuật - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/17.mp3",
+    "title" : "Con Tà Đại Điên - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/18.mp3",
+    "title" : "Nước Nam Hồng - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/19.mp3",
+    "title" : "Nam Bình Vương - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/2.mp3",
+    "title" : "Quan Tài Kép - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/20.mp3",
+    "title" : "Cuồng Thử Dược - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/21.mp3",
+    "title" : "Cơn ngứa - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/22.mp3",
+    "title" : "Đà Quỷ Phụ - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/23.mp3",
+    "title" : "Trường Nha Cuồng Lang Tướng - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/24.mp3",
+    "title" : "Bách Quỷ dạ hành - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/25.mp3",
+    "title" : "Vọng phu hậu truyện - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/26.mp3",
+    "title" : "Những đám rước - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/27.mp3",
+    "title" : "Liếm - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/28.mp3",
+    "title" : "Xé gân Gà - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/29.mp3",
+    "title" : "Thống khổ hoan lạc khúc - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/3.mp3",
+    "title" : "Linh Miêu - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/30.mp3",
+    "title" : "Ngợm Lão Tử - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/31.mp3",
+    "title" : "Xương Cuồng Giáo - Thâm Khảo - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/32.mp3",
+    "title" : "Đại Lễ Tụ Giáo Chúng - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/33.mp3",
+    "title" : "Hồi 32 - Mùi tóc cháy - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/34.mp3",
+    "title" : "Hồi 33 - Đực và Cái - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/35.mp3",
+    "title" : "Hồi 34: KẾT - Tiếu đàm nơi hiếu sự - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/4.mp3",
+    "title" : "Hoang Thai - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/5.mp3",
+    "title" : "Giao Ước - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/6.mp3",
+    "title" : "Bạch Hổ Nguyên Âm - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/7.mp3",
+    "title" : "Giáp cước biến - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/8.mp3",
+    "title" : "Thạch động - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-trieu-di-truyen/9.mp3",
+    "title" : "Thuật giả giang hồ - Phan Cuồng [MC Viết Linh]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

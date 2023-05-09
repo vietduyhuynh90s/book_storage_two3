@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi-tuc-xuan-le-hinh-quan-lan_4809.html",
+    "title" : "Trí Tuệ Kinh Doanh và Lý Thuyết Trò Chơi - Túc Xuân Lễ & Hình Quần Lân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Túc Xuân Lễ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16632,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_78aef3571bf254ffc23bfd86d6f1714e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_78aef3571bf254ffc23bfd86d6f1714e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/01.C01C02_LuaChonLaMotTroChoi_BienYeuThanhManh_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2113,
+    "title" : "01.C01C02 LuaChonLaMotTroChoi BienYeuThanhManh TriTueKinhDoanhVaLyThuyetTroChoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/02.C03_GianhChienThangNhoSachLuocToiUu_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1837,
+    "title" : "02.C03 GianhChienThangNhoSachLuocToiUu TriTueKinhDoanhVaLyThuyetTroChoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/03.C04C05_LuatChoiNguocVoiSoDong_HopTac_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1778,
+    "title" : "03.C04C05 LuatChoiNguocVoiSoDong HopTac TriTueKinhDoanhVaLyThuyetTroChoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/04.C06C07_SachLuoc_KetHopAmDuong_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2423,
+    "title" : "04.C06C07 SachLuoc KetHopAmDuong TriTueKinhDoanhVaLyThuyetTroChoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/05.C08C09_TranhThietTronLoi_GiauKyAtChuBai_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2419,
+    "title" : "05.C08C09 TranhThietTronLoi GiauKyAtChuBai TriTueKinhDoanhVaLyThuyetTroChoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/06.C10_TuNhanhNhenDenChienThang_TriTuyKinhDoanhVaLyThuyetTroChoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1776,
+    "title" : "06.C10 TuNhanhNhenDenChienThang TriTuyKinhDoanhVaLyThuyetTroChoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/07.C11C12_NhinXaTrongRong_TuLucCanhSinh_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2095,
+    "title" : "07.C11C12 NhinXaTrongRong TuLucCanhSinh TriTueKinhDoanhVaLyThuyetTroChoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/08.C13C14_QuanHeXaHoi_TuDuyQuyetDinhCuocDoi_Het_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2191,
+    "title" : "08.C13C14 QuanHeXaHoi TuDuyQuyetDinhCuocDoi Het TriTueKinhDoanhVaLyThuyetTroChoi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/01.C01C02_LuaChonLaMotTroChoi_BienYeuThanhManh_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "title" : "01.C01C02 LuaChonLaMotTroChoi BienYeuThanhManh TriTueKinhDoanhVaLyThuyetTroChoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/02.C03_GianhChienThangNhoSachLuocToiUu_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "title" : "02.C03 GianhChienThangNhoSachLuocToiUu TriTueKinhDoanhVaLyThuyetTroChoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/03.C04C05_LuatChoiNguocVoiSoDong_HopTac_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "title" : "03.C04C05 LuatChoiNguocVoiSoDong HopTac TriTueKinhDoanhVaLyThuyetTroChoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/04.C06C07_SachLuoc_KetHopAmDuong_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "title" : "04.C06C07 SachLuoc KetHopAmDuong TriTueKinhDoanhVaLyThuyetTroChoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/05.C08C09_TranhThietTronLoi_GiauKyAtChuBai_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "title" : "05.C08C09 TranhThietTronLoi GiauKyAtChuBai TriTueKinhDoanhVaLyThuyetTroChoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/06.C10_TuNhanhNhenDenChienThang_TriTuyKinhDoanhVaLyThuyetTroChoi.mp3",
+    "title" : "06.C10 TuNhanhNhenDenChienThang TriTuyKinhDoanhVaLyThuyetTroChoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/07.C11C12_NhinXaTrongRong_TuLucCanhSinh_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "title" : "07.C11C12 NhinXaTrongRong TuLucCanhSinh TriTueKinhDoanhVaLyThuyetTroChoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi.sna/08.C13C14_QuanHeXaHoi_TuDuyQuyetDinhCuocDoi_Het_TriTueKinhDoanhVaLyThuyetTroChoi.mp3",
+    "title" : "08.C13C14 QuanHeXaHoi TuDuyQuyetDinhCuocDoi Het TriTueKinhDoanhVaLyThuyetTroChoi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

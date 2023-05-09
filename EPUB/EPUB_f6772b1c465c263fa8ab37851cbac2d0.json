@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vi-gio-o-noi-ay_14513.html",
+    "title" : "Vì Gió Ở Nơi Ấy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Nguyệt Hi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 55469,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_f6772b1c465c263fa8ab37851cbac2d0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_f6772b1c465c263fa8ab37851cbac2d0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2655,
+    "title" : "Phần 1 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5724,
+    "title" : "Phần 2 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3970,
+    "title" : "Phần 3 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4644,
+    "title" : "Phần 4 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6976,
+    "title" : "Phần 5 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7058,
+    "title" : "Phần 6 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8473,
+    "title" : "Phần 7 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6955,
+    "title" : "Phần 8 - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9014,
+    "title" : "Phần 9 (End) - Đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/1.mp3",
+    "title" : "Phần 1 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/2.mp3",
+    "title" : "Phần 2 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/3.mp3",
+    "title" : "Phần 3 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/4.mp3",
+    "title" : "Phần 4 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/5.mp3",
+    "title" : "Phần 5 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/6.mp3",
+    "title" : "Phần 6 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/7.mp3",
+    "title" : "Phần 7 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/8.mp3",
+    "title" : "Phần 8 - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-gio-o-noi-ay/9.mp3",
+    "title" : "Phần 9 (End) - Đọc truyện ngôn tình audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

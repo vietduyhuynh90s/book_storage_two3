@@ -1,0 +1,629 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phat-mon-ac-the_15782.html",
+    "title" : "Phật Môn Ác Thê",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Nguyên Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 174233,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_b2aae06caa18cd294aa172afdfffd80b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_b2aae06caa18cd294aa172afdfffd80b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phat-mon-ac-the/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3461,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3415,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2291,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3158,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3933,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3511,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3639,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3462,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2818,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4011,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3811,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3046,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3639,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3467,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3795,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3123,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3531,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3839,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4183,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3898,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3622,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3371,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2952,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3568,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4279,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3541,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3173,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3469,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3891,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4507,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 49 (hết)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3337,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3742,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3138,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3292,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3338,
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phat-mon-ac-the/1.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/10.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/11.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/12.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/13.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/14.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/15.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/16.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/17.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/18.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/19.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/2.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/20.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/21.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/22.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/23.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/24.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/25.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/26.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/27.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/28.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/29.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/3.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/30.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/31.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/32.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/33.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/34.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/35.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/36.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/37.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/38.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/39.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/4.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/40.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/41.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/42.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/43.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/44.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/45.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/46.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/47.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/48.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/49.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 49 (hết)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/5.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/6.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/7.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/8.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phat-mon-ac-the/9.mp3",
+    "title" : "[Đam mỹ] PHẬT MÔN ÁC THÊ tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

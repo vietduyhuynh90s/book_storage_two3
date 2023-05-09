@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-yeu-thinh-the-cua-thieu-tuong_13404.html",
+    "title" : "Vợ Yêu Thịnh Thế Của Thiếu Tướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Cảnh Chi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 79572,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_b6a20e236de63ff2586ca905ff9c990d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_b6a20e236de63ff2586ca905ff9c990d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "Tập 1, Truyện Ngôn Tình Hay | MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2771,
+    "title" : "Tập 10 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3956,
+    "title" : "Tập 11 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2872,
+    "title" : "Tập 12 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3132,
+    "title" : "Tập 13 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "Tập 14 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3145,
+    "title" : "Tập 15 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3252,
+    "title" : "Tập 16 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "Tập 17 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3413,
+    "title" : "Tập 18 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3108,
+    "title" : "Tập 19 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5082,
+    "title" : "Tập 2, Truyện Ngôn Tình Hay | MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2468,
+    "title" : "THIẾU TƯỚNG SỦNG VỢ - Truyện Ngôn Tình Hay Và Cảm Động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2733,
+    "title" : "Truyện Ngôn Tình Mới Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2610,
+    "title" : "Tập 22: Thiếu Tướng Sủng Vợ l Truyện Ngôn Tình Hay Chọn Lọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4044,
+    "title" : "Ngôn Tình Chọn Lọc 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4743,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3421,
+    "title" : "Tập 3, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "Tập 4, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3447,
+    "title" : "Tập 5, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3261,
+    "title" : "Tập 6, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3137,
+    "title" : "Tập 7, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "Tập 8, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3347,
+    "title" : "Tập 9 Truyện Ngôn Tình Hay | MC Trần Vân (Chen) HD",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/1.mp3",
+    "title" : "Tập 1, Truyện Ngôn Tình Hay | MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/10.mp3",
+    "title" : "Tập 10 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/11.mp3",
+    "title" : "Tập 11 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/12.mp3",
+    "title" : "Tập 12 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/13.mp3",
+    "title" : "Tập 13 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/14.mp3",
+    "title" : "Tập 14 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/15.mp3",
+    "title" : "Tập 15 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/16.mp3",
+    "title" : "Tập 16 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/17.mp3",
+    "title" : "Tập 17 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/18.mp3",
+    "title" : "Tập 18 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/19.mp3",
+    "title" : "Tập 19 Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/2.mp3",
+    "title" : "Tập 2, Truyện Ngôn Tình Hay | MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/20.mp3",
+    "title" : "THIẾU TƯỚNG SỦNG VỢ - Truyện Ngôn Tình Hay Và Cảm Động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/21.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/22.mp3",
+    "title" : "Tập 22: Thiếu Tướng Sủng Vợ l Truyện Ngôn Tình Hay Chọn Lọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/23.mp3",
+    "title" : "Ngôn Tình Chọn Lọc 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/3.mp3",
+    "title" : "Tập 3, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/4.mp3",
+    "title" : "Tập 4, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/5.mp3",
+    "title" : "Tập 5, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/6.mp3",
+    "title" : "Tập 6, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/7.mp3",
+    "title" : "Tập 7, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/8.mp3",
+    "title" : "Tập 8, Truyện Ngôn Tình Hay | MC Trần Vân (Chen)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-yeu-thinh-the-cua-thieu-tuong/9.mp3",
+    "title" : "Tập 9 Truyện Ngôn Tình Hay | MC Trần Vân (Chen) HD",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sung-em-den-nghien-lang-he-he_10710.html",
+    "title" : "Sủng Em Đến Nghiện - Lăng Hề Hề",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lăng Hề Hề",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13317,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_50f2aeca68cd9c5db2079904f44689da.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_50f2aeca68cd9c5db2079904f44689da.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sung-em-den-nghien/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4535,
+    "title" : "Sủng Em Đến Nghiện Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sung-em-den-nghien/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4517,
+    "title" : "Sủng Em Đến Nghiện Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sung-em-den-nghien/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4265,
+    "title" : "Sủng Em Đến Nghiện Phần 3 Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sung-em-den-nghien/1.mp3",
+    "title" : "Sủng Em Đến Nghiện Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sung-em-den-nghien/2.mp3",
+    "title" : "Sủng Em Đến Nghiện Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sung-em-den-nghien/3.mp3",
+    "title" : "Sủng Em Đến Nghiện Phần 3 Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

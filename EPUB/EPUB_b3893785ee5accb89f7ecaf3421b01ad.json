@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuong-gia-ngoc-ti-ti-den-day-ga-sieu-chip_10705.html",
+    "title" : "Vương Gia Ngốc Tỉ Tỉ Đến Đây - Gà Siêu Chíp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gà siêu chíp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15760,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_b3893785ee5accb89f7ecaf3421b01ad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_b3893785ee5accb89f7ecaf3421b01ad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuong-gia-ngoc-ti-ti-den-day/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8232,
+    "title" : "Truyện Ngôn Tình Xuyên Không Hay Với Mỹ Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ngoc-ti-ti-den-day/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7528,
+    "title" : "Vương Gia Ngốc Tỉ Tỉ Đến Đây [Phần 2 HẾT] Truyện Ngôn Tình Xuyên Không Hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuong-gia-ngoc-ti-ti-den-day/1.mp3",
+    "title" : "Truyện Ngôn Tình Xuyên Không Hay Với Mỹ Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-ngoc-ti-ti-den-day/2.mp3",
+    "title" : "Vương Gia Ngốc Tỉ Tỉ Đến Đây [Phần 2 HẾT] Truyện Ngôn Tình Xuyên Không Hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

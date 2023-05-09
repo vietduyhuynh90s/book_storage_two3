@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huong-mat-tua-khoi-suong-dien-tuyen_10317.html",
+    "title" : "Hương Mật Tựa Khói Sương - Điện Tuyến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Điện Tuyến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 51090,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_2a6042f6962a2bf2c687ee21e73498a1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_2a6042f6962a2bf2c687ee21e73498a1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7206,
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P1 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7190,
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P2 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7205,
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P3 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7370,
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P4 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7453,
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P5 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7084,
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P6 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7582,
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P7(End) MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/1.mp3",
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P1 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/2.mp3",
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P2 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/3.mp3",
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P3 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/4.mp3",
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P4 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/5.mp3",
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P5 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/6.mp3",
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P6 MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-mat-tua-khoi-suong/7.mp3",
+    "title" : "Audio Ngôn Tình Hương Mật Tựa Khói Sương P7(End) MC Cara || CỔ ĐẠI HUYỀN HUYỀN CỰC HAY",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

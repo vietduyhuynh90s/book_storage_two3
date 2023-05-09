@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-ma-thoi-den-tap-1-thanh-co-tinh-tuyet-thien-ha-ba-xuong-kinh-di_2413.html",
+    "title" : "Ma Thổi Đèn Tập 1: Thành Cổ Tinh Tuyệt - Thiên Hạ Bá Xướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Hạ Bá Xướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 62672,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_cd85682d2334f7489de9c093dab39c09.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_cd85682d2334f7489de9c093dab39c09.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mathoidentap1/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1375,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 1 | Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1337,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2110,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2046,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1292,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1467,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2577,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1690,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1726,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3111,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2327,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1199,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3872,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1586,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2894,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1218,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1651,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2542,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1710,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2370,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1571,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3614,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1758,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1601,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 955,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1539,
+    "title" : "Hết tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1278,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1240,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1375,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1711,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1382,
+    "title" : "Ma Thổi Đèn Tập 1 Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mathoidentap1/1.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 1 | Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/10.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/11.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/12.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/13.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/14.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/15.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/16.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/17.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/18.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/19.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/2.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/20.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/21.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/22.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/23.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/24.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/25.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/26.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/27.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/28.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/29.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/3.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/30.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/31.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/32.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/33.mp3",
+    "title" : "Hết tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/4.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/5.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/6.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/7.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/8.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap1/9.mp3",
+    "title" : "Ma Thổi Đèn Tập 1 Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

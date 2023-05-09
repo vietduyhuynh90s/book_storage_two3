@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/da-hy-sinh-con-doi-den-dap_14838.html",
+    "title" : "Đã Hy Sinh Còn Đòi Đền Đáp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "La Cận Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20225,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_746c0daf63501081bb52cf7542ce3b08.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_746c0daf63501081bb52cf7542ce3b08.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/DHSCDDD/%C4%90%C3%A3%20hy%20sinh%20c%C3%B2n%20%C4%91%C3%B2i%20%C4%91%E1%BB%81n%20%C4%91%C3%A1p%20-%20La%20C%E1%BA%ADn%20Nguy%E1%BB%87t%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 20225,
+    "title" : "Đã hy sinh còn đòi đền đáp - La Cận Nguyệt (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/DHSCDDD/%C4%90%C3%A3%20hy%20sinh%20c%C3%B2n%20%C4%91%C3%B2i%20%C4%91%E1%BB%81n%20%C4%91%C3%A1p%20-%20La%20C%E1%BA%ADn%20Nguy%E1%BB%87t%20%28128kbit_AAC%29.mp3",
+    "title" : "Đã hy sinh còn đòi đền đáp - La Cận Nguyệt (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khat-vong-viet-vi-sao-dat-nuoc-ta-con-ngheo_12962.html",
+    "title" : "Khát Vọng Việt: Vì Sao Đất Nước Ta Còn Nghèo?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đỗ Cao Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20340,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_c97980b9185f74e5629a0ea1e6665a35.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_c97980b9185f74e5629a0ea1e6665a35.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khat-vong-viet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1731,
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2318,
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3775,
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2553,
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khat-vong-viet/1.mp3",
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/2.mp3",
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/3.mp3",
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/4.mp3",
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/5.mp3",
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/6.mp3",
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khat-vong-viet/7.mp3",
+    "title" : "Vì Sao Đất Nước Ta Còn Nghèo - Đỗ Cao Bảo - Phần 7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

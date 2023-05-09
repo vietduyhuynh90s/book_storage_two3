@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thi-quan-kinh-nien-thac-an_11710.html",
+    "title" : "Thi Quan Kinh Niên - Thác Ẩn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thác Ẩn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44530,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_a6a3a8a1a0ad51def8d2af0f90ed8a0c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_a6a3a8a1a0ad51def8d2af0f90ed8a0c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2277,
+    "title" : "Thi Quan Kinh Niên [Phần 1] - MC Trần Vân - Audio Truyện Kinh Dị Huyền Huyền Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "Thi Quan Kinh Niên [Phần 10] MC Trần Vân - Audio Truyện Huyền Huyễn Hàng Phục Cương Thi 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2756,
+    "title" : "Thi Quan Kinh Niên [Phần 11] MC Trần Vân - Truyện Linh Dị Huyền Huyễn Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2734,
+    "title" : "Thi Quan Kinh Niên [Phần 12] Truyện Huyền Huyễn Linh Dị Quá Hay Quá Hot 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2910,
+    "title" : "Thi Quan Kinh Niên [Phần 13] Audio Truyện Huyền Huyễn Linh Dị 2018 MC Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3034,
+    "title" : "Thi Quan Kinh Niên [Phần 14] Audio Truyện Huyền Huyễn Linh Dị 2018 MC Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3780,
+    "title" : "Thi Quan Kinh Niên [Phần Cuối] Audio Truyện Huyền Huyễn Linh Dị 2018 MC Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1540,
+    "title" : "Thi Quan Kinh Niên [Phần 2] Quỷ Nhập - MC Trần Vân - Audio Truyện Dẫn Bắt Cương Thi Tuyệt Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2790,
+    "title" : "Thi Quan Kinh Niên - [Phần 3] Linh Xà - MC Trần Vân - Siêu Phẩm Về Người Bắt Thi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "Thi Quan Kinh Niên [Phần 4] MC Trần Vân - Audio Truyện Huyền Huyễn Hay Tuyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3676,
+    "title" : "Thi Quan Kinh Niên [Phần 5] MC Trần Vân - Audio Truyện Huyền Huyễn Hay Bá Cháy Bọ Chét",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2592,
+    "title" : "Thi Quan Kinh Niên [Phần 6] MC Trần Vân - Truyện Hay Không Nghe Quá Phí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2831,
+    "title" : "Thi Quan Kinh Niên [Phần 7] MC Trần Vân - Truyện Về Hàng Phục Yêu Ma Cương Thi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3445,
+    "title" : "Thi Quan Kinh Niên [Phần 8] MC Trần Vân - Audio Truyện Linh Dị Hàng Yêu Phục Quỷ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "Thi Quan Kinh Niên [Phần 9] MC Trần Vân - Truyện Huyền Huyễn Ma Pháp 2018",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/1.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 1] - MC Trần Vân - Audio Truyện Kinh Dị Huyền Huyền Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/10.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 10] MC Trần Vân - Audio Truyện Huyền Huyễn Hàng Phục Cương Thi 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/11.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 11] MC Trần Vân - Truyện Linh Dị Huyền Huyễn Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/12.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 12] Truyện Huyền Huyễn Linh Dị Quá Hay Quá Hot 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/13.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 13] Audio Truyện Huyền Huyễn Linh Dị 2018 MC Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/14.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 14] Audio Truyện Huyền Huyễn Linh Dị 2018 MC Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/15.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần Cuối] Audio Truyện Huyền Huyễn Linh Dị 2018 MC Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/2.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 2] Quỷ Nhập - MC Trần Vân - Audio Truyện Dẫn Bắt Cương Thi Tuyệt Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/3.mp3",
+    "title" : "Thi Quan Kinh Niên - [Phần 3] Linh Xà - MC Trần Vân - Siêu Phẩm Về Người Bắt Thi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/4.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 4] MC Trần Vân - Audio Truyện Huyền Huyễn Hay Tuyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/5.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 5] MC Trần Vân - Audio Truyện Huyền Huyễn Hay Bá Cháy Bọ Chét",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/6.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 6] MC Trần Vân - Truyện Hay Không Nghe Quá Phí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/7.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 7] MC Trần Vân - Truyện Về Hàng Phục Yêu Ma Cương Thi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/8.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 8] MC Trần Vân - Audio Truyện Linh Dị Hàng Yêu Phục Quỷ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thiquankinhnien_201903/9.mp3",
+    "title" : "Thi Quan Kinh Niên [Phần 9] MC Trần Vân - Truyện Huyền Huyễn Ma Pháp 2018",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

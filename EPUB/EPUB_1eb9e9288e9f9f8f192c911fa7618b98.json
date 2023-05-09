@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/to-hong-vuong-van-ho-bieu-chanh_11914.html",
+    "title" : "Tơ Hồng Vương Vấn - Hồ Biểu Chánh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 98606,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_1eb9e9288e9f9f8f192c911fa7618b98.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_1eb9e9288e9f9f8f192c911fa7618b98.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tohongvanvuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 28814,
+    "title" : "Tơ Hồng Vương Vấn (Phần 1)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 27689,
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Tơ Hồng Vương Vấn (Phần 1)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7214,
+    "title" : "Tơ Hồng Vương Vấn (Phần 1)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6089,
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tohongvanvuong/1.mp3",
+    "title" : "Tơ Hồng Vương Vấn (Phần 1)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/2.mp3",
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/3.mp3",
+    "title" : "Tơ Hồng Vương Vấn (Phần 1)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/4.mp3",
+    "title" : "Tơ Hồng Vương Vấn (Phần 1)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/5.mp3",
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/6.mp3",
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/7.mp3",
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tohongvanvuong/8.mp3",
+    "title" : "Tơ Hồng Vương Vấn (Phần 2-Hết)- Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

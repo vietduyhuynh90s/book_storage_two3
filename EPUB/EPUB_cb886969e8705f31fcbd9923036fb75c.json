@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/danh-cho-hoc-sinh-sinh-vien_16950.html",
+    "title" : "Dành Cho Học Sinh Sinh Viên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 6707,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_cb886969e8705f31fcbd9923036fb75c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_cb886969e8705f31fcbd9923036fb75c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/01_loi_noi_dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 183,
+    "title" : "Lời nói đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/02_tam_the_y_tuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 748,
+    "title" : "Tấm thẻ ghi ý tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/03_ngay_ve_cua_ten_nghich_tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 433,
+    "title" : "Ngày về của tên nghịch tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/04_ngay_vao_doi_cua_Christy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 412,
+    "title" : "Ngày vào đời của Christy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/05_dam_chap_nhan_rui_ro.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 646,
+    "title" : "Dám chập nhận rủi ro",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/06_doan_cuoi_cau_chuyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 359,
+    "title" : "Đoạn kết câu chuyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/07_bay_vit_cua_emma.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 195,
+    "title" : "Bầy vịt của Emma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/08_nguoi_hung_hi_huu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 445,
+    "title" : "Người hùng hi hữu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/09_vi_sao_cua_toi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 473,
+    "title" : "Vì sao của tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/10_quen_het_loi_lam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 319,
+    "title" : "Quên hết lỗi lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/11_hani.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 410,
+    "title" : "Hani",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/12_chang_trai_ngoi_goc_cay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 381,
+    "title" : "Chàng trai ngồi ở gốc cây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/13_khieu_am_nhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 141,
+    "title" : "Khiếu âm nhạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/14_chucky_mullins.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 323,
+    "title" : "Chucky Mullins",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/15_mot_thong_diep_co_y_nghia_hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 256,
+    "title" : "Một thông điệp có ý nghĩa hơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/16_ha_be_ten_khung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 457,
+    "title" : "Hạ bệ tên khùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/17_vi_gia_dinh_ca_ma.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 365,
+    "title" : "Vì gia đình cả mà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/18_hay_suy_nghi_dieu_nay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 161,
+    "title" : "Hãy suy nghĩ điều này",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/01_loi_noi_dau.mp3",
+    "title" : "Lời nói đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/02_tam_the_y_tuong.mp3",
+    "title" : "Tấm thẻ ghi ý tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/03_ngay_ve_cua_ten_nghich_tu.mp3",
+    "title" : "Ngày về của tên nghịch tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/04_ngay_vao_doi_cua_Christy.mp3",
+    "title" : "Ngày vào đời của Christy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/05_dam_chap_nhan_rui_ro.mp3",
+    "title" : "Dám chập nhận rủi ro",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/06_doan_cuoi_cau_chuyen.mp3",
+    "title" : "Đoạn kết câu chuyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/07_bay_vit_cua_emma.mp3",
+    "title" : "Bầy vịt của Emma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/08_nguoi_hung_hi_huu.mp3",
+    "title" : "Người hùng hi hữu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/09_vi_sao_cua_toi.mp3",
+    "title" : "Vì sao của tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/10_quen_het_loi_lam.mp3",
+    "title" : "Quên hết lỗi lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/11_hani.mp3",
+    "title" : "Hani",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/12_chang_trai_ngoi_goc_cay.mp3",
+    "title" : "Chàng trai ngồi ở gốc cây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/13_khieu_am_nhac.mp3",
+    "title" : "Khiếu âm nhạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/14_chucky_mullins.mp3",
+    "title" : "Chucky Mullins",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/15_mot_thong_diep_co_y_nghia_hon.mp3",
+    "title" : "Một thông điệp có ý nghĩa hơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/16_ha_be_ten_khung.mp3",
+    "title" : "Hạ bệ tên khùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/17_vi_gia_dinh_ca_ma.mp3",
+    "title" : "Vì gia đình cả mà",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss07-danhChoHocSinhSinhVien_963/18_hay_suy_nghi_dieu_nay.mp3",
+    "title" : "Hãy suy nghĩ điều này",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

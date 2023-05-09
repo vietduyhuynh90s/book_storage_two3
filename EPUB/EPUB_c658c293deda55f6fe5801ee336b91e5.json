@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chem-muon_12475.html",
+    "title" : "Chém Mướn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đình Thiều",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22221,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_c658c293deda55f6fe5801ee336b91e5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_c658c293deda55f6fe5801ee336b91e5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chem-muon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "Tập 01 - Tiểu thuyết xã hội thực tế cực hay - Mc Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chem-muon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2909,
+    "title" : "Tập 02 - Mc Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chem-muon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3558,
+    "title" : "Tập 03 - Tiểu thuyết xã hội rất hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chem-muon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2894,
+    "title" : "C H É M MƯỚN - Mc Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chem-muon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2734,
+    "title" : "Tập 05 - Tiểu thuyết hiện thực cực hay do mc Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chem-muon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3324,
+    "title" : "Tập 06 - #mcdinhduy - Tiểu thuyết xã hội thực tế cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chem-muon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3198,
+    "title" : "Tập 07 (Kết Thúc) - #mcdinhduy diễn đọc rất hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chem-muon/1.mp3",
+    "title" : "Tập 01 - Tiểu thuyết xã hội thực tế cực hay - Mc Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chem-muon/2.mp3",
+    "title" : "Tập 02 - Mc Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chem-muon/3.mp3",
+    "title" : "Tập 03 - Tiểu thuyết xã hội rất hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chem-muon/4.mp3",
+    "title" : "C H É M MƯỚN - Mc Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chem-muon/5.mp3",
+    "title" : "Tập 05 - Tiểu thuyết hiện thực cực hay do mc Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chem-muon/6.mp3",
+    "title" : "Tập 06 - #mcdinhduy - Tiểu thuyết xã hội thực tế cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chem-muon/7.mp3",
+    "title" : "Tập 07 (Kết Thúc) - #mcdinhduy diễn đọc rất hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

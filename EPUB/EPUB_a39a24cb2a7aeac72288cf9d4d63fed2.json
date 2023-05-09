@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mat-na-trang_14954.html",
+    "title" : "Mặt Nạ Trắng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Tam Long",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44344,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_a39a24cb2a7aeac72288cf9d4d63fed2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_a39a24cb2a7aeac72288cf9d4d63fed2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mat-na-trang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3305,
+    "title" : "Tập 1 - Truyện trình thám tâm lí xã hội - Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3421,
+    "title" : "Tập 10 - Truyện tâm lí xã hội trinh thám do Hồng Nhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3533,
+    "title" : "Tập 11 - Truyện tâm lí xã hội trinh thám - Mc hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "Tập 12 - Truyện trinh thám tâm lí xã hội - Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5039,
+    "title" : "Tập 13 (hết) - Truyện tâm lí xã hội trinh thám - Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3511,
+    "title" : "Tập 2 - Truyện tâm lí xã hội trinh thám - Mc Hồng Nhung đọc truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3445,
+    "title" : "Tập 3 - Truyện tâm lí xã hội, trinh thám - Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3131,
+    "title" : "Tập 4 - Truyện tâm lí xã hội trinh thám 2020 - Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3031,
+    "title" : "Tập 5 - Truyện trinh thám tâm lí xã hội - Mc Hồng Nhung đọc truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3057,
+    "title" : "Tập 6 - Truyện tâm lí xã hội trinh thám - Mc Hồng Nhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3203,
+    "title" : "Tập 7 - Truyện tâm lí xã hội trinh thám 2020 - Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3308,
+    "title" : "Tập 8 - Truyện trinh thám tâm lí xã hội - Mc hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3124,
+    "title" : "tập 9 - Truyện trinh thám tâm lí xã hội - Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mat-na-trang/1.mp3",
+    "title" : "Tập 1 - Truyện trình thám tâm lí xã hội - Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/10.mp3",
+    "title" : "Tập 10 - Truyện tâm lí xã hội trinh thám do Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/11.mp3",
+    "title" : "Tập 11 - Truyện tâm lí xã hội trinh thám - Mc hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/12.mp3",
+    "title" : "Tập 12 - Truyện trinh thám tâm lí xã hội - Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/13.mp3",
+    "title" : "Tập 13 (hết) - Truyện tâm lí xã hội trinh thám - Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/2.mp3",
+    "title" : "Tập 2 - Truyện tâm lí xã hội trinh thám - Mc Hồng Nhung đọc truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/3.mp3",
+    "title" : "Tập 3 - Truyện tâm lí xã hội, trinh thám - Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/4.mp3",
+    "title" : "Tập 4 - Truyện tâm lí xã hội trinh thám 2020 - Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/5.mp3",
+    "title" : "Tập 5 - Truyện trinh thám tâm lí xã hội - Mc Hồng Nhung đọc truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/6.mp3",
+    "title" : "Tập 6 - Truyện tâm lí xã hội trinh thám - Mc Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/7.mp3",
+    "title" : "Tập 7 - Truyện tâm lí xã hội trinh thám 2020 - Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/8.mp3",
+    "title" : "Tập 8 - Truyện trinh thám tâm lí xã hội - Mc hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-na-trang/9.mp3",
+    "title" : "tập 9 - Truyện trinh thám tâm lí xã hội - Mc Hồng Nhung",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

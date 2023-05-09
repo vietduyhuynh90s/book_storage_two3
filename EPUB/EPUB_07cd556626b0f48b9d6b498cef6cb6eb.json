@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuyet-sac-khuynh-thanh-phi-yen_5706.html",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phi Yến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 63059,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_07cd556626b0f48b9d6b498cef6cb6eb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_07cd556626b0f48b9d6b498cef6cb6eb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5964,
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2606,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2459,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2410,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2434,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2357,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2105,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2321,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6645,
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6387,
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6628,
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6725,
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6818,
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2287,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2433,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2480,
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/1.mp3",
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/10.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/11.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/12.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/13.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/14.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/15.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/16.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/2.mp3",
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/3.mp3",
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/4.mp3",
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/5.mp3",
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/6.mp3",
+    "title" : "Tuyệt sắc khuynh thành – Phi Yên – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/7.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/8.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TuytScKhuynhThnh/9.mp3",
+    "title" : "Tuyệt Sắc Khuynh Thành - Phi Yên - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

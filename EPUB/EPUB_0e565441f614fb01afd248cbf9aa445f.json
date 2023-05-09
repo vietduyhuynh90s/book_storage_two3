@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoang-kim-an_17878.html",
+    "title" : "Hoàng Kim Án",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert van Gulik",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25335,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_0e565441f614fb01afd248cbf9aa445f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_0e565441f614fb01afd248cbf9aa445f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hka_20220318/00%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20_%20Truye%CC%A3%CC%82n%20Audio%20trinh%20tha%CC%81m%20ky%CC%80%20bi%CC%81%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 49,
+    "title" : "00 ĐỊCH CÔNG KỲ ÁN   Truyện Audio trinh thám kỳ bí (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2001%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1776,
+    "title" : "HOÀNG KIM ÁN - PHẦN 01   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2355,
+    "title" : "HOÀNG KIM ÁN - PHẦN 02   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2003%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2487,
+    "title" : "HOÀNG KIM ÁN - PHẦN 03   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2004%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1949,
+    "title" : "HOÀNG KIM ÁN - PHẦN 04   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2005%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "HOÀNG KIM ÁN - PHẦN 05   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2006%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2072,
+    "title" : "HOÀNG KIM ÁN - PHẦN 06   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2007%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1830,
+    "title" : "HOÀNG KIM ÁN - PHẦN 07   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2008%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1748,
+    "title" : "HOÀNG KIM ÁN - PHẦN 08   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2009%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1829,
+    "title" : "HOÀNG KIM ÁN - PHẦN 09   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2010%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1922,
+    "title" : "HOÀNG KIM ÁN - PHẦN 10   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2011%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1901,
+    "title" : "HOÀNG KIM ÁN - PHẦN 11   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2012%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1836,
+    "title" : "HOÀNG KIM ÁN - PHẦN 12   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2013%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1655,
+    "title" : "HOÀNG KIM ÁN - PHẦN 13   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hka_20220318/00%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20_%20Truye%CC%A3%CC%82n%20Audio%20trinh%20tha%CC%81m%20ky%CC%80%20bi%CC%81%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "00 ĐỊCH CÔNG KỲ ÁN   Truyện Audio trinh thám kỳ bí (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2001%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 01   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 02   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2003%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 03   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2004%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 04   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2005%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 05   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2006%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 06   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2007%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 07   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2008%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 08   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2009%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 09   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2010%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 10   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2011%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 11   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2012%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 12   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hka_20220318/HOA%CC%80NG%20KIM%20A%CC%81N%20-%20PHA%CC%82%CC%80N%2013%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "title" : "HOÀNG KIM ÁN - PHẦN 13   ĐỊCH CÔNG KỲ ÁN (1080p 25fps H264-128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

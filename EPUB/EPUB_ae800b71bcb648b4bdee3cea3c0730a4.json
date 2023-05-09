@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lanh-lung-hay-on-nhu-nhong-hien_10668.html",
+    "title" : "Lạnh Lùng Hay Ôn Nhu - Nhộng Hiên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhộng Hiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33350,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_ae800b71bcb648b4bdee3cea3c0730a4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_ae800b71bcb648b4bdee3cea3c0730a4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5495,
+    "title" : "Lạnh Lùng Hay Ôn Nhu ( Tập 1 ) Nam Thần Đáng Ghét _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5429,
+    "title" : "Lạnh Lùng Hay Ôn Nhu H+ ( Tập 2 ) Nụ Hôn Dưới Mưa _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5441,
+    "title" : "Lạnh Lùng Hay Ôn Nhu H+++ ( Tập 3 ) Tự Chui Vào Lưới _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5481,
+    "title" : "Lạnh Lùng Hay Ôn Nhu H+++ ( Tập 4 ) Nếu Ta Ngược Lối _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5443,
+    "title" : "Lạnh Lùng Hay Ôn Nhu H+++ ( Tập 5 ) Xin Lỗi Người Anh Yêu _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6061,
+    "title" : "Lạnh Lùng Hay Ôn Nhu H +++ ( Tập Cuối ) Để Cho Em Khóc _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/1.mp3",
+    "title" : "Lạnh Lùng Hay Ôn Nhu ( Tập 1 ) Nam Thần Đáng Ghét _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/2.mp3",
+    "title" : "Lạnh Lùng Hay Ôn Nhu H+ ( Tập 2 ) Nụ Hôn Dưới Mưa _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/3.mp3",
+    "title" : "Lạnh Lùng Hay Ôn Nhu H+++ ( Tập 3 ) Tự Chui Vào Lưới _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/4.mp3",
+    "title" : "Lạnh Lùng Hay Ôn Nhu H+++ ( Tập 4 ) Nếu Ta Ngược Lối _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/5.mp3",
+    "title" : "Lạnh Lùng Hay Ôn Nhu H+++ ( Tập 5 ) Xin Lỗi Người Anh Yêu _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lanh-lung-hay-on-nhu/6.mp3",
+    "title" : "Lạnh Lùng Hay Ôn Nhu H +++ ( Tập Cuối ) Để Cho Em Khóc _ Châu Gia Thiện",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

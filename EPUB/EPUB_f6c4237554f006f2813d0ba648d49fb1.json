@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-doc-vi-bat-ky-ai-de-khong-bi-lua-doi-va-loi-dung-david-j-lieberman-ky-nang-song_2670.html",
+    "title" : "Đọc Vị Bất Kỳ Ai Để Không Bị Lừa Dối Và Lợi Dụng - David J. Lieberman",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David J. Lieberman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15910,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_f6c4237554f006f2813d0ba648d49fb1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_f6c4237554f006f2813d0ba648d49fb1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1311,
+    "title" : "ch 1 - doc vi bat ky ai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1350,
+    "title" : "ch 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1492,
+    "title" : "ch 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1194,
+    "title" : "ch 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 854,
+    "title" : "ch 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1372,
+    "title" : "ch 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1474,
+    "title" : "ch 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 313,
+    "title" : "ch 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 714,
+    "title" : "ch 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 521,
+    "title" : "ch 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1232,
+    "title" : "ch 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 496,
+    "title" : "ch 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 162,
+    "title" : "ch 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 839,
+    "title" : "ch 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2586,
+    "title" : "ch 15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_01.mp3",
+    "title" : "ch 1 - doc vi bat ky ai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_02.mp3",
+    "title" : "ch 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_03.mp3",
+    "title" : "ch 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_04.mp3",
+    "title" : "ch 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_05.mp3",
+    "title" : "ch 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_06.mp3",
+    "title" : "ch 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_07.mp3",
+    "title" : "ch 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_08.mp3",
+    "title" : "ch 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_09.mp3",
+    "title" : "ch 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_10.mp3",
+    "title" : "ch 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_11.mp3",
+    "title" : "ch 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_12.mp3",
+    "title" : "ch 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_13.mp3",
+    "title" : "ch 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_14.mp3",
+    "title" : "ch 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDocViBatKyAi/ch_15.mp3",
+    "title" : "ch 15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

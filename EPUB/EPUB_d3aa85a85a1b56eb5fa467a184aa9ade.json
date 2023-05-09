@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-tai-gioi-ban-cung-the_15449.html",
+    "title" : "Tôi Tài Giỏi, Bạn Cũng Thế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Adam Khoo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 37511,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_d3aa85a85a1b56eb5fa467a184aa9ade.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_d3aa85a85a1b56eb5fa467a184aa9ade.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 307,
+    "title" : "ToiTaiGioiBanCungThe00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 673,
+    "title" : "ToiTaiGioiBanCungThe01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1993,
+    "title" : "ToiTaiGioiBanCungThe02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1253,
+    "title" : "ToiTaiGioiBanCungThe03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 837,
+    "title" : "ToiTaiGioiBanCungThe04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2923,
+    "title" : "ToiTaiGioiBanCungThe05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4343,
+    "title" : "ToiTaiGioiBanCungThe06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "ToiTaiGioiBanCungThe07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2053,
+    "title" : "ToiTaiGioiBanCungThe08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1613,
+    "title" : "ToiTaiGioiBanCungThe09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 718,
+    "title" : "ToiTaiGioiBanCungThe10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1263,
+    "title" : "ToiTaiGioiBanCungThe11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2123,
+    "title" : "ToiTaiGioiBanCungThe12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 843,
+    "title" : "ToiTaiGioiBanCungThe13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6103,
+    "title" : "ToiTaiGioiBanCungThe14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7853,
+    "title" : "ToiTaiGioiBanCungThe15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe00.mp3",
+    "title" : "ToiTaiGioiBanCungThe00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe01.mp3",
+    "title" : "ToiTaiGioiBanCungThe01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe02.mp3",
+    "title" : "ToiTaiGioiBanCungThe02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe03.mp3",
+    "title" : "ToiTaiGioiBanCungThe03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe04.mp3",
+    "title" : "ToiTaiGioiBanCungThe04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe05.mp3",
+    "title" : "ToiTaiGioiBanCungThe05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe06.mp3",
+    "title" : "ToiTaiGioiBanCungThe06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe07.mp3",
+    "title" : "ToiTaiGioiBanCungThe07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe08.mp3",
+    "title" : "ToiTaiGioiBanCungThe08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe09.mp3",
+    "title" : "ToiTaiGioiBanCungThe09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe10.mp3",
+    "title" : "ToiTaiGioiBanCungThe10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe11.mp3",
+    "title" : "ToiTaiGioiBanCungThe11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe12.mp3",
+    "title" : "ToiTaiGioiBanCungThe12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe13.mp3",
+    "title" : "ToiTaiGioiBanCungThe13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe14.mp3",
+    "title" : "ToiTaiGioiBanCungThe14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-tai-gioi-ban-cung-the.sna/ToiTaiGioiBanCungThe15.mp3",
+    "title" : "ToiTaiGioiBanCungThe15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

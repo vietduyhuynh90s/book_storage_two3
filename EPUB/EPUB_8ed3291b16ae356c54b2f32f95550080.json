@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/totto-chan-ben-cua-so-tetsuko-kuroyanagi_10372.html",
+    "title" : "Totto-Chan - Bên Cửa Sổ - Tetsuko Kuroyanagi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kuroyanagi Tetsuko",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19544,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_8ed3291b16ae356c54b2f32f95550080.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_8ed3291b16ae356c54b2f32f95550080.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1617,
+    "title" : "Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4120,
+    "title" : "Phần 2 - Truyện Audio hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "Phần 3 Đọc Truyện Audio Hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2667,
+    "title" : "Phần 4 Đọc Truyện Audio Hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3858,
+    "title" : "Phần 5 Đọc Truyện Audio Hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3364,
+    "title" : "Phần Cuối Đọc Truyện Audio Hay nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/1.mp3",
+    "title" : "Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/2.mp3",
+    "title" : "Phần 2 - Truyện Audio hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/3.mp3",
+    "title" : "Phần 3 Đọc Truyện Audio Hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/4.mp3",
+    "title" : "Phần 4 Đọc Truyện Audio Hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/5.mp3",
+    "title" : "Phần 5 Đọc Truyện Audio Hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/totto-chan-co-be-ben-cua-so_201903/6.mp3",
+    "title" : "Phần Cuối Đọc Truyện Audio Hay nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

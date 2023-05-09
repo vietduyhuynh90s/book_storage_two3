@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xuyen-ve-lam-sung-phi-nhan-song-tuyet_11490.html",
+    "title" : "Xuyên Về Làm Sủng Phi - Nhan Song Tuyết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhan Song Tuyết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25068,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_98e09152d4bd8bb2613efc38747ac453.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_98e09152d4bd8bb2613efc38747ac453.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xuyenvelamsungphi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8166,
+    "title" : "Truyện ngôn tình xuyên không hay lắm nữ cường nha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyenvelamsungphi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8526,
+    "title" : "Truyện ngôn tình xuyên không cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyenvelamsungphi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8376,
+    "title" : "[Phần Cuối] Xuyên Về Làm Sủng Phi ♥ Truyện ngôn tình xuyên không mới toanh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xuyenvelamsungphi/1.mp3",
+    "title" : "Truyện ngôn tình xuyên không hay lắm nữ cường nha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyenvelamsungphi/2.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyenvelamsungphi/3.mp3",
+    "title" : "[Phần Cuối] Xuyên Về Làm Sủng Phi ♥ Truyện ngôn tình xuyên không mới toanh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

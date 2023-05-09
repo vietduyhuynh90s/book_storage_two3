@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hen-uoc-twentine_10428.html",
+    "title" : "Hẹn Ước - Twentine",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Twentine",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 64264,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_66156d280ed37f10333377a443a33fc6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_66156d280ed37f10333377a443a33fc6.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hen-uoc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7871,
+    "title" : "Top truyện ngôn tình hay nhất - P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7699,
+    "title" : "P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7221,
+    "title" : "P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7642,
+    "title" : "P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8857,
+    "title" : "P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7299,
+    "title" : "P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8332,
+    "title" : "P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9343,
+    "title" : "P8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hen-uoc/1.mp3",
+    "title" : "Top truyện ngôn tình hay nhất - P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/2.mp3",
+    "title" : "P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/3.mp3",
+    "title" : "P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/4.mp3",
+    "title" : "P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/5.mp3",
+    "title" : "P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/6.mp3",
+    "title" : "P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/7.mp3",
+    "title" : "P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-uoc/8.mp3",
+    "title" : "P8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

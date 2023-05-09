@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/minh-triet-trong-doi-song_19146.html",
+    "title" : "Minh Triết Trong Đời Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "50 độ U Lam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22043,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9103c82ba89719f9347237887214d684.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9103c82ba89719f9347237887214d684.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "minh-triet-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "minh-triet-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "minh-triet-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "minh-triet-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "minh-triet-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2543,
+    "title" : "minh-triet-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-1.mp3",
+    "title" : "minh-triet-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-2.mp3",
+    "title" : "minh-triet-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-3.mp3",
+    "title" : "minh-triet-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-4.mp3",
+    "title" : "minh-triet-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-5.mp3",
+    "title" : "minh-triet-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-triet-1/minh-triet-6.mp3",
+    "title" : "minh-triet-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

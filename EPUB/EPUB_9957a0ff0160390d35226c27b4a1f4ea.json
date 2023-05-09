@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/muon-kiep-nhan-sinh_14983.html",
+    "title" : "Muôn Kiếp Nhân Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 46926,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9957a0ff0160390d35226c27b4a1f4ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9957a0ff0160390d35226c27b4a1f4ea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mkns_20201127/01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 708,
+    "title" : "01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4111,
+    "title" : "03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1633,
+    "title" : "04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3168,
+    "title" : "05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4078,
+    "title" : "06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5418,
+    "title" : "07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3417,
+    "title" : "08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4159,
+    "title" : "09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3553,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4775,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5148,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mkns_20201127/01.mp3",
+    "title" : "01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/02.mp3",
+    "title" : "02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/03.mp3",
+    "title" : "03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/04.mp3",
+    "title" : "04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/05.mp3",
+    "title" : "05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/06.mp3",
+    "title" : "06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/07.mp3",
+    "title" : "07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/08.mp3",
+    "title" : "08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/09.mp3",
+    "title" : "09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mkns_20201127/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

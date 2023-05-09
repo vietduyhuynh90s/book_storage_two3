@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/yeu-anh-co-bao-gio-hanh-phuc-natalienguyn_11877.html",
+    "title" : "Yêu Anh Có Bao Giờ Hạnh Phúc - NatalieNguyn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "NatalieNguyn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21608,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9397c98506866d132a0ac73e703229a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9397c98506866d132a0ac73e703229a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/yeuanhcobaogiohanhphuc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Yêu Anh Có Bao Giờ Hạnh Phúc || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeuanhcobaogiohanhphuc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7294,
+    "title" : "Tập 2 || TRUYỆN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeuanhcobaogiohanhphuc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7114,
+    "title" : "Yêu Anh Có Bao Giờ Hạnh Phúc - Tập 3 (Hết) || TRUYỆN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/yeuanhcobaogiohanhphuc/1.mp3",
+    "title" : "Yêu Anh Có Bao Giờ Hạnh Phúc || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeuanhcobaogiohanhphuc/2.mp3",
+    "title" : "Tập 2 || TRUYỆN HAY CHỌN LỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeuanhcobaogiohanhphuc/3.mp3",
+    "title" : "Yêu Anh Có Bao Giờ Hạnh Phúc - Tập 3 (Hết) || TRUYỆN HAY CHỌN LỌC",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

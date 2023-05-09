@@ -1,0 +1,605 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/heo-yeu-diem-vuong-minh-nguyet-thinh-phong_10448.html",
+    "title" : "Heo Yêu Diêm vương - Minh Nguyệt Thính Phong",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nguyệt Thính Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 137187,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9608da3eb3b46ff6ed44a0c24683772c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9608da3eb3b46ff6ed44a0c24683772c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1475,
+    "title" : "Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "Chương 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2657,
+    "title" : "Chương 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2859,
+    "title" : "Chương 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2886,
+    "title" : "Chương 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3552,
+    "title" : "Chương 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2593,
+    "title" : "Chương 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2847,
+    "title" : "Chương 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2339,
+    "title" : "Chương 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2266,
+    "title" : "Chương 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3076,
+    "title" : "Chương 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2903,
+    "title" : "Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "Chương 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2307,
+    "title" : "Chương 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2995,
+    "title" : "Chương 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2954,
+    "title" : "Chương 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "Chương 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "Chương 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2991,
+    "title" : "Chương 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "Chương 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2717,
+    "title" : "Chương 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2582,
+    "title" : "Chương 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2719,
+    "title" : "Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "Chương 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3138,
+    "title" : "Chương 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3028,
+    "title" : "Chương 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2743,
+    "title" : "Chương 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2872,
+    "title" : "Chương 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3255,
+    "title" : "Chương 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Chương 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2957,
+    "title" : "Chương 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2721,
+    "title" : "Chương 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3077,
+    "title" : "Chương 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2957,
+    "title" : "Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "Chương 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2895,
+    "title" : "Chương 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4564,
+    "title" : "Chương 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4662,
+    "title" : "Chương 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4679,
+    "title" : "Chương 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3554,
+    "title" : "Chương 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2488,
+    "title" : "Chương 46 (Hết)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "Chương Ngoại Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2565,
+    "title" : "Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2922,
+    "title" : "Chương 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2711,
+    "title" : "Chương 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2551,
+    "title" : "Chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2568,
+    "title" : "Chương 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/1.mp3",
+    "title" : "Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/10.mp3",
+    "title" : "Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/11.mp3",
+    "title" : "Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/12.mp3",
+    "title" : "Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/13.mp3",
+    "title" : "Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/14.mp3",
+    "title" : "Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/15.mp3",
+    "title" : "Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/16.mp3",
+    "title" : "Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/17.mp3",
+    "title" : "Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/18.mp3",
+    "title" : "Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/19.mp3",
+    "title" : "Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/2.mp3",
+    "title" : "Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/20.mp3",
+    "title" : "Chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/21.mp3",
+    "title" : "Chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/22.mp3",
+    "title" : "Chương 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/23.mp3",
+    "title" : "Chương 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/24.mp3",
+    "title" : "Chương 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/25.mp3",
+    "title" : "Chương 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/26.mp3",
+    "title" : "Chương 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/27.mp3",
+    "title" : "Chương 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/28.mp3",
+    "title" : "Chương 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/29.mp3",
+    "title" : "Chương 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/3.mp3",
+    "title" : "Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/30.mp3",
+    "title" : "Chương 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/31.mp3",
+    "title" : "Chương 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/32.mp3",
+    "title" : "Chương 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/33.mp3",
+    "title" : "Chương 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/34.mp3",
+    "title" : "Chương 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/35.mp3",
+    "title" : "Chương 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/36.mp3",
+    "title" : "Chương 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/37.mp3",
+    "title" : "Chương 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/38.mp3",
+    "title" : "Chương 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/39.mp3",
+    "title" : "Chương 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/4.mp3",
+    "title" : "Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/40.mp3",
+    "title" : "Chương 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/41.mp3",
+    "title" : "Chương 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/42.mp3",
+    "title" : "Chương 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/43.mp3",
+    "title" : "Chương 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/44.mp3",
+    "title" : "Chương 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/45.mp3",
+    "title" : "Chương 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/46.mp3",
+    "title" : "Chương 46 (Hết)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/47.mp3",
+    "title" : "Chương Ngoại Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/5.mp3",
+    "title" : "Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/6.mp3",
+    "title" : "Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/7.mp3",
+    "title" : "Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/8.mp3",
+    "title" : "Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/heo-yeu-diem-vuong/9.mp3",
+    "title" : "Chương 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bat-ai-thanh-hon-mac-oanh_10515.html",
+    "title" : "Bất Ái Thành Hôn - Mạc Oanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạc Oanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 69221,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_dae28adf55718411e65a33bb57729ddd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_dae28adf55718411e65a33bb57729ddd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7474,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5989,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn P10 hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7462,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7070,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6621,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7179,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6851,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7849,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7343,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5383,
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/1.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/10.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn P10 hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/2.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/3.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/4.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/5.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/6.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/7.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/8.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-ai-thanh-hon/9.mp3",
+    "title" : "Ngôn tình HỢP ĐỒNG HÔN NHÂN- Bất ái thành hôn(Phần tiếp theo của tiên hôn hậu ái) P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

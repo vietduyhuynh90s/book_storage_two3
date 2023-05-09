@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-harry-potter-va-ten-tu-nhan-nguc-azkaban-j-k-rowling-ky-ao_2452.html",
+    "title" : "Harry Potter Và Tên Tù Nhân Ngục Azkaban - J. K. Rowling",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J. K. Rowling",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 50396,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9f3178cd66596070029a18c94c1633d9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9f3178cd66596070029a18c94c1633d9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban01_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1865,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban01 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban02_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1858,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban02 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban03_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban03 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban04_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2413,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban04 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban05_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2972,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban05 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban06_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2935,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban06 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban07_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1863,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban07 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban08_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2445,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban08 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban09_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2330,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban09 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban10_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban10 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban11_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban11 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban12_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2204,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban12 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban13_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban13 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban14_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2370,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban14 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban15_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2905,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban15 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban16_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2167,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban16 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban17_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1893,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban17 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban18_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 975,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban18 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban19_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2526,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban19 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban20_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1029,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban20 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban21_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3549,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban21 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban22Het_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2287,
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban22Het 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban01_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban01 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban02_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban02 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban03_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban03 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban04_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban04 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban05_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban05 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban06_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban06 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban07_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban07 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban08_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban08 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban09_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban09 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban10_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban10 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban11_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban11 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban12_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban12 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban13_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban13 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban14_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban14 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban15_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban15 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban16_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban16 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban17_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban17 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban18_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban18 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban19_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban19 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban20_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban20 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban21_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban21 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-ten-tu-nhan-nguc-azkaban-tap-3.sna/HarryPotterTap3TenTuNhanNgucAzkaban22Het_2.mp3",
+    "title" : "HarryPotterTap3TenTuNhanNgucAzkaban22Het 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mu-loa_15698.html",
+    "title" : "Mù Lòa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "José Saramago",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35039,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_def607eca75862d93dce83e6f87dfd1c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_def607eca75862d93dce83e6f87dfd1c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mu-loa/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16731,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mu-loa/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18308,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mu-loa/1.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mu-loa/2.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

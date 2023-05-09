@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/yeu-minh-truoc-da-yeu-doi-de-sau_14851.html",
+    "title" : "Yêu Mình Trước Đã, Yêu Đời Để Sau",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vex King",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19985,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_c59c3511ef33095ace42c87ee5d50ab9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_c59c3511ef33095ace42c87ee5d50ab9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/YMTDYDS/Y%C3%AAu%20m%C3%ACnh%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%A3%20y%C3%AAu%20%C4%91%E1%BB%9Di%20%C4%91%E1%BB%83%20sau%20-%20Vex%20King%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19985,
+    "title" : "Yêu mình trước đã yêu đời để sau - Vex King (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/YMTDYDS/Y%C3%AAu%20m%C3%ACnh%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%A3%20y%C3%AAu%20%C4%91%E1%BB%9Di%20%C4%91%E1%BB%83%20sau%20-%20Vex%20King%20%28128kbit_AAC%29.mp3",
+    "title" : "Yêu mình trước đã yêu đời để sau - Vex King (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngoc-sang-trong-hoa-sen_19290.html",
+    "title" : "Ngọc Sáng Trong Hoa Sen",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John Blofeld",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 42892,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_a6ee61ef90b08a9c8e01455e7e2758a3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_a6ee61ef90b08a9c8e01455e7e2758a3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngoc-sang-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3292,
+    "title" : "ngoc-sang-12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-01.mp3",
+    "title" : "ngoc-sang-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-02.mp3",
+    "title" : "ngoc-sang-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-03.mp3",
+    "title" : "ngoc-sang-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-04.mp3",
+    "title" : "ngoc-sang-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-05.mp3",
+    "title" : "ngoc-sang-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-06.mp3",
+    "title" : "ngoc-sang-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-07.mp3",
+    "title" : "ngoc-sang-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-08.mp3",
+    "title" : "ngoc-sang-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-09.mp3",
+    "title" : "ngoc-sang-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-10.mp3",
+    "title" : "ngoc-sang-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-11.mp3",
+    "title" : "ngoc-sang-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoc-sang-01/ngoc-sang-12.mp3",
+    "title" : "ngoc-sang-12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
