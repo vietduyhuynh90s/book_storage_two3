@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cai-cuoi-cua-thanh-nhan_20149.html",
+    "title" : "Cái Cười Của Thánh Nhân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Duy Cần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 44874,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_d92d5dcb7a1e61bb0c649dfd6a216040.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_d92d5dcb7a1e61bb0c649dfd6a216040.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/01.%20P01A_TraoLongUMac_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2242,
+    "title" : "01. P01A TraoLongUMac CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/01._P01A_TraoLongUMac_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2242,
+    "title" : "01. P01A TraoLongUMac CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/02.%20P01B_TraoLongUMac_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2044,
+    "title" : "02. P01B TraoLongUMac CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/02._P01B_TraoLongUMac_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2044,
+    "title" : "02. P01B TraoLongUMac CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/03.%20P02A_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2224,
+    "title" : "03. P02A CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/03._P02A_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2224,
+    "title" : "03. P02A CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/04.%20P02B_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "04. P02B CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/04._P02B_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "04. P02B CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/05.%20P02C_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2375,
+    "title" : "05. P02C CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/05._P02C_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2375,
+    "title" : "05. P02C CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/06.%20P02D_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "06. P02D CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/06._P02D_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "06. P02D CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/07.%20P02E_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1918,
+    "title" : "07. P02E CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/07._P02E_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1918,
+    "title" : "07. P02E CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/08.%20P02F_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1744,
+    "title" : "08. P02F CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/08._P02F_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1744,
+    "title" : "08. P02F CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/09.%20P02G_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1434,
+    "title" : "09. P02G CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/09._P02G_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1434,
+    "title" : "09. P02G CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/10.%20P02H_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1353,
+    "title" : "10. P02H CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/10._P02H_CaiCuoiCuaThanhNhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1353,
+    "title" : "10. P02H CaiCuoiCuaThanhNhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/11.%20P03_TuTuongUMac_CaiCuoiCuaThanhNhan_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "11. P03 TuTuongUMac CaiCuoiCuaThanhNhan HET",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/11._P03_TuTuongUMac_CaiCuoiCuaThanhNhan_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "11. P03 TuTuongUMac CaiCuoiCuaThanhNhan HET",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/01.%20P01A_TraoLongUMac_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "01. P01A TraoLongUMac CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/01._P01A_TraoLongUMac_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "01. P01A TraoLongUMac CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/02.%20P01B_TraoLongUMac_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "02. P01B TraoLongUMac CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/02._P01B_TraoLongUMac_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "02. P01B TraoLongUMac CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/03.%20P02A_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "03. P02A CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/03._P02A_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "03. P02A CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/04.%20P02B_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "04. P02B CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/04._P02B_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "04. P02B CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/05.%20P02C_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "05. P02C CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/05._P02C_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "05. P02C CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/06.%20P02D_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "06. P02D CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/06._P02D_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "06. P02D CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/07.%20P02E_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "07. P02E CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/07._P02E_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "07. P02E CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/08.%20P02F_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "08. P02F CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/08._P02F_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "08. P02F CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/09.%20P02G_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "09. P02G CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/09._P02G_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "09. P02G CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/10.%20P02H_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "10. P02H CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/10._P02H_CaiCuoiCuaThanhNhan.mp3",
+    "title" : "10. P02H CaiCuoiCuaThanhNhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/11.%20P03_TuTuongUMac_CaiCuoiCuaThanhNhan_HET.mp3",
+    "title" : "11. P03 TuTuongUMac CaiCuoiCuaThanhNhan HET",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-cuoi-cua-thanh-nhan.sna/11._P03_TuTuongUMac_CaiCuoiCuaThanhNhan_HET.mp3",
+    "title" : "11. P03 TuTuongUMac CaiCuoiCuaThanhNhan HET",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

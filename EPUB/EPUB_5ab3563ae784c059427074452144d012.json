@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dat-gia-dinh-ben-nghe-xua-nguoi-sai-gon_19825.html",
+    "title" : "Đất Gia Định - Bến Nghé Xưa & Người Sài Gòn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 48588,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_5ab3563ae784c059427074452144d012.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_5ab3563ae784c059427074452144d012.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dat-gia-dinh-ben-nghe-xua-nguoi-sai-gon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11228,
+    "title" : "Bến Nghé Xưa & Người Sài Gòn #1 - Truyện Dài của Sơn Nam | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-gia-dinh-ben-nghe-xua-nguoi-sai-gon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12184,
+    "title" : "Bến Nghé Xưa & Người Sài Gòn #2 - Truyện Dài của Sơn Nam | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-gia-dinh-ben-nghe-xua-nguoi-sai-gon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11467,
+    "title" : "Bến Nghé Xưa & Người Sài Gòn #3 - Truyện Dài của Sơn Nam | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-gia-dinh-ben-nghe-xua-nguoi-sai-gon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13709,
+    "title" : "Bến Nghé Xưa & Người Sài Gòn #4 End - Truyện Dài của Sơn Nam | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dat-gia-dinh-ben-nghe-xua-nguoi-sai-gon/1.mp3",
+    "title" : "Bến Nghé Xưa & Người Sài Gòn #1 - Truyện Dài của Sơn Nam | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-gia-dinh-ben-nghe-xua-nguoi-sai-gon/2.mp3",
+    "title" : "Bến Nghé Xưa & Người Sài Gòn #2 - Truyện Dài của Sơn Nam | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-gia-dinh-ben-nghe-xua-nguoi-sai-gon/3.mp3",
+    "title" : "Bến Nghé Xưa & Người Sài Gòn #3 - Truyện Dài của Sơn Nam | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-gia-dinh-ben-nghe-xua-nguoi-sai-gon/4.mp3",
+    "title" : "Bến Nghé Xưa & Người Sài Gòn #4 End - Truyện Dài của Sơn Nam | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
