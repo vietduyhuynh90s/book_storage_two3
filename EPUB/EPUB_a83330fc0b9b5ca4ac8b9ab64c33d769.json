@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bup-be-dang-ngu-jeffery-deaver_8953.html",
+    "title" : "Búp bê đang ngủ - Jeffery Deaver",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jeffery Deaver",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 61099,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_a83330fc0b9b5ca4ac8b9ab64c33d769.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_a83330fc0b9b5ca4ac8b9ab64c33d769.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/BupBeangNgu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2064,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver –Tập 1 – Truyện trinh thám hình sự – Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2208,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 10 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2355,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 11 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2344,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 12 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2309,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 13 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2194,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 14 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2176,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 15 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "Búp bê đang ngủ –Jeffery Deaver –Tập 16 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2171,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 17 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2253,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 18 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2248,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 19 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2020,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver –Tập 2 – Truyện trinh thám hình sự – Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2425,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 20 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2451,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 21 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2273,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 22 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2267,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 23 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2193,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 24 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 25 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2346,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 26 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1975,
+    "title" : "Jeffery Deaver -Tập 27 END -Trinh thám hình sự - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2243,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 3 – Truyện trinh thám hình sự – Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2223,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 4 – Truyện trinh thám hình sự – Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2453,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2090,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2347,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2261,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2250,
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 9 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/BupBeangNgu/1.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver –Tập 1 – Truyện trinh thám hình sự – Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/10.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 10 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/11.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 11 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/12.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 12 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/13.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 13 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/14.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 14 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/15.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 15 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/16.mp3",
+    "title" : "Búp bê đang ngủ –Jeffery Deaver –Tập 16 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/17.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 17 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/18.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 18 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/19.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 19 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/2.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver –Tập 2 – Truyện trinh thám hình sự – Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/20.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 20 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/21.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 21 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/22.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 22 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/23.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 23 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/24.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 24 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/25.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 25 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/26.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 26 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/27.mp3",
+    "title" : "Jeffery Deaver -Tập 27 END -Trinh thám hình sự - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/3.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 3 – Truyện trinh thám hình sự – Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/4.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 4 – Truyện trinh thám hình sự – Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/5.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/6.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/7.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/8.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BupBeangNgu/9.mp3",
+    "title" : "Búp bê đang ngủ – Jeffery Deaver – Tập 9 –Trinh thám hình sự – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

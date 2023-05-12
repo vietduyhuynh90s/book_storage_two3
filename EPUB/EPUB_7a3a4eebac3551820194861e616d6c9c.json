@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/goi-nang-xuan-ve_20211.html",
+    "title" : "Gọi Nắng Xuân Về",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 13262,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_7a3a4eebac3551820194861e616d6c9c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_7a3a4eebac3551820194861e616d6c9c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/goi-nang-1/goi-nang-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "goi-nang-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/goi-nang-1/goi-nang-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "goi-nang-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/goi-nang-1/goi-nang-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "goi-nang-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/goi-nang-1/goi-nang-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2462,
+    "title" : "goi-nang-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/goi-nang-1/goi-nang-1.mp3",
+    "title" : "goi-nang-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/goi-nang-1/goi-nang-2.mp3",
+    "title" : "goi-nang-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/goi-nang-1/goi-nang-3.mp3",
+    "title" : "goi-nang-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/goi-nang-1/goi-nang-4.mp3",
+    "title" : "goi-nang-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

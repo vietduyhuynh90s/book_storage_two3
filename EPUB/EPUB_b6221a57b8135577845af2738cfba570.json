@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/y-nghia-su-song_20237.html",
+    "title" : "Ý Nghĩa Sự Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đạt Lai Lạt Ma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 16813,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_b6221a57b8135577845af2738cfba570.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_b6221a57b8135577845af2738cfba570.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhan-sinh/12-chi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4063,
+    "title" : "12-chi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/4164.07-Chuong-4_Gia%20tri%20long%20vi%20tha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2120,
+    "title" : "07-Chuong-4_Gia tri long vi tha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/4164.08-Chuong-5_Hop%20nhat%20tu%20bi%20va%20tri%20tue.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1665,
+    "title" : "08-Chuong-5_Hop nhat tu bi va tri tue",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/cac-giai-dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "cac-giai-dong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/doi-song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3114,
+    "title" : "doi-song",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/nhan-sinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3448,
+    "title" : "nhan-sinh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhan-sinh/12-chi.mp3",
+    "title" : "12-chi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/4164.07-Chuong-4_Gia%20tri%20long%20vi%20tha.mp3",
+    "title" : "07-Chuong-4_Gia tri long vi tha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/4164.08-Chuong-5_Hop%20nhat%20tu%20bi%20va%20tri%20tue.mp3",
+    "title" : "08-Chuong-5_Hop nhat tu bi va tri tue",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/cac-giai-dong.mp3",
+    "title" : "cac-giai-dong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/doi-song.mp3",
+    "title" : "doi-song",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhan-sinh/nhan-sinh.mp3",
+    "title" : "nhan-sinh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoi-uc-thieu-nu_18625.html",
+    "title" : "Hồi Ức Thiếu Nữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Annie Ernaux",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 18253,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_72bb630e9cfb549103f825c4fd8c25c0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_72bb630e9cfb549103f825c4fd8c25c0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sach-noi-hay-ho-i-u-c-thie-u-nu-annie-ernaux-full-phan-02/%5BS%C3%A1ch%20n%C3%B3i%20hay%5D%20H%E1%BB%92I%20%E1%BB%A8C%20THI%E1%BA%BEU%20N%E1%BB%AE%20-%20Annie%20Ernaux%20%28full%29_Ph%E1%BA%A7n%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8102,
+    "title" : "[Sách nói hay] HỒI ỨC THIẾU NỮ - Annie Ernaux (full) Phần 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sach-noi-hay-ho-i-u-c-thie-u-nu-annie-ernaux-full-phan-02/%5BS%C3%A1ch%20n%C3%B3i%20hay%5D%20H%E1%BB%92I%20%E1%BB%A8C%20THI%E1%BA%BEU%20N%E1%BB%AE%20-%20Annie%20Ernaux%20%28full%29_Ph%E1%BA%A7n%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10151,
+    "title" : "[Sách nói hay] HỒI ỨC THIẾU NỮ - Annie Ernaux (full) Phần 02",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sach-noi-hay-ho-i-u-c-thie-u-nu-annie-ernaux-full-phan-02/%5BS%C3%A1ch%20n%C3%B3i%20hay%5D%20H%E1%BB%92I%20%E1%BB%A8C%20THI%E1%BA%BEU%20N%E1%BB%AE%20-%20Annie%20Ernaux%20%28full%29_Ph%E1%BA%A7n%2001.mp3",
+    "title" : "[Sách nói hay] HỒI ỨC THIẾU NỮ - Annie Ernaux (full) Phần 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sach-noi-hay-ho-i-u-c-thie-u-nu-annie-ernaux-full-phan-02/%5BS%C3%A1ch%20n%C3%B3i%20hay%5D%20H%E1%BB%92I%20%E1%BB%A8C%20THI%E1%BA%BEU%20N%E1%BB%AE%20-%20Annie%20Ernaux%20%28full%29_Ph%E1%BA%A7n%2002.mp3",
+    "title" : "[Sách nói hay] HỒI ỨC THIẾU NỮ - Annie Ernaux (full) Phần 02",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

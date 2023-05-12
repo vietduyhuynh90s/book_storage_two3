@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bach-da-hanh-higashino-keigo_8667.html",
+    "title" : "Bạch Dạ Hành - Higashino Keigo.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 68620,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_5d1758f96e449e075e8c3f059184637b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_5d1758f96e449e075e8c3f059184637b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL001%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20I.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6553,
+    "title" : "SNNL001 ― Bạch Dạ Hành ― Chương I",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL002%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20II.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4033,
+    "title" : "SNNL002 ― Bạch Dạ Hành ― Chương II",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL003%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20III.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5552,
+    "title" : "SNNL003 ― Bạch Dạ Hành ― Chương III",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL004%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20IV.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3820,
+    "title" : "SNNL004 ― Bạch Dạ Hành ― Chương IV",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL005%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20V.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3865,
+    "title" : "SNNL005 ― Bạch Dạ Hành ― Chương V",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL006%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VI.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3679,
+    "title" : "SNNL006 ― Bạch Dạ Hành ― Chương VI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL007%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VII.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3817,
+    "title" : "SNNL007 ― Bạch Dạ Hành ― Chương VII",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL008%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VIII.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4197,
+    "title" : "SNNL008 ― Bạch Dạ Hành ― Chương VIII",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL009%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20IX.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4271,
+    "title" : "SNNL009 ― Bạch Dạ Hành ― Chương IX",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL010%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20X.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5666,
+    "title" : "SNNL010 ― Bạch Dạ Hành ― Chương X",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL011%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XI.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4424,
+    "title" : "SNNL011 ― Bạch Dạ Hành ― Chương XI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL012%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XII.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7863,
+    "title" : "SNNL012 ― Bạch Dạ Hành ― Chương XII",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL013%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XIII.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10880,
+    "title" : "SNNL013 ― Bạch Dạ Hành ― Chương XIII",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL001%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20I.mp3",
+    "title" : "SNNL001 ― Bạch Dạ Hành ― Chương I",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL002%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20II.mp3",
+    "title" : "SNNL002 ― Bạch Dạ Hành ― Chương II",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL003%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20III.mp3",
+    "title" : "SNNL003 ― Bạch Dạ Hành ― Chương III",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL004%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20IV.mp3",
+    "title" : "SNNL004 ― Bạch Dạ Hành ― Chương IV",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL005%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20V.mp3",
+    "title" : "SNNL005 ― Bạch Dạ Hành ― Chương V",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL006%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VI.mp3",
+    "title" : "SNNL006 ― Bạch Dạ Hành ― Chương VI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL007%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VII.mp3",
+    "title" : "SNNL007 ― Bạch Dạ Hành ― Chương VII",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL008%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VIII.mp3",
+    "title" : "SNNL008 ― Bạch Dạ Hành ― Chương VIII",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL009%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20IX.mp3",
+    "title" : "SNNL009 ― Bạch Dạ Hành ― Chương IX",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL010%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20X.mp3",
+    "title" : "SNNL010 ― Bạch Dạ Hành ― Chương X",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL011%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XI.mp3",
+    "title" : "SNNL011 ― Bạch Dạ Hành ― Chương XI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL012%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XII.mp3",
+    "title" : "SNNL012 ― Bạch Dạ Hành ― Chương XII",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL013%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XIII.mp3",
+    "title" : "SNNL013 ― Bạch Dạ Hành ― Chương XIII",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

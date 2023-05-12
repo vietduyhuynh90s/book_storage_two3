@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-nguyen-cuoi-cung-loi-me_8791.html",
+    "title" : "Tâm Nguyện Cuối Cùng - Lôi Mễ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lôi Mễ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 71531,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_00e826dd84245ef773e5aceaf1544d3a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_00e826dd84245ef773e5aceaf1544d3a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 1 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3077,
+    "title" : "TẬP 10 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2554,
+    "title" : "TẬP 11 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3371,
+    "title" : "TẬP 12 | LÔI MỄ | MC PHÚ CƯỜNG (Detective story)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUÔI CÙNG | TẬP 14 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3228,
+    "title" : "TẬP 14 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2407,
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 15 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2716,
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 16 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2657,
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 17 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 18 | LÔI MỄ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3267,
+    "title" : "TẬP 19 | THỨC TỈNH | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 2 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2310,
+    "title" : "[TNCC] BÍ MẬT CỦA HAI NGƯỜI | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3248,
+    "title" : "KẺ ĐÓNG THẾ | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4873,
+    "title" : "TÂM NGUYỆN CUỐI CÙNG | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3958,
+    "title" : "TẬP 3 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3772,
+    "title" : "TẬP 4 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "TẬP 5 | LÔI MỄ | PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3447,
+    "title" : "TẬP 6 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "TẬP 7 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "TẬP 8 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3387,
+    "title" : "TẬP 9 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/1.mp3",
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 1 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/10.mp3",
+    "title" : "TẬP 10 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/11.mp3",
+    "title" : "TẬP 11 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/12.mp3",
+    "title" : "TẬP 12 | LÔI MỄ | MC PHÚ CƯỜNG (Detective story)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/13.mp3",
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUÔI CÙNG | TẬP 14 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/14.mp3",
+    "title" : "TẬP 14 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/15.mp3",
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 15 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/16.mp3",
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 16 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/17.mp3",
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 17 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/18.mp3",
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 18 | LÔI MỄ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/19.mp3",
+    "title" : "TẬP 19 | THỨC TỈNH | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/2.mp3",
+    "title" : "[TRINH THÁM] TÂM NGUYỆN CUỐI CÙNG | TẬP 2 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/20.mp3",
+    "title" : "[TNCC] BÍ MẬT CỦA HAI NGƯỜI | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/21.mp3",
+    "title" : "KẺ ĐÓNG THẾ | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/22.mp3",
+    "title" : "TÂM NGUYỆN CUỐI CÙNG | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/3.mp3",
+    "title" : "TẬP 3 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/4.mp3",
+    "title" : "TẬP 4 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/5.mp3",
+    "title" : "TẬP 5 | LÔI MỄ | PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/6.mp3",
+    "title" : "TẬP 6 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/7.mp3",
+    "title" : "TẬP 7 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/8.mp3",
+    "title" : "TẬP 8 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-nguyen-cuoi-cung/9.mp3",
+    "title" : "TẬP 9 | LÔI MỄ | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

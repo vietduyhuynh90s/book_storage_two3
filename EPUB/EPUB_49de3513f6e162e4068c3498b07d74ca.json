@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-chuyen-nang-mua_19384.html",
+    "title" : "Kể Chuyện Nắng Mưa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khiết Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 10321,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_49de3513f6e162e4068c3498b07d74ca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_49de3513f6e162e4068c3498b07d74ca.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-chuyen-1/ke-chuyen-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ke-chuyen-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-chuyen-1/ke-chuyen-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ke-chuyen-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-chuyen-1/ke-chuyen-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "ke-chuyen-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-chuyen-1/ke-chuyen-1.mp3",
+    "title" : "ke-chuyen-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-chuyen-1/ke-chuyen-2.mp3",
+    "title" : "ke-chuyen-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-chuyen-1/ke-chuyen-3.mp3",
+    "title" : "ke-chuyen-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

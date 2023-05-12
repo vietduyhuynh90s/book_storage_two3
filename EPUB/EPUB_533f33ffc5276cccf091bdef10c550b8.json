@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ly-quang-dieu-ban-ve-cam-quyen_20175.html",
+    "title" : "Lý Quang Diệu Bàn Về Cầm Quyền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Janice Tay",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 8962,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_533f33ffc5276cccf091bdef10c550b8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_533f33ffc5276cccf091bdef10c550b8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuyentaplyquangdieubanvesection1/Tuy%E1%BB%83n%20t%E1%BA%ADp%20L%C3%BD%20Quang%20Di%E1%BB%87u%20b%C3%A0n%20v%E1%BB%81%20%20Section%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Tuyển tập Lý Quang Diệu bàn về  Section 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyentaplyquangdieubanvesection1/Tuy%E1%BB%83n%20t%E1%BA%ADp%20L%C3%BD%20Quang%20Di%E1%BB%87u%20b%C3%A0n%20v%E1%BB%81%20%20Section%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Tuyển tập Lý Quang Diệu bàn về  Section 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyentaplyquangdieubanvesection1/Tuy%E1%BB%83n%20t%E1%BA%ADp%20L%C3%BD%20Quang%20Di%E1%BB%87u%20b%C3%A0n%20v%E1%BB%81%20%20Section%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "Tuyển tập Lý Quang Diệu bàn về  Section 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuyentaplyquangdieubanvesection1/Tuy%E1%BB%83n%20t%E1%BA%ADp%20L%C3%BD%20Quang%20Di%E1%BB%87u%20b%C3%A0n%20v%E1%BB%81%20%20Section%201.mp3",
+    "title" : "Tuyển tập Lý Quang Diệu bàn về  Section 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyentaplyquangdieubanvesection1/Tuy%E1%BB%83n%20t%E1%BA%ADp%20L%C3%BD%20Quang%20Di%E1%BB%87u%20b%C3%A0n%20v%E1%BB%81%20%20Section%202.mp3",
+    "title" : "Tuyển tập Lý Quang Diệu bàn về  Section 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyentaplyquangdieubanvesection1/Tuy%E1%BB%83n%20t%E1%BA%ADp%20L%C3%BD%20Quang%20Di%E1%BB%87u%20b%C3%A0n%20v%E1%BB%81%20%20Section%203.mp3",
+    "title" : "Tuyển tập Lý Quang Diệu bàn về  Section 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

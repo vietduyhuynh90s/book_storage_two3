@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/san-ca-than_17855.html",
+    "title" : "Săn Cá Thần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đặng Thiều Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 44161,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_c11b8762405ef97d52b73ec0e53b8488.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_c11b8762405ef97d52b73ec0e53b8488.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 958,
+    "title" : "Săn cá thần 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 912,
+    "title" : "Săn cá thần 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1125,
+    "title" : "Săn cá thần 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1138,
+    "title" : "Săn cá thần 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1602,
+    "title" : "Săn cá thần 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1228,
+    "title" : "Săn cá thần 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1006,
+    "title" : "Săn cá thần 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2062,
+    "title" : "Săn cá thần 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 793,
+    "title" : "Săn cá thần 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1491,
+    "title" : "Săn cá thần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1554,
+    "title" : "Săn cá thần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2333,
+    "title" : "Săn cá thần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1091,
+    "title" : "Săn cá thần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1508,
+    "title" : "Săn cá thần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 841,
+    "title" : "Săn cá thần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1698,
+    "title" : "Săn cá thần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1266,
+    "title" : "Săn cá thần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1115,
+    "title" : "Săn cá thần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1637,
+    "title" : "Săn cá thần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1436,
+    "title" : "Săn cá thần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1696,
+    "title" : "Săn cá thần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1011,
+    "title" : "Săn cá thần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1647,
+    "title" : "Săn cá thần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1501,
+    "title" : "Săn cá thần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "Săn cá thần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1901,
+    "title" : "Săn cá thần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1915,
+    "title" : "Săn cá thần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2126,
+    "title" : "Săn cá thần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1472,
+    "title" : "Săn cá thần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_30%20%28END%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2390,
+    "title" : "Săn cá thần 30 (END)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_01.mp3",
+    "title" : "Săn cá thần 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_02.mp3",
+    "title" : "Săn cá thần 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_03.mp3",
+    "title" : "Săn cá thần 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_04.mp3",
+    "title" : "Săn cá thần 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_05.mp3",
+    "title" : "Săn cá thần 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_06.mp3",
+    "title" : "Săn cá thần 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_07.mp3",
+    "title" : "Săn cá thần 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_08.mp3",
+    "title" : "Săn cá thần 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_09.mp3",
+    "title" : "Săn cá thần 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_10.mp3",
+    "title" : "Săn cá thần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_11.mp3",
+    "title" : "Săn cá thần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_12.mp3",
+    "title" : "Săn cá thần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_13.mp3",
+    "title" : "Săn cá thần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_14.mp3",
+    "title" : "Săn cá thần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_15.mp3",
+    "title" : "Săn cá thần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_16.mp3",
+    "title" : "Săn cá thần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_17.mp3",
+    "title" : "Săn cá thần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_18.mp3",
+    "title" : "Săn cá thần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_19.mp3",
+    "title" : "Săn cá thần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_20.mp3",
+    "title" : "Săn cá thần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_21.mp3",
+    "title" : "Săn cá thần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_22.mp3",
+    "title" : "Săn cá thần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_23.mp3",
+    "title" : "Săn cá thần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_24.mp3",
+    "title" : "Săn cá thần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_25.mp3",
+    "title" : "Săn cá thần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_26.mp3",
+    "title" : "Săn cá thần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_27.mp3",
+    "title" : "Săn cá thần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_28.mp3",
+    "title" : "Săn cá thần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_29.mp3",
+    "title" : "Săn cá thần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-ca-than-08/S%C4%83n%20c%C3%A1%20th%E1%BA%A7n_30%20%28END%29.mp3",
+    "title" : "Săn cá thần 30 (END)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

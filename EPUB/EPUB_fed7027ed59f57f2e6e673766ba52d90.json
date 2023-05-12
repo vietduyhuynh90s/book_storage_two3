@@ -1,0 +1,1205 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tru-tien-2-luan-hoi-tieu-dinh_12013.html",
+    "title" : "Tru Tiên 2: Luân Hồi - Tiêu Đỉnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiêu Đỉnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 179630,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_fed7027ed59f57f2e6e673766ba52d90.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_fed7027ed59f57f2e6e673766ba52d90.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tru-tien-ii/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4391,
+    "title" : "Phần 1: Giận - Đêm tối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1590,
+    "title" : "Chương 13 - Xem bói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1586,
+    "title" : "Chương 14 - Mất tích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1463,
+    "title" : "Chương 15 - Rừng Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1501,
+    "title" : "Chương 16 - Đếm thí sinh đến Thanh Vân Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1679,
+    "title" : "Chương 17 - Chị em mừng tủi gặp nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1497,
+    "title" : "Chương 18 - Biệt viện tại Thanh Vân Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1327,
+    "title" : "Chương 19 - Khoảng sân biệt viện, gặp lại Tiểu Liên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1601,
+    "title" : "Chương 20 - Núi cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1509,
+    "title" : "Chương 21 - Sáng tối viếng cảnh đẹp Thông Thiên Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1528,
+    "title" : "Chương 22: Cha mẹ - Không ngờ Tuyết Kỳ và Tiểu Phàm có quả ngọt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4160,
+    "title" : "Phần 2: Thầy trò - Con rắn tai họa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1651,
+    "title" : "Chương 23 - Láng giềng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1536,
+    "title" : "Chương 24 - Thuật lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2295,
+    "title" : "Chương 25 - Sinh nhật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1666,
+    "title" : "Chương 26: Hứa hẹn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1535,
+    "title" : "Chương 27 - Linh Nhi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "Chương 28: Kỳ tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1591,
+    "title" : "Tru tiên 2 Chương 29: Bắt đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1374,
+    "title" : "Chương 30 - Linh Đan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1540,
+    "title" : "Chương 31 - Thành Hà Dương xem lễ tế thần Sông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1058,
+    "title" : "Chương 32 - Xung đột",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5024,
+    "title" : "Phần 3: Phải sống - Gặp lại cố nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1688,
+    "title" : "Chương 33 - Giếng khô",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1621,
+    "title" : "Chương 34 - Đồng Hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1932,
+    "title" : "Chương 35 - Kỳ Quang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1490,
+    "title" : "Chương 36 - Khô lâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1872,
+    "title" : "Chương 37 - Hỗn loạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1898,
+    "title" : "Chương 38 - Thần Quy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2113,
+    "title" : "Chương 39: T.ử c.h.i.ế.n",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1522,
+    "title" : "Chương 40 - U Tuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1608,
+    "title" : "Chương 41 - Thần kiếm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1137,
+    "title" : "Chương 42 - Mai Phục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2504,
+    "title" : "Chương 7 - Về lại mái nhà xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1606,
+    "title" : "Thế Sự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2218,
+    "title" : "Chương 44 - 45: Tín nhiệm - Đúng sai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "Chương 46 - Cổ văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1391,
+    "title" : "Chương 47 - Cái tát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2299,
+    "title" : "Chương 48 - 49: Cáo trạng - Che mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1567,
+    "title" : "Chương 50: Dò hỏi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1266,
+    "title" : "Chương 51 - Sát ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1409,
+    "title" : "Chương 52 - Bí mật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1551,
+    "title" : "Chương 53: Kẻ từ giã cõi đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1125,
+    "title" : "Chương 54 - Gian tế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2595,
+    "title" : "Chương 8 - Bạn Bè",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1402,
+    "title" : "Chương 55: Phát hiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1592,
+    "title" : "Chương 56: Cố nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1203,
+    "title" : "Chương 57: Xem xét tỉ mỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2327,
+    "title" : "Chương 58: Bắt đầu bùng nổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2363,
+    "title" : "Chương 59 - Chuyện cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2496,
+    "title" : "Chương 60: Bí mật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2296,
+    "title" : "Chương 61 - Thác ngộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2176,
+    "title" : "Chương 62: Bí thuật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "Chương 63: Khai môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2266,
+    "title" : "Chương 64 - Tư ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2359,
+    "title" : "Chương 9 - Đáy nước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2029,
+    "title" : "Chương 65: Cái phễu của Tiểu Đỉnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2197,
+    "title" : "61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2468,
+    "title" : "62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2318,
+    "title" : "63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2272,
+    "title" : "64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2161,
+    "title" : "65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2237,
+    "title" : "66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1991,
+    "title" : "67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2650,
+    "title" : "68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1636,
+    "title" : "69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2173,
+    "title" : "Chương 10: Bạn bè",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1324,
+    "title" : "71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1168,
+    "title" : "72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1371,
+    "title" : "74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1561,
+    "title" : "75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1503,
+    "title" : "76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1629,
+    "title" : "77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1629,
+    "title" : "78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1686,
+    "title" : "79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1731,
+    "title" : "Chương 11 - Ngầm giúp đỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1697,
+    "title" : "80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1535,
+    "title" : "81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1575,
+    "title" : "82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1359,
+    "title" : "83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1359,
+    "title" : "84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1613,
+    "title" : "85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1482,
+    "title" : "86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1549,
+    "title" : "87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1480,
+    "title" : "88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1534,
+    "title" : "89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1874,
+    "title" : "Chương 12 - Thành Lư Dương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1559,
+    "title" : "90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1569,
+    "title" : "91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1489,
+    "title" : "92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2184,
+    "title" : "93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2198,
+    "title" : "94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2040,
+    "title" : "95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2620,
+    "title" : "97",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tru-tien-ii/1.mp3",
+    "title" : "Phần 1: Giận - Đêm tối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/10.mp3",
+    "title" : "Chương 13 - Xem bói",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/11.mp3",
+    "title" : "Chương 14 - Mất tích",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/12.mp3",
+    "title" : "Chương 15 - Rừng Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/13.mp3",
+    "title" : "Chương 16 - Đếm thí sinh đến Thanh Vân Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/14.mp3",
+    "title" : "Chương 17 - Chị em mừng tủi gặp nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/15.mp3",
+    "title" : "Chương 18 - Biệt viện tại Thanh Vân Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/16.mp3",
+    "title" : "Chương 19 - Khoảng sân biệt viện, gặp lại Tiểu Liên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/17.mp3",
+    "title" : "Chương 20 - Núi cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/18.mp3",
+    "title" : "Chương 21 - Sáng tối viếng cảnh đẹp Thông Thiên Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/19.mp3",
+    "title" : "Chương 22: Cha mẹ - Không ngờ Tuyết Kỳ và Tiểu Phàm có quả ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/2.mp3",
+    "title" : "Phần 2: Thầy trò - Con rắn tai họa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/20.mp3",
+    "title" : "Chương 23 - Láng giềng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/21.mp3",
+    "title" : "Chương 24 - Thuật lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/22.mp3",
+    "title" : "Chương 25 - Sinh nhật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/23.mp3",
+    "title" : "Chương 26: Hứa hẹn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/24.mp3",
+    "title" : "Chương 27 - Linh Nhi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/25.mp3",
+    "title" : "Chương 28: Kỳ tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/26.mp3",
+    "title" : "Tru tiên 2 Chương 29: Bắt đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/27.mp3",
+    "title" : "Chương 30 - Linh Đan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/28.mp3",
+    "title" : "Chương 31 - Thành Hà Dương xem lễ tế thần Sông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/29.mp3",
+    "title" : "Chương 32 - Xung đột",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/3.mp3",
+    "title" : "Phần 3: Phải sống - Gặp lại cố nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/30.mp3",
+    "title" : "Chương 33 - Giếng khô",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/31.mp3",
+    "title" : "Chương 34 - Đồng Hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/32.mp3",
+    "title" : "Chương 35 - Kỳ Quang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/33.mp3",
+    "title" : "Chương 36 - Khô lâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/34.mp3",
+    "title" : "Chương 37 - Hỗn loạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/35.mp3",
+    "title" : "Chương 38 - Thần Quy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/36.mp3",
+    "title" : "Chương 39: T.ử c.h.i.ế.n",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/37.mp3",
+    "title" : "Chương 40 - U Tuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/38.mp3",
+    "title" : "Chương 41 - Thần kiếm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/39.mp3",
+    "title" : "Chương 42 - Mai Phục",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/4.mp3",
+    "title" : "Chương 7 - Về lại mái nhà xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/40.mp3",
+    "title" : "Thế Sự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/41.mp3",
+    "title" : "Chương 44 - 45: Tín nhiệm - Đúng sai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/42.mp3",
+    "title" : "Chương 46 - Cổ văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/43.mp3",
+    "title" : "Chương 47 - Cái tát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/44.mp3",
+    "title" : "Chương 48 - 49: Cáo trạng - Che mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/45.mp3",
+    "title" : "Chương 50: Dò hỏi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/46.mp3",
+    "title" : "Chương 51 - Sát ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/47.mp3",
+    "title" : "Chương 52 - Bí mật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/48.mp3",
+    "title" : "Chương 53: Kẻ từ giã cõi đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/49.mp3",
+    "title" : "Chương 54 - Gian tế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/5.mp3",
+    "title" : "Chương 8 - Bạn Bè",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/50.mp3",
+    "title" : "Chương 55: Phát hiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/51.mp3",
+    "title" : "Chương 56: Cố nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/52.mp3",
+    "title" : "Chương 57: Xem xét tỉ mỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/53.mp3",
+    "title" : "Chương 58: Bắt đầu bùng nổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/54.mp3",
+    "title" : "Chương 59 - Chuyện cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/55.mp3",
+    "title" : "Chương 60: Bí mật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/56.mp3",
+    "title" : "Chương 61 - Thác ngộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/57.mp3",
+    "title" : "Chương 62: Bí thuật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/58.mp3",
+    "title" : "Chương 63: Khai môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/59.mp3",
+    "title" : "Chương 64 - Tư ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/6.mp3",
+    "title" : "Chương 9 - Đáy nước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/60.mp3",
+    "title" : "Chương 65: Cái phễu của Tiểu Đỉnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/61.mp3",
+    "title" : "61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/62.mp3",
+    "title" : "62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/63.mp3",
+    "title" : "63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/64.mp3",
+    "title" : "64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/65.mp3",
+    "title" : "65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/66.mp3",
+    "title" : "66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/67.mp3",
+    "title" : "67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/68.mp3",
+    "title" : "68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/69.mp3",
+    "title" : "69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/7.mp3",
+    "title" : "Chương 10: Bạn bè",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/70.mp3",
+    "title" : "70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/71.mp3",
+    "title" : "71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/72.mp3",
+    "title" : "72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/73.mp3",
+    "title" : "73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/74.mp3",
+    "title" : "74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/75.mp3",
+    "title" : "75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/76.mp3",
+    "title" : "76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/77.mp3",
+    "title" : "77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/78.mp3",
+    "title" : "78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/79.mp3",
+    "title" : "79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/8.mp3",
+    "title" : "Chương 11 - Ngầm giúp đỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/80.mp3",
+    "title" : "80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/81.mp3",
+    "title" : "81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/82.mp3",
+    "title" : "82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/83.mp3",
+    "title" : "83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/84.mp3",
+    "title" : "84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/85.mp3",
+    "title" : "85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/86.mp3",
+    "title" : "86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/87.mp3",
+    "title" : "87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/88.mp3",
+    "title" : "88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/89.mp3",
+    "title" : "89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/9.mp3",
+    "title" : "Chương 12 - Thành Lư Dương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/90.mp3",
+    "title" : "90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/91.mp3",
+    "title" : "91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/92.mp3",
+    "title" : "92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/93.mp3",
+    "title" : "93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/94.mp3",
+    "title" : "94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/95.mp3",
+    "title" : "95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/96.mp3",
+    "title" : "96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tru-tien-ii/97.mp3",
+    "title" : "97",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

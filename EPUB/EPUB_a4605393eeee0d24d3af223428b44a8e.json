@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bien-uoc-mo-thanh-hien-thuc_20260.html",
+    "title" : "Biến Ước Mơ Thành Hiện Thực",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Pamala Oslie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 11072,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_a4605393eeee0d24d3af223428b44a8e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_a4605393eeee0d24d3af223428b44a8e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/01LoiGioiThieu/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 488,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/02-suc_manh_cua_sang_tao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 816,
+    "title" : "Chương I: Sức mạnh của niềm tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/03-thuc_te_hay_chan_ly.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 538,
+    "title" : "Thực tế hay chân lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/04-kham_pha_niem_tin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1310,
+    "title" : "Chương II: Khám phá niềm tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/05-cac_tro_choi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3152,
+    "title" : "Các trò chơi và phương pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/06-phuong_phap_thay_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1344,
+    "title" : "Chương III: Thay đổi niềm tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/07-nhung_niem_tin_tieu_cuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2272,
+    "title" : "Những niềm tin tiêu cực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/08-tao_dung_cuoc_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1152,
+    "title" : "Chương IV: Tạo dựng cuộc sống trên cơ sở niềm tin mới",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/01LoiGioiThieu/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/02-suc_manh_cua_sang_tao.mp3",
+    "title" : "Chương I: Sức mạnh của niềm tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/03-thuc_te_hay_chan_ly.mp3",
+    "title" : "Thực tế hay chân lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/04-kham_pha_niem_tin.mp3",
+    "title" : "Chương II: Khám phá niềm tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/05-cac_tro_choi.mp3",
+    "title" : "Các trò chơi và phương pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/06-phuong_phap_thay_doi.mp3",
+    "title" : "Chương III: Thay đổi niềm tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/07-nhung_niem_tin_tieu_cuc.mp3",
+    "title" : "Những niềm tin tiêu cực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu/08-tao_dung_cuoc_song.mp3",
+    "title" : "Chương IV: Tạo dựng cuộc sống trên cơ sở niềm tin mới",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

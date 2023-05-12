@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/qua-tang-tinh-than-danh-cho-cuoc-song_16908.html",
+    "title" : "Quà Tặng Tinh Thần Dành Cho Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 6720,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_60373dd2384860455d29bc387ea8b330.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_60373dd2384860455d29bc387ea8b330.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 296,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/02-tran_trong_cuoc_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 346,
+    "title" : "Trân trọng cuộc sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/03-tu_nhan_thuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 220,
+    "title" : "Tự nhận thức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/04-lam_chu_cuoc_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 230,
+    "title" : "Làm chủ cuộc đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/05-dam_chiu_trach_nhiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 186,
+    "title" : "Dám chịu trách nhiệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/06-yeu_qui_ban_than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 182,
+    "title" : "Yêu quý bản thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/07-dam_thay_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 238,
+    "title" : "Dám thay đổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/08-di_tim_niem_vui_cuoc_son.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 194,
+    "title" : "Đi tìm niềm vui cuộc sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/09-cho_nen_nong_voi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 264,
+    "title" : "Chớ nên nóng vội!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/10-xay_dung_thai_do_tich_cu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 266,
+    "title" : "Xây dựng thái độ tích cực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/11-giu_vung_niem_tin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 264,
+    "title" : "Giữ vững niềm tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/12-gia_tri_cua_hien_tai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 242,
+    "title" : "Giá trị của hiện tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/13-hoc_tu_that_bai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 324,
+    "title" : "Học từ thất bại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/14-giai_phong_tinh_than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 222,
+    "title" : "Giải phóng tinh thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/15-long_can_dam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 206,
+    "title" : "Lòng can đảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/16-hoi_phuc_tinh_than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 122,
+    "title" : "Hồi phục tinh thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/17-su_kien_nhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 276,
+    "title" : "Sự kiên nhẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/18-suc_manh_cua_hy_vong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 228,
+    "title" : "Sức mạnh của hy vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/19-quang_ganh_lo_au.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 181,
+    "title" : "Quẳng gánh lo âu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/20-tai_sinh_tam_hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 360,
+    "title" : "Tái sinh tâm hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/21-su_thanh_than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 125,
+    "title" : "Sự thanh thản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/22-the_nao_la_su_hoan_hao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 262,
+    "title" : "Thế nào là sự hoàn hảo?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/23-tinh_than_vi_cong_dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 304,
+    "title" : "Tinh thần vì cộng đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/24-suc_manh_cua_su_lua_chon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 290,
+    "title" : "Sức mạnh của sự lựa chọn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/25-vuot_len_noi_dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 386,
+    "title" : "Vượt lên nỗi đau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/26-xay_dung_cac_moi_quan_he.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 210,
+    "title" : "Xây dựng các mối quan hệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/27-biet_chia_se.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 296,
+    "title" : "Biết chia sẻ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/02-tran_trong_cuoc_song.mp3",
+    "title" : "Trân trọng cuộc sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/03-tu_nhan_thuc.mp3",
+    "title" : "Tự nhận thức",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/04-lam_chu_cuoc_doi.mp3",
+    "title" : "Làm chủ cuộc đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/05-dam_chiu_trach_nhiem.mp3",
+    "title" : "Dám chịu trách nhiệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/06-yeu_qui_ban_than.mp3",
+    "title" : "Yêu quý bản thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/07-dam_thay_doi.mp3",
+    "title" : "Dám thay đổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/08-di_tim_niem_vui_cuoc_son.mp3",
+    "title" : "Đi tìm niềm vui cuộc sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/09-cho_nen_nong_voi.mp3",
+    "title" : "Chớ nên nóng vội!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/10-xay_dung_thai_do_tich_cu.mp3",
+    "title" : "Xây dựng thái độ tích cực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/11-giu_vung_niem_tin.mp3",
+    "title" : "Giữ vững niềm tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/12-gia_tri_cua_hien_tai.mp3",
+    "title" : "Giá trị của hiện tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/13-hoc_tu_that_bai.mp3",
+    "title" : "Học từ thất bại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/14-giai_phong_tinh_than.mp3",
+    "title" : "Giải phóng tinh thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/15-long_can_dam.mp3",
+    "title" : "Lòng can đảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/16-hoi_phuc_tinh_than.mp3",
+    "title" : "Hồi phục tinh thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/17-su_kien_nhan.mp3",
+    "title" : "Sự kiên nhẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/18-suc_manh_cua_hy_vong.mp3",
+    "title" : "Sức mạnh của hy vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/19-quang_ganh_lo_au.mp3",
+    "title" : "Quẳng gánh lo âu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/20-tai_sinh_tam_hon.mp3",
+    "title" : "Tái sinh tâm hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/21-su_thanh_than.mp3",
+    "title" : "Sự thanh thản",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/22-the_nao_la_su_hoan_hao.mp3",
+    "title" : "Thế nào là sự hoàn hảo?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/23-tinh_than_vi_cong_dong.mp3",
+    "title" : "Tinh thần vì cộng đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/24-suc_manh_cua_su_lua_chon.mp3",
+    "title" : "Sức mạnh của sự lựa chọn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/25-vuot_len_noi_dau.mp3",
+    "title" : "Vượt lên nỗi đau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/26-xay_dung_cac_moi_quan_he.mp3",
+    "title" : "Xây dựng các mối quan hệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-quaTangTinhThanDanhChoCuocSong/27-biet_chia_se.mp3",
+    "title" : "Biết chia sẻ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
