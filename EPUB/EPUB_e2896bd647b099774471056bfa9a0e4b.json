@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thay-doi-cau-hoi-thay-doi-cuoc-doi_20257.html",
+    "title" : "Thay Đổi Câu Hỏi Thay Đổi Cuộc Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tony Beshara",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 13493,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_e2896bd647b099774471056bfa9a0e4b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_e2896bd647b099774471056bfa9a0e4b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/01.GioiThieu_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 947,
+    "title" : "01.GioiThieu ThayDoiCauHoiThayDoiCuocDoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/02.P01_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2011,
+    "title" : "02.P01 ThayDoiCauHoiThayDoiCuocDoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/03.P02_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1925,
+    "title" : "03.P02 ThayDoiCauHoiThayDoiCuocDoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/04.P03_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2112,
+    "title" : "04.P03 ThayDoiCauHoiThayDoiCuocDoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/05.P04_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1597,
+    "title" : "05.P04 ThayDoiCauHoiThayDoiCuocDoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/06.P05_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2004,
+    "title" : "06.P05 ThayDoiCauHoiThayDoiCuocDoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/07.P06_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 634,
+    "title" : "07.P06 ThayDoiCauHoiThayDoiCuocDoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/08.P07_Het_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2263,
+    "title" : "08.P07 Het ThayDoiCauHoiThayDoiCuocDoi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/01.GioiThieu_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "title" : "01.GioiThieu ThayDoiCauHoiThayDoiCuocDoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/02.P01_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "title" : "02.P01 ThayDoiCauHoiThayDoiCuocDoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/03.P02_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "title" : "03.P02 ThayDoiCauHoiThayDoiCuocDoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/04.P03_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "title" : "04.P03 ThayDoiCauHoiThayDoiCuocDoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/05.P04_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "title" : "05.P04 ThayDoiCauHoiThayDoiCuocDoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/06.P05_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "title" : "06.P05 ThayDoiCauHoiThayDoiCuocDoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/07.P06_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "title" : "07.P06 ThayDoiCauHoiThayDoiCuocDoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-doi-cau-hoi-thay-doi-cuoc-doi.sna/08.P07_Het_ThayDoiCauHoiThayDoiCuocDoi.mp3",
+    "title" : "08.P07 Het ThayDoiCauHoiThayDoiCuocDoi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mat-ho-tinh-lang_20241.html",
+    "title" : "Mặt Hồ Tĩnh Lặng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ajahn Chah",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 20266,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_84dad1bdfe33a5f17a71459f821c35a5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_84dad1bdfe33a5f17a71459f821c35a5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1208,
+    "title" : "01_Loi Gioi Thieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1496,
+    "title" : "02_Phan1_Dao Gian Di_Hoc Hoi Va Kinh Nghiem",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1655,
+    "title" : "03_Ga Hay Trung_Tai Sao Phai Hanh Thien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1739,
+    "title" : "04_Thien Trong Moi Dong Tac_Duong Dau Voi Tam Minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1580,
+    "title" : "05_Phan2_Chanh Niem_Hoc Tung Kinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "06_Quen Thoi Gian Di_Thu Thuc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1190,
+    "title" : "07_Gioi La Cong Cu_Hoan Canh Thay Doi Tam Thi Van The",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1084,
+    "title" : "08_Ban Tron Di Dau Bay Gio_Thien Cach Nao Hay Nhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1288,
+    "title" : "09_Phan3_Cai Goc Cau Achaan Chaah_Chieng Im Lang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2049,
+    "title" : "10_Ben Trong Ban Khong Co Gi Ca_Van Dao Voi Achaan Chaah",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2131,
+    "title" : "11_Van Dao Voi Achaan Chaah Tt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1754,
+    "title" : "12_Huong Dan Hanh Thien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1574,
+    "title" : "13_Thien Minh Sat_Ht Mahasi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-01.mp3",
+    "title" : "01_Loi Gioi Thieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-02.mp3",
+    "title" : "02_Phan1_Dao Gian Di_Hoc Hoi Va Kinh Nghiem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-03.mp3",
+    "title" : "03_Ga Hay Trung_Tai Sao Phai Hanh Thien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-04.mp3",
+    "title" : "04_Thien Trong Moi Dong Tac_Duong Dau Voi Tam Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-05.mp3",
+    "title" : "05_Phan2_Chanh Niem_Hoc Tung Kinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-06.mp3",
+    "title" : "06_Quen Thoi Gian Di_Thu Thuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-07.mp3",
+    "title" : "07_Gioi La Cong Cu_Hoan Canh Thay Doi Tam Thi Van The",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-08.mp3",
+    "title" : "08_Ban Tron Di Dau Bay Gio_Thien Cach Nao Hay Nhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-09.mp3",
+    "title" : "09_Phan3_Cai Goc Cau Achaan Chaah_Chieng Im Lang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-10.mp3",
+    "title" : "10_Ben Trong Ban Khong Co Gi Ca_Van Dao Voi Achaan Chaah",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-11.mp3",
+    "title" : "11_Van Dao Voi Achaan Chaah Tt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-12.mp3",
+    "title" : "12_Huong Dan Hanh Thien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ho-11/mat-ho-13.mp3",
+    "title" : "13_Thien Minh Sat_Ht Mahasi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

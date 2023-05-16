@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duyen_20356.html",
+    "title" : "Duyên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bạch Lạc Mai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 27917,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_b0888de68cfc21bb642232fc5a0c99d3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_b0888de68cfc21bb642232fc5a0c99d3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duyen-3/duyen-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4321,
+    "title" : "Bạch Lạc Mai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3977,
+    "title" : "Bạch Lạc Mai # Quyển thứ 2: Trên đá tam sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6076,
+    "title" : "Bạch Lạc Mai # Quyển 3: Ngồi ngắm áng mây bay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4660,
+    "title" : "Bạch Lạc Mai # Quyển 4: Đạo tràng hồng trần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5847,
+    "title" : "Bạch Lạc Mai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3036,
+    "title" : "Bạch Lạc Mai # Quyển 6: Hồng nhan cách thế",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duyen-3/duyen-1.mp3",
+    "title" : "Bạch Lạc Mai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-2.mp3",
+    "title" : "Bạch Lạc Mai # Quyển thứ 2: Trên đá tam sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-3.mp3",
+    "title" : "Bạch Lạc Mai # Quyển 3: Ngồi ngắm áng mây bay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-4.mp3",
+    "title" : "Bạch Lạc Mai # Quyển 4: Đạo tràng hồng trần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-5.mp3",
+    "title" : "Bạch Lạc Mai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duyen-3/duyen-6.mp3",
+    "title" : "Bạch Lạc Mai # Quyển 6: Hồng nhan cách thế",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

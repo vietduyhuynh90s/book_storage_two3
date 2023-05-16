@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khao-luoc-adam-smith_20273.html",
+    "title" : "Khảo Lược Adam Smith",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Eamonn Butler",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 13944,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_5d608257fe52d79d01fb629623ff0cc8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_5d608257fe52d79d01fb629623ff0cc8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/01.C00_MucLucMoDau_KhaoLuocAdamSmith.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2106,
+    "title" : "01.C00 MucLucMoDau KhaoLuocAdamSmith",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/02.C01_MotNhanVatQuanTrong_KhaoLuocAdamSmith.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 760,
+    "title" : "02.C01 MotNhanVatQuanTrong KhaoLuocAdamSmith",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/03.C02_CuocDoiVaSuNghiep_KhaoLuocAdamSmith.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 714,
+    "title" : "03.C02 CuocDoiVaSuNghiep KhaoLuocAdamSmith",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/04.C03A_CuaCaiCuaCacQuocGia_KhaoLuocAdamSmith.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2649,
+    "title" : "04.C03A CuaCaiCuaCacQuocGia KhaoLuocAdamSmith",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/05.C03B_CuaCaiCuaCacQuocGia_KhaoLuocAdamSmith.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1900,
+    "title" : "05.C03B CuaCaiCuaCacQuocGia KhaoLuocAdamSmith",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/06.C04_LyThuyetVeCamNhanDaoDuc_KhaoLuocAdamSmith.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1740,
+    "title" : "06.C04 LyThuyetVeCamNhanDaoDuc KhaoLuocAdamSmith",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/07.C05_BaiGiangVaTacPhamKhacCuaSmith_KhaoLuocAdamSmith.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1453,
+    "title" : "07.C05 BaiGiangVaTacPhamKhacCuaSmith KhaoLuocAdamSmith",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/08.C06_BanThemVeBanTayVoHinh_KhaoLuocAdamSmith.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 881,
+    "title" : "08.C06 BanThemVeBanTayVoHinh KhaoLuocAdamSmith",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/09.C0708_MotSoTrichDan_LoiBat_KhaoLuocAdamSmith.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1741,
+    "title" : "09.C0708 MotSoTrichDan LoiBat KhaoLuocAdamSmith",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/01.C00_MucLucMoDau_KhaoLuocAdamSmith.mp3",
+    "title" : "01.C00 MucLucMoDau KhaoLuocAdamSmith",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/02.C01_MotNhanVatQuanTrong_KhaoLuocAdamSmith.mp3",
+    "title" : "02.C01 MotNhanVatQuanTrong KhaoLuocAdamSmith",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/03.C02_CuocDoiVaSuNghiep_KhaoLuocAdamSmith.mp3",
+    "title" : "03.C02 CuocDoiVaSuNghiep KhaoLuocAdamSmith",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/04.C03A_CuaCaiCuaCacQuocGia_KhaoLuocAdamSmith.mp3",
+    "title" : "04.C03A CuaCaiCuaCacQuocGia KhaoLuocAdamSmith",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/05.C03B_CuaCaiCuaCacQuocGia_KhaoLuocAdamSmith.mp3",
+    "title" : "05.C03B CuaCaiCuaCacQuocGia KhaoLuocAdamSmith",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/06.C04_LyThuyetVeCamNhanDaoDuc_KhaoLuocAdamSmith.mp3",
+    "title" : "06.C04 LyThuyetVeCamNhanDaoDuc KhaoLuocAdamSmith",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/07.C05_BaiGiangVaTacPhamKhacCuaSmith_KhaoLuocAdamSmith.mp3",
+    "title" : "07.C05 BaiGiangVaTacPhamKhacCuaSmith KhaoLuocAdamSmith",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/08.C06_BanThemVeBanTayVoHinh_KhaoLuocAdamSmith.mp3",
+    "title" : "08.C06 BanThemVeBanTayVoHinh KhaoLuocAdamSmith",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khao-luoc-adam-smith.sna/09.C0708_MotSoTrichDan_LoiBat_KhaoLuocAdamSmith.mp3",
+    "title" : "09.C0708 MotSoTrichDan LoiBat KhaoLuocAdamSmith",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
