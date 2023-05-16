@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xin-ban-hay-om-lay-trai-tim-minh-truoc-da_17729.html",
+    "title" : "Xin Bạn Hãy Ôm Lấy Trái Tim Mình Trước Đã",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dae Hyun Yoon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 20479,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_521d4b116912d2cd1e075bed1c138ed9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_521d4b116912d2cd1e075bed1c138ed9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xbholttmd/Xin%20Ba%CC%A3n%20Ha%CC%83y%20O%CC%82m%20La%CC%82%CC%81y%20Tra%CC%81i%20Tim%20Mi%CC%80nh%20Tru%CC%9Bo%CC%9B%CC%81c%20%C4%90a%CC%83.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 20479,
+    "title" : "Xin Bạn Hãy Ôm Lấy Trái Tim Mình Trước Đã",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xbholttmd/Xin%20Ba%CC%A3n%20Ha%CC%83y%20O%CC%82m%20La%CC%82%CC%81y%20Tra%CC%81i%20Tim%20Mi%CC%80nh%20Tru%CC%9Bo%CC%9B%CC%81c%20%C4%90a%CC%83.m4a",
+    "title" : "Xin Bạn Hãy Ôm Lấy Trái Tim Mình Trước Đã",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

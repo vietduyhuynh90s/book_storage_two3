@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khuc-hat-cua-chim-ca-va-ran-doc_18626.html",
+    "title" : "Khúc Hát Của Chim Ca Và Rắn Độc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Suzanne Collins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 71517,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_6abff4d21f95b34b8a28329bdbd5a774.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_6abff4d21f95b34b8a28329bdbd5a774.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8575,
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7079,
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8266,
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9066,
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8936,
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9048,
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8038,
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8084,
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_09%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4425,
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 09(end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_01.mp3",
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_02.mp3",
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_03.mp3",
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_04.mp3",
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_05.mp3",
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_06.mp3",
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_07.mp3",
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_08.mp3",
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khu-c-ha-t-cu-a-chim-ca-va-ra-n-do-c-04/KH%C3%9AC%20H%C3%81T%20C%E1%BB%A6A%20CHIM%20CA%20V%C3%80%20R%E1%BA%AEN%20%C4%90%E1%BB%98C_09%28end%29.mp3",
+    "title" : "KHÚC HÁT CỦA CHIM CA VÀ RẮN ĐỘC 09(end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

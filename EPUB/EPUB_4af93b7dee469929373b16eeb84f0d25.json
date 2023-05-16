@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-bai-hoc-cuoc-song_16754.html",
+    "title" : "Những Bài Học Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hal Urban",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 11160,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_4af93b7dee469929373b16eeb84f0d25.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_4af93b7dee469929373b16eeb84f0d25.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 208,
+    "title" : "NBHCS-01-loi gioi thieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-02-thanh_cong_ko_chi_la_kie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "NBHCS-02-thanh cong ko chi la kie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-03-cuoc_song_von_kho_khan_v.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 594,
+    "title" : "NBHCS-03-cuoc song von kho khan v",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-04-cuoc_song_luon_co_nhung_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 524,
+    "title" : "NBHCS-04-cuoc song luon co nhung ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-05-cuoc_song_ko_phai_la_do_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 484,
+    "title" : "NBHCS-05-cuoc song ko phai la do ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-06-lua_chon_quan_trong_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 620,
+    "title" : "NBHCS-06-lua chon quan trong nhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-07-tao_thoi_quen_tot_chia_k.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 304,
+    "title" : "NBHCS-07-tao thoi quen tot chia k",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-08-biet_quy_trong_nhung_die.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 430,
+    "title" : "NBHCS-08-biet quy trong nhung die",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-09-tran_trong_nhung_gia_tri.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1048,
+    "title" : "NBHCS-09-tran trong nhung gia tri",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-10-trung_thuc_la_cach_tot_n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 514,
+    "title" : "NBHCS-10-trung thuc la cach tot n",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-11-suc_manh_cua_loi_noi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 676,
+    "title" : "NBHCS-11-suc manh cua loi noi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-12-dong_luc_thuc_su_luon_ba.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 710,
+    "title" : "NBHCS-12-dong luc thuc su luon ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-13-muc_tieu_la_nhung_uoc_mo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 582,
+    "title" : "NBHCS-13-muc tieu la nhung uoc mo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-14-ko_gi_co_the_thay_cho_la.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 316,
+    "title" : "NBHCS-14-ko gi co the thay cho la",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-15-co_luc_can_tu_bo_mot_die.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 464,
+    "title" : "NBHCS-15-co luc can tu bo mot die",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-16-nguoi_thanh_cong_tu_tao_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 580,
+    "title" : "NBHCS-16-nguoi thanh cong tu tao ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-17-luon_gin_giu_long_tu_tro.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 454,
+    "title" : "NBHCS-17-luon gin giu long tu tro",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-18-tinh_than_cung_luon_can_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 514,
+    "title" : "NBHCS-18-tinh than cung luon can ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-19-that_bai_la_chuyen_binh_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 802,
+    "title" : "NBHCS-19-that bai la chuyen binh ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-20-cuoc_song_se_don_gian_ho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 346,
+    "title" : "NBHCS-20-cuoc song se don gian ho",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-21-truoc_tien_hay_tro_thanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 286,
+    "title" : "NBHCS-21-truoc tien hay tro thanh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-01-loi_gioi_thieu.mp3",
+    "title" : "NBHCS-01-loi gioi thieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-02-thanh_cong_ko_chi_la_kie.mp3",
+    "title" : "NBHCS-02-thanh cong ko chi la kie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-03-cuoc_song_von_kho_khan_v.mp3",
+    "title" : "NBHCS-03-cuoc song von kho khan v",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-04-cuoc_song_luon_co_nhung_.mp3",
+    "title" : "NBHCS-04-cuoc song luon co nhung ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-05-cuoc_song_ko_phai_la_do_.mp3",
+    "title" : "NBHCS-05-cuoc song ko phai la do ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-06-lua_chon_quan_trong_nhat.mp3",
+    "title" : "NBHCS-06-lua chon quan trong nhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-07-tao_thoi_quen_tot_chia_k.mp3",
+    "title" : "NBHCS-07-tao thoi quen tot chia k",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-08-biet_quy_trong_nhung_die.mp3",
+    "title" : "NBHCS-08-biet quy trong nhung die",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-09-tran_trong_nhung_gia_tri.mp3",
+    "title" : "NBHCS-09-tran trong nhung gia tri",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-10-trung_thuc_la_cach_tot_n.mp3",
+    "title" : "NBHCS-10-trung thuc la cach tot n",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-11-suc_manh_cua_loi_noi.mp3",
+    "title" : "NBHCS-11-suc manh cua loi noi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-12-dong_luc_thuc_su_luon_ba.mp3",
+    "title" : "NBHCS-12-dong luc thuc su luon ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-13-muc_tieu_la_nhung_uoc_mo.mp3",
+    "title" : "NBHCS-13-muc tieu la nhung uoc mo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-14-ko_gi_co_the_thay_cho_la.mp3",
+    "title" : "NBHCS-14-ko gi co the thay cho la",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-15-co_luc_can_tu_bo_mot_die.mp3",
+    "title" : "NBHCS-15-co luc can tu bo mot die",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-16-nguoi_thanh_cong_tu_tao_.mp3",
+    "title" : "NBHCS-16-nguoi thanh cong tu tao ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-17-luon_gin_giu_long_tu_tro.mp3",
+    "title" : "NBHCS-17-luon gin giu long tu tro",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-18-tinh_than_cung_luon_can_.mp3",
+    "title" : "NBHCS-18-tinh than cung luon can ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-19-that_bai_la_chuyen_binh_.mp3",
+    "title" : "NBHCS-19-that bai la chuyen binh ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-20-cuoc_song_se_don_gian_ho.mp3",
+    "title" : "NBHCS-20-cuoc song se don gian ho",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NBHCS01LoiGioiThieu/NBHCS-21-truoc_tien_hay_tro_thanh.mp3",
+    "title" : "NBHCS-21-truoc tien hay tro thanh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

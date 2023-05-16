@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dau-xua-tan-man-lich-su-nha-nguyen_17505.html",
+    "title" : "Dấu Xưa - Tản Mạn Lịch Sử Nhà Nguyễn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mathilde Tuyết Trần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 29529,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_6c98e74361cc589e06183fc52db4901c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_6c98e74361cc589e06183fc52db4901c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3205,
+    "title" : "Tại sao mất nước thời Tự Đức?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3867,
+    "title" : "Hòa ước Nhâm Tuất 1862",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2467,
+    "title" : "Thonac - Đất lạ thành quen và một bí ẩn về vua Hàm Nghi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2908,
+    "title" : "Lâu đài của công chúa Nhữ Mây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "Vua Duy Tân và một kết cuộc bi thảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "Tình cha con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3837,
+    "title" : "Đảo Réunion nơi lưu đày vua Duy Tân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1994,
+    "title" : "Một cơ duyên lở nhịp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "Đề Thám - Người anh hùng hay thằng giặt?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "Bác Minh và ngôi làng bỏ quên C.A.F.I tại Ste.-Livrade-sur-Lot",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2001.mp3",
+    "title" : "Tại sao mất nước thời Tự Đức?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2002.mp3",
+    "title" : "Hòa ước Nhâm Tuất 1862",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2003.mp3",
+    "title" : "Thonac - Đất lạ thành quen và một bí ẩn về vua Hàm Nghi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2004.mp3",
+    "title" : "Lâu đài của công chúa Nhữ Mây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2005.mp3",
+    "title" : "Vua Duy Tân và một kết cuộc bi thảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2006.mp3",
+    "title" : "Tình cha con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2007.mp3",
+    "title" : "Đảo Réunion nơi lưu đày vua Duy Tân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2008.mp3",
+    "title" : "Một cơ duyên lở nhịp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2009.mp3",
+    "title" : "Đề Thám - Người anh hùng hay thằng giặt?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dauxuatanmanlichsunhanguyen-mathilde-tuyet-tran/DAU%20XUA%20TAN%20MAN%20LICH%20SU%20NHA%20NGUYEN%2010.mp3",
+    "title" : "Bác Minh và ngôi làng bỏ quên C.A.F.I tại Ste.-Livrade-sur-Lot",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

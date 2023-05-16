@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-nguoi-ban-nho_16947.html",
+    "title" : "Những Người Bạn Nhỏ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 6185,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_d0aebe8319449478025395b8abb4dc20.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_d0aebe8319449478025395b8abb4dc20.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 379,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/02-gia_dinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 504,
+    "title" : "Gia đình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/03-boi_cung_ca_heo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 976,
+    "title" : "Bơi cùng cá heo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/04-nhung_nguoi_ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 256,
+    "title" : "Những người bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/05-ke_lang_thang_vo_toi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "Kẻ lang thang vô tội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/06-becky_va_con_soi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 994,
+    "title" : "Becky và con sói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/07-con_cua_nang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 376,
+    "title" : "Con của nắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/08-tinh_yeu_cua_vat_nuoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 442,
+    "title" : "Tình yêu của vật nuôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/09-than_ho_menh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 630,
+    "title" : "Thần hộ mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/10-tinh_yeu_sau_dam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 422,
+    "title" : "Tình yêu sâu đậm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/11-vi_tri_cua_pepper.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 632,
+    "title" : "Vị trí của Pepper",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/12-nhung_nam_thang_hanh_phu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 456,
+    "title" : "Những năm tháng hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/02-gia_dinh.mp3",
+    "title" : "Gia đình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/03-boi_cung_ca_heo.mp3",
+    "title" : "Bơi cùng cá heo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/04-nhung_nguoi_ban.mp3",
+    "title" : "Những người bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/05-ke_lang_thang_vo_toi.mp3",
+    "title" : "Kẻ lang thang vô tội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/06-becky_va_con_soi.mp3",
+    "title" : "Becky và con sói",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/07-con_cua_nang.mp3",
+    "title" : "Con của nắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/08-tinh_yeu_cua_vat_nuoi.mp3",
+    "title" : "Tình yêu của vật nuôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/09-than_ho_menh.mp3",
+    "title" : "Thần hộ mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/10-tinh_yeu_sau_dam.mp3",
+    "title" : "Tình yêu sâu đậm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/11-vi_tri_cua_pepper.mp3",
+    "title" : "Vị trí của Pepper",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss17-nhungNguoiBanNho/12-nhung_nam_thang_hanh_phu.mp3",
+    "title" : "Những năm tháng hạnh phúc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoi-sau-mot-dem-ha-huyen-chu_10388.html",
+    "title" : "Cưới Sau Một Đêm - Hạ Huyền Chú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hạ Huyền Chú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 41104,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_c3900de191f281b5f7bad0c61f93a26b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_c3900de191f281b5f7bad0c61f93a26b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7070,
+    "title" : "Hạ Huyền Chú - Part 1 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6411,
+    "title" : "Hạ Huyền Chú - Part 2 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7226,
+    "title" : "Hạ Huyền Chú - Part 3 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7000,
+    "title" : "Hạ Huyền Chú - Part 4 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6351,
+    "title" : "Hạ Huyền Chú - Part 5 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7046,
+    "title" : "Hạ Huyền Chú - Part 6 (END) - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/1.mp3",
+    "title" : "Hạ Huyền Chú - Part 1 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/2.mp3",
+    "title" : "Hạ Huyền Chú - Part 2 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/3.mp3",
+    "title" : "Hạ Huyền Chú - Part 3 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/4.mp3",
+    "title" : "Hạ Huyền Chú - Part 4 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/5.mp3",
+    "title" : "Hạ Huyền Chú - Part 5 - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-sau-mot-dem/6.mp3",
+    "title" : "Hạ Huyền Chú - Part 6 (END) - Ngôn Tình Hiện Đại Hay - Hài Hước",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

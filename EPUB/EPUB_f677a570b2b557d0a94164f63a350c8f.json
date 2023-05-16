@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kheo-an-noi-se-co-duoc-thien-ha_13527.html",
+    "title" : "Khéo Ăn Nói Sẽ Có Được Thiên Hạ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trác Nhã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 38727,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_f677a570b2b557d0a94164f63a350c8f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_f677a570b2b557d0a94164f63a350c8f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 575,
+    "title" : "Sách kỹ năng sống nổi tiếng - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2274,
+    "title" : "Chương 9 - Chốn công sở nhiều thị phi, cần biết cách ăn nói.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2657,
+    "title" : "Chương 10 - Khéo ăn nói trong nghệ thuật bán hàng - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3235,
+    "title" : "Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2117,
+    "title" : "Chương 12 - Kỹ năng diễn thuyết sinh động - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1409,
+    "title" : "Kỹ năng giúp bạn hòa nhập buổi tiệc - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1846,
+    "title" : "Chương 14 - Những lời nói ngọt ngào trong tình yêu - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1977,
+    "title" : "Nghệ thuật từ chối người khác - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1588,
+    "title" : "Nghệ thuật nhờ người khác giúp đỡ - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1452,
+    "title" : "Nghệ thuật thuyết phục - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1190,
+    "title" : "Kỹ năng xin lỗi đạt được hiệu quả cao - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2196,
+    "title" : "Chương 1- Nghệ thuật mở lời và cách nói chuyện tốt - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1240,
+    "title" : "Kỹ năng phê bình đạt hiệu quả cao - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1085,
+    "title" : "Nghệ thuật an ủi làm ấm lòng người - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1084,
+    "title" : "Tích lũy kiến thức & nghệ thuật giao tiếp - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1745,
+    "title" : "“Bắt bệnh” để làm chủ cuộc giao tiếp - Phương Nguyễn.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2835,
+    "title" : "Nắm vững chừng mực trong giao tiếp - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 988,
+    "title" : "Nghệ thuật tránh lời nói làm hại đến thân - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "Chương 6 - Gia vị hài hước trong giao tiếp - Hiệu trưởng đọc sách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2398,
+    "title" : "Chương 7 - Kỹ năng giao tiếp với đối tượng phù hợp - Phương Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2875,
+    "title" : "Chương 8 - Cách giao tiếp với lãnh đạo dành được cơ hội phát triển",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/1.mp3",
+    "title" : "Sách kỹ năng sống nổi tiếng - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/10.mp3",
+    "title" : "Chương 9 - Chốn công sở nhiều thị phi, cần biết cách ăn nói.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/11.mp3",
+    "title" : "Chương 10 - Khéo ăn nói trong nghệ thuật bán hàng - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/12.mp3",
+    "title" : "Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/13.mp3",
+    "title" : "Chương 12 - Kỹ năng diễn thuyết sinh động - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/14.mp3",
+    "title" : "Kỹ năng giúp bạn hòa nhập buổi tiệc - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/15.mp3",
+    "title" : "Chương 14 - Những lời nói ngọt ngào trong tình yêu - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/16.mp3",
+    "title" : "Nghệ thuật từ chối người khác - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/17.mp3",
+    "title" : "Nghệ thuật nhờ người khác giúp đỡ - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/18.mp3",
+    "title" : "Nghệ thuật thuyết phục - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/19.mp3",
+    "title" : "Kỹ năng xin lỗi đạt được hiệu quả cao - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/2.mp3",
+    "title" : "Chương 1- Nghệ thuật mở lời và cách nói chuyện tốt - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/20.mp3",
+    "title" : "Kỹ năng phê bình đạt hiệu quả cao - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/21.mp3",
+    "title" : "Nghệ thuật an ủi làm ấm lòng người - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/3.mp3",
+    "title" : "Tích lũy kiến thức & nghệ thuật giao tiếp - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/4.mp3",
+    "title" : "“Bắt bệnh” để làm chủ cuộc giao tiếp - Phương Nguyễn.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/5.mp3",
+    "title" : "Nắm vững chừng mực trong giao tiếp - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/6.mp3",
+    "title" : "Nghệ thuật tránh lời nói làm hại đến thân - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/7.mp3",
+    "title" : "Chương 6 - Gia vị hài hước trong giao tiếp - Hiệu trưởng đọc sách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/8.mp3",
+    "title" : "Chương 7 - Kỹ năng giao tiếp với đối tượng phù hợp - Phương Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kheo-an-noi-se-co-duoc-thien-ha/9.mp3",
+    "title" : "Chương 8 - Cách giao tiếp với lãnh đạo dành được cơ hội phát triển",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lich-su-trung-quoc-5000-nam-lam-han-dat-tao-du-chuong_9670.html",
+    "title" : "Lịch Sử Trung Quốc 5000 Năm - Lâm Hán Đạt & Tào Dư Chương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tào Dư Chương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 125706,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_3660f27e92d468cef89d9d2e5290e7ef.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_3660f27e92d468cef89d9d2e5290e7ef.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/LSTQNNN/01_LSTQNNN.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17508,
+    "title" : "01 LSTQNNN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/02_LSTQNNN.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17093,
+    "title" : "02 LSTQNNN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/03_LSTQNNN.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16766,
+    "title" : "03 LSTQNNN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/04_LSTQNNN.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19186,
+    "title" : "04 LSTQNNN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/05_LSTQNNN.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16701,
+    "title" : "05 LSTQNNN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/06_LSTQNNN.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19226,
+    "title" : "06 LSTQNNN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/07_LSTQNNN.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19226,
+    "title" : "07 LSTQNNN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/LSTQNNN/01_LSTQNNN.mp3",
+    "title" : "01 LSTQNNN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/02_LSTQNNN.mp3",
+    "title" : "02 LSTQNNN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/03_LSTQNNN.mp3",
+    "title" : "03 LSTQNNN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/04_LSTQNNN.mp3",
+    "title" : "04 LSTQNNN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/05_LSTQNNN.mp3",
+    "title" : "05 LSTQNNN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/06_LSTQNNN.mp3",
+    "title" : "06 LSTQNNN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LSTQNNN/07_LSTQNNN.mp3",
+    "title" : "07 LSTQNNN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

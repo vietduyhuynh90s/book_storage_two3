@@ -1,0 +1,461 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-bo-vai-nuong-tua_16909.html",
+    "title" : "Những Bờ Vai Nương Tựa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 10633,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_007986a8df0e069cb3a7962156d72f2c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_007986a8df0e069cb3a7962156d72f2c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/01-loiGioiThieu_nhungBoVai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 103,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/02-dua_con_nuoi_hoan_hao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 548,
+    "title" : "Đứa con nuôi hoàn hảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/03-khi_trai_tim.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 87,
+    "title" : "Khi trái tim cùng chung nhịp đập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/04-chu_gau_koala.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 421,
+    "title" : "Chú gấu Koala",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/05-ten_chau_la_nicolas.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 244,
+    "title" : "Tên cháu là Nicolas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/06-co_be_toc_xoan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 244,
+    "title" : "Cô bé có mái tóc xoăn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/07-loi_nguyen_uoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 284,
+    "title" : "Lời nguyện ước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/08-quanh_chiec_ban_an.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 457,
+    "title" : "Quanh chiếc bàn ăn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/08_ngaReCuocDoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 370,
+    "title" : "Ngã rẽ cuộc đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/09_thoiKhacQuyetDinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 244,
+    "title" : "Thời khắc quyệt định",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/10_tinhYeuThuongCoDu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 477,
+    "title" : "Tình yêu thương có đủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/11_coBeAnnie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 213,
+    "title" : "Cô bé Annie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/12_toiLaMeCuaChau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 273,
+    "title" : "Tôi là mẹ của cháu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/13_tinhYeuThuongCuaBa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 403,
+    "title" : "Tình yêu thương của bà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/14_bucAnhMoiVeGiaDinhMoiCuaToi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 317,
+    "title" : "Bức ảnh mới về gia đình mới của tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/15_duaConCuaTinhYeu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 434,
+    "title" : "Đứa con của tình yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/16_meCoThuongConNhieuKhong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 446,
+    "title" : "Mẹ có thương con nhiều không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/17_duocNhanNuoiCoNghiaLa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 177,
+    "title" : "Được nhận nuôi có nghĩa là",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/18_guiConYeu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 369,
+    "title" : "Gửi con yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/19_bungCuaAiVayMe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 97,
+    "title" : "Bụng của ai vậy mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/20_dieuCoThat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 349,
+    "title" : "Diều có thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/21_sapDatCuaThuongDe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 265,
+    "title" : "Sắp đặt của Thượng đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/22_baiHocTuCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 139,
+    "title" : "Bài học từ cuộc sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/23_chaVaCon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 197,
+    "title" : "Cha va con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/25_khiConTrongBungMotThienThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 109,
+    "title" : "Khi còn trong bụng một thiên thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/26_phepMau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 386,
+    "title" : "Phép màu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/27_thienSu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 338,
+    "title" : "Thiên sứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/28_chuyenVeCauBeMitch.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 453,
+    "title" : "Chuyện về câu bé Mitch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/29_tinhYeuCheNguTatCa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 269,
+    "title" : "Tình yêu chế ngự tất cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/30_duaConTraiDacBiet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 345,
+    "title" : "Đứa con trai đặc biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/31_nguoiMeThatSu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 214,
+    "title" : "Người mẹ thật sự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/32_buoiTraChieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 400,
+    "title" : "Buổi trà chiều",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/33_duaConThatSu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 190,
+    "title" : "Đứa con thật sự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/34_meSeLuonBenCon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 386,
+    "title" : "Mẹ sẽ luôn bên con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/35_sucManhTinThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 385,
+    "title" : "Sức mạnh tình thân",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/01-loiGioiThieu_nhungBoVai.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/02-dua_con_nuoi_hoan_hao.mp3",
+    "title" : "Đứa con nuôi hoàn hảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/03-khi_trai_tim.mp3",
+    "title" : "Khi trái tim cùng chung nhịp đập",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/04-chu_gau_koala.mp3",
+    "title" : "Chú gấu Koala",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/05-ten_chau_la_nicolas.mp3",
+    "title" : "Tên cháu là Nicolas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/06-co_be_toc_xoan.mp3",
+    "title" : "Cô bé có mái tóc xoăn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/07-loi_nguyen_uoc.mp3",
+    "title" : "Lời nguyện ước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/08-quanh_chiec_ban_an.mp3",
+    "title" : "Quanh chiếc bàn ăn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/08_ngaReCuocDoi.mp3",
+    "title" : "Ngã rẽ cuộc đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/09_thoiKhacQuyetDinh.mp3",
+    "title" : "Thời khắc quyệt định",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/10_tinhYeuThuongCoDu.mp3",
+    "title" : "Tình yêu thương có đủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/11_coBeAnnie.mp3",
+    "title" : "Cô bé Annie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/12_toiLaMeCuaChau.mp3",
+    "title" : "Tôi là mẹ của cháu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/13_tinhYeuThuongCuaBa.mp3",
+    "title" : "Tình yêu thương của bà",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/14_bucAnhMoiVeGiaDinhMoiCuaToi.mp3",
+    "title" : "Bức ảnh mới về gia đình mới của tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/15_duaConCuaTinhYeu.mp3",
+    "title" : "Đứa con của tình yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/16_meCoThuongConNhieuKhong.mp3",
+    "title" : "Mẹ có thương con nhiều không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/17_duocNhanNuoiCoNghiaLa.mp3",
+    "title" : "Được nhận nuôi có nghĩa là",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/18_guiConYeu.mp3",
+    "title" : "Gửi con yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/19_bungCuaAiVayMe.mp3",
+    "title" : "Bụng của ai vậy mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/20_dieuCoThat.mp3",
+    "title" : "Diều có thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/21_sapDatCuaThuongDe.mp3",
+    "title" : "Sắp đặt của Thượng đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/22_baiHocTuCuocSong.mp3",
+    "title" : "Bài học từ cuộc sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/23_chaVaCon.mp3",
+    "title" : "Cha va con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/25_khiConTrongBungMotThienThan.mp3",
+    "title" : "Khi còn trong bụng một thiên thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/26_phepMau.mp3",
+    "title" : "Phép màu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/27_thienSu.mp3",
+    "title" : "Thiên sứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/28_chuyenVeCauBeMitch.mp3",
+    "title" : "Chuyện về câu bé Mitch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/29_tinhYeuCheNguTatCa.mp3",
+    "title" : "Tình yêu chế ngự tất cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/30_duaConTraiDacBiet.mp3",
+    "title" : "Đứa con trai đặc biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/31_nguoiMeThatSu.mp3",
+    "title" : "Người mẹ thật sự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/32_buoiTraChieu.mp3",
+    "title" : "Buổi trà chiều",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/33_duaConThatSu.mp3",
+    "title" : "Đứa con thật sự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/34_meSeLuonBenCon.mp3",
+    "title" : "Mẹ sẽ luôn bên con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss-NhungBoVaiNuongTua/35_sucManhTinThan.mp3",
+    "title" : "Sức mạnh tình thân",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

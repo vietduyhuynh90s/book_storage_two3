@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vi-sao-ong-ackroyd-chet-vu-am-sat-ong-roger-ackroyd_8763.html",
+    "title" : "Vì Sao Ông Ackroyd Chết? (Vụ ám sát Ông Roger Ackroyd)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 12802,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_7d0ccf74f3a9e27bc97d7669a55ffdc0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_7d0ccf74f3a9e27bc97d7669a55ffdc0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1443,
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 1 và 2 | Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2199,
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 3 và 4 | Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1284,
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 5 và 6 | Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1779,
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 7 và 8 | Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1411,
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 9 và 10 | Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1320,
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 11 và 12 | Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1705,
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 13 và14 | Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1661,
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 15 và16 | Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-1.mp3",
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 1 và 2 | Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-2.mp3",
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 3 và 4 | Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-3.mp3",
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 5 và 6 | Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-4.mp3",
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 7 và 8 | Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-5.mp3",
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 9 và 10 | Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-6.mp3",
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 11 và 12 | Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-7.mp3",
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 13 và14 | Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-sat-2/am-sat-8.mp3",
+    "title" : "Vụ ám sát ông Roger Ackroyd | Chương 15 và16 | Agatha Christie",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
