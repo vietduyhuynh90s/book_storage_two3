@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/len-ngoi_20172.html",
+    "title" : "Lên Ngôi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Amanda Hocking",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 26345,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_2450521030a023784d3dbfd8b3585652.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_2450521030a023784d3dbfd8b3585652.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2502,
+    "title" : "LEN NGOI 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2916,
+    "title" : "LEN NGOI 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1943,
+    "title" : "LEN NGOI 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2335,
+    "title" : "LEN NGOI 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2371,
+    "title" : "LEN NGOI 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2083,
+    "title" : "LEN NGOI 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2501,
+    "title" : "LEN NGOI 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2727,
+    "title" : "LEN NGOI 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2444,
+    "title" : "LEN NGOI 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2625,
+    "title" : "LEN NGOI 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1898,
+    "title" : "LEN NGOI 11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_01.mp3",
+    "title" : "LEN NGOI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_02.mp3",
+    "title" : "LEN NGOI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_03.mp3",
+    "title" : "LEN NGOI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_04.mp3",
+    "title" : "LEN NGOI 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_05.mp3",
+    "title" : "LEN NGOI 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_06.mp3",
+    "title" : "LEN NGOI 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_07.mp3",
+    "title" : "LEN NGOI 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_08.mp3",
+    "title" : "LEN NGOI 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_09.mp3",
+    "title" : "LEN NGOI 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_10.mp3",
+    "title" : "LEN NGOI 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/len-ngoi.sna/LEN_NGOI_11.mp3",
+    "title" : "LEN NGOI 11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

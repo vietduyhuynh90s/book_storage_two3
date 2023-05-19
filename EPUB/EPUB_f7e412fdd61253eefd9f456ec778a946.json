@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thien-than-quet-la_20129.html",
+    "title" : "Thiên Thần Quét Lá",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vĩnh Hảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 21402,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_f7e412fdd61253eefd9f456ec778a946.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_f7e412fdd61253eefd9f456ec778a946.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/01_Nghe-duoi-qua_Dong_KimNgan_Ho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2592,
+    "title" : "01_Nghe-duoi-qua_Dong_KimNgan_Ho",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/02_Nguoi%20quet%20cho_Dong_Ho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2229,
+    "title" : "02_Nguoi quet cho_Dong_Ho",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/03_San-ngoai-con-la_Dong_Ngan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3379,
+    "title" : "03_San-ngoai-con-la_Dong_Ngan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/04_Giac-mong-dau_Dong_Ho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2262,
+    "title" : "04_Giac-mong-dau_Dong_Ho",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/05_Cay-Da-Chua-Cu_Dong-T-Anh-Kim-Ngan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4309,
+    "title" : "05_Cay-Da-Chua-Cu_Dong-T-Anh-Kim-Ngan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/06_Quet-la_Dong_T-Anh-Ngan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3495,
+    "title" : "06_Quet-la_Dong_T-Anh-Ngan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/07_Phap-Su-Ti-Hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3136,
+    "title" : "07_Phap-Su-Ti-Hon_Dong-Ho-Ngan",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/01_Nghe-duoi-qua_Dong_KimNgan_Ho.mp3",
+    "title" : "01_Nghe-duoi-qua_Dong_KimNgan_Ho",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/02_Nguoi%20quet%20cho_Dong_Ho.mp3",
+    "title" : "02_Nguoi quet cho_Dong_Ho",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/03_San-ngoai-con-la_Dong_Ngan.mp3",
+    "title" : "03_San-ngoai-con-la_Dong_Ngan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/04_Giac-mong-dau_Dong_Ho.mp3",
+    "title" : "04_Giac-mong-dau_Dong_Ho",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/05_Cay-Da-Chua-Cu_Dong-T-Anh-Kim-Ngan.mp3",
+    "title" : "05_Cay-Da-Chua-Cu_Dong-T-Anh-Kim-Ngan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/06_Quet-la_Dong_T-Anh-Ngan.mp3",
+    "title" : "06_Quet-la_Dong_T-Anh-Ngan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/07-phap-su-ti-hon/07_Phap-Su-Ti-Hon.mp3",
+    "title" : "07_Phap-Su-Ti-Hon_Dong-Ho-Ngan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

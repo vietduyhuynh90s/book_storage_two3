@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-anh-ca_20397.html",
+    "title" : "Người Anh Cả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Văn Trương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 20154,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_703a10bc3255d546f3ce2d2c1c0c5a6d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_703a10bc3255d546f3ce2d2c1c0c5a6d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "nguoi-anh-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "nguoi-anh-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "nguoi-anh-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "nguoi-anh-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "nguoi-anh-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2154,
+    "title" : "nguoi-anh-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-1.mp3",
+    "title" : "nguoi-anh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-2.mp3",
+    "title" : "nguoi-anh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-3.mp3",
+    "title" : "nguoi-anh-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-4.mp3",
+    "title" : "nguoi-anh-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-5.mp3",
+    "title" : "nguoi-anh-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-anh-1/nguoi-anh-6.mp3",
+    "title" : "nguoi-anh-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

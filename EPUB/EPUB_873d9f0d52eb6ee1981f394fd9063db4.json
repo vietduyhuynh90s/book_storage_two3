@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chien-dich-te-giac_20173.html",
+    "title" : "Chiến Dịch Tê Giác",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lauren St John",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 18014,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_873d9f0d52eb6ee1981f394fd9063db4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_873d9f0d52eb6ee1981f394fd9063db4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2670,
+    "title" : "CHIEN DICH TE GIAC 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2224,
+    "title" : "CHIEN DICH TE GIAC 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2307,
+    "title" : "CHIEN DICH TE GIAC 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2386,
+    "title" : "CHIEN DICH TE GIAC 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2965,
+    "title" : "CHIEN DICH TE GIAC 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "CHIEN DICH TE GIAC 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2907,
+    "title" : "CHIEN DICH TE GIAC 07",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_01.mp3",
+    "title" : "CHIEN DICH TE GIAC 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_02.mp3",
+    "title" : "CHIEN DICH TE GIAC 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_03.mp3",
+    "title" : "CHIEN DICH TE GIAC 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_04.mp3",
+    "title" : "CHIEN DICH TE GIAC 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_05.mp3",
+    "title" : "CHIEN DICH TE GIAC 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_06.mp3",
+    "title" : "CHIEN DICH TE GIAC 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-dich-te-giac.sna/CHIEN_DICH_TE_GIAC_07.mp3",
+    "title" : "CHIEN DICH TE GIAC 07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

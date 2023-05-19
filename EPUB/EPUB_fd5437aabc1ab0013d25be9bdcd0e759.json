@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thanh-lich-kieu-phap_20389.html",
+    "title" : "Thanh Lịch Kiểu Pháp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Frédérique Veysset",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 13557,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_fd5437aabc1ab0013d25be9bdcd0e759.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_fd5437aabc1ab0013d25be9bdcd0e759.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 582,
+    "title" : "Mở đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1189,
+    "title" : "Định hình phong cách cá nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1157,
+    "title" : "Có nên chạy theo xu hướng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1062,
+    "title" : "Sai toàn tập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 925,
+    "title" : "Thời trang thế nào thì cuộc sống thế ấy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1075,
+    "title" : "Thanh lịch kiểu Pháp - Sức mạnh của phụ kiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 891,
+    "title" : "Tạo đẳng cấp cho đồ bình dân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 635,
+    "title" : "Tiền trảm hậu tấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 866,
+    "title" : "Chưng diện từ thứ hai đến chủ nhật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 709,
+    "title" : "Chiếc túi của cuộc đời bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 599,
+    "title" : "Đầm đen nhỏ nhắn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1011,
+    "title" : "Chào mừng tới thế giới của các quý cô",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1281,
+    "title" : "Những món đồ mượn tạm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 987,
+    "title" : "Đồ second cách mua và mặc chúng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 588,
+    "title" : "Giới hạn của tuổi tác",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-01.mp3",
+    "title" : "Mở đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-02.mp3",
+    "title" : "Định hình phong cách cá nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-03.mp3",
+    "title" : "Có nên chạy theo xu hướng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-04.mp3",
+    "title" : "Sai toàn tập",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-05.mp3",
+    "title" : "Thời trang thế nào thì cuộc sống thế ấy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-06.mp3",
+    "title" : "Thanh lịch kiểu Pháp - Sức mạnh của phụ kiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-07.mp3",
+    "title" : "Tạo đẳng cấp cho đồ bình dân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-08.mp3",
+    "title" : "Tiền trảm hậu tấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-09.mp3",
+    "title" : "Chưng diện từ thứ hai đến chủ nhật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-10.mp3",
+    "title" : "Chiếc túi của cuộc đời bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-11.mp3",
+    "title" : "Đầm đen nhỏ nhắn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-12.mp3",
+    "title" : "Chào mừng tới thế giới của các quý cô",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-13.mp3",
+    "title" : "Những món đồ mượn tạm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-14.mp3",
+    "title" : "Đồ second cách mua và mặc chúng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-13/on-nhu-15.mp3",
+    "title" : "Giới hạn của tuổi tác",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
