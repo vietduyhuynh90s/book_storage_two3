@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/co-be-fadette-7866.html",
+    "title" : "CÔ BÉ FADETTE",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "George Sand",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cô Bé Fadette bị mang tiếng xấu trong cả tổng. Người ta bảo nhau con bé xấu xí và láo lếu ấy còn là một đứa phù thuỷ. Mồ côi cha, cô lớn lên trong sự đùm bọc của bà ngoại, một bà lão già nua, cay nghiệt, bị người đời xa lánh. Mọi người ở Cosse, từ gài tới trẻ đều coi khinh cô. Thế mà Landry, chàng trai \"giỏi giang tuấn tú\" trong làng lại say đắm phải lòng chính cái cô bé \"man dại\" ấy, rồi tình yêu cũng bùng lên trong lòng Sylvinet, người anh sinh đôi của Landry, người đã từng ghét cô cay đắng... Cô Bé Fadette cuốn sách về tình yêu chân thành trong sáng đã được vẽ nên một cách lãng mạn trên cảnh trí đồng quê khoáng đạt, thơ mộng ở miền Nam nước Pháp, nơi mà những truyền thuýêt và sự điền viên thanh thản của xứ sở quê hương Berry đã truyền cảm hứng để George Sand viết nên một kiệt tác của văn học Pháp thế kỷ XIX. \"Cô Bé Fadette tụng ca lòng kính Chúa, trân trọng thiên nhiên, trí tuệ và tình yêu. Đó cũng là bài học đúc kết từ cuộc sống: đánh giá con người không thể dựa vào dáng vẻ bề ngoài, giàu nghèo không làm nên hạnh phúc và tình yêu thật khó kiếm tìm. Điều mong ước chưa từng thoả nguyện của George Sand chính là đây, một tình yêu vĩnh cửu\"(Pocket) \"Câu chuyện về hai anh chàng sinh đôi và một con bé vô giáo dục. Một tiểu thuýêt trong đó tác giả chất chứa cả sự thấu hiểu cuộc sống nông thôn lẫn tuổi trẻ của chính mình.\"(SDM).</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_465bf693c21da725e2af94f443734457.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_465bf693c21da725e2af94f443734457.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7866-co-be-fadette-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7866-co-be-fadette-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

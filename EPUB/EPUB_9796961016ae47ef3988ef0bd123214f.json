@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/truyen-thieu-nhi-vu-tu-nam-13572.html",
+    "title" : "TRUYỆN THIẾU NHI VŨ TÚ NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Tú Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Tôi thường chú ý và tin vào những điều tốt đẹp, điều thiện ở con người. Tôi quý sự trung thực và lòng nhân hậu. Viết cho trẻ em, với những trải nghiệm bản thân về khám phá thiên nhiên và loài vật, tôi muốn truyền lại cho các em những vẻ đẹp tiềm ẩn từ nhỏ đến lớn để các em quý trọng và yêu cuộc sống hơn. Tôi rất trân trọng những sáng tác cho thiếu nhi. Tôi không bao giờ coi nhẹ việc này, thậm chí còn dồn sức vào nhiều hơn khi viết cho người lớn.” Nhà văn VŨ TÚ NAM Những Truyện Hay Viết Cho Thiếu Nhi - VŨ TÚ NAM tuyển chọn những truyện hay nhất viết cho thiếu nhi của nhà văn Vũ Tú Nam: “Cây gạo”, “Cuộc phiêu lưu của Văn Ngan tướng công”, “Ong bắt dế”, “Na Á đánh lại trời”, “Con thạch sùng”, “Cái trứng của bọ ngựa”, “Bát canh của bà”, “Tiếng ve ran”, “Ba em gái nhỏ Cam Pu Chia”… và những truyện đồng thoại, sinh hoạt đặc sắc khác. Nhà văn VŨ TÚ NAM (1929 - 2020) Tên thật: Vũ Tiến Nam Bút danh khác: Tú Nam Quê quán: Liên Minh, Vụ Bản, Nam Định. * Giải thưởng Nhà nước về Văn học nghệ thuật năm 2001 TÁC PHẨM ĐÃ XUẤT BẢN: • Bên đường 12 • Quê hương • Cuộc phiêu lưu của Văn Ngan tướng công • Con sáo gỗ • Từ dòng sông ấy • Cây gạo • Sống với thời gian hai chiều • Mùa xuân tiếng chim • Trăng trên lá • Chuyện Ly và Đốm • Tiếng ve ran • Mây hồng • Có và không có • Bọ ngựa lạc vào nhà</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9796961016ae47ef3988ef0bd123214f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9796961016ae47ef3988ef0bd123214f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13572-truyen-thieu-nhi-vu-tu-nam-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Con Chuột Láu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13572-truyen-thieu-nhi-vu-tu-nam-thuviensach.vn.mp3?t=328",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:05:28 Công Chúa Ốc Sên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13572-truyen-thieu-nhi-vu-tu-nam-thuviensach.vn.mp3?t=570",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:09:30 Măng Tre",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13572-truyen-thieu-nhi-vu-tu-nam-thuviensach.vn.mp3?t=694",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:11:34 Vịt Và Gà Tranh Cãi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13572-truyen-thieu-nhi-vu-tu-nam-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Con Chuột Láu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13572-truyen-thieu-nhi-vu-tu-nam-thuviensach.vn.mp3?t=328",
+    "title" : "00:05:28 Công Chúa Ốc Sên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13572-truyen-thieu-nhi-vu-tu-nam-thuviensach.vn.mp3?t=570",
+    "title" : "00:09:30 Măng Tre",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13572-truyen-thieu-nhi-vu-tu-nam-thuviensach.vn.mp3?t=694",
+    "title" : "00:11:34 Vịt Và Gà Tranh Cãi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/truyen-luc-to-hue-nang-1779.html",
+    "title" : "TRUYỆN LỤC TỔ HUỆ NĂNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Trọng Ðức",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đại sư Huệ Năng (Năng, zh. huìnéng/ hui-neng 慧能, ja. enō), 638-713, là một vị Thiền sư vĩ đại trong lịch sử Thiền Tông Trung Hoa. Sư kế tiếp Ngũ Tổ Hoằng Nhẫn, trở thành vị Tổ thứ 6 của Thiền Tông Trung Quốc. Trước Huệ Năng, Thiền còn mang nặng ảnh hưởng Ấn Độ nhưng đến đời Sư, Thiền bắt đầu có những đặc điểm riêng của Trung Quốc. Vì vậy mà có người cho rằng sư mới thật sự là người Tổ khai sáng dòng Thiền tại đây. Huệ Năng không chính thức truyền y bát cho ai, nên sau đó không còn ai chính thức là truyền nhân. Tuy nhiên sư có nhiều học trò xuất sắc. Môn đệ chính là Thanh Nguyên Hành Tư và Nam Nhạc Hoài Nhượng là hai vị Thiền sư dẫn đầu hầu như toàn bộ các dòng Thiền về sau. Sư được coi là người sáng lập Thiền Đốn Ngộ (Thiền Nam Tông)- với chủ trương đạt giác ngộ trực tiếp, nhanh chóng. Sư tác giả của tác phẩm chữ Hán duy nhất được gọi là \"Kinh\", một danh từ thường chỉ được dùng chỉ những lời nói, bài dạy của chính Phật Thích-ca, đó là Lục tổ đại sư pháp bảo đàn kinh, một tác phẩm với ý nghĩa rất sâu xa về thiền. Cũng nhờ Pháp bảo đàn kinh mà người ta biết được ít nhiều về Huệ Năng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_217abfe861bac852b1d6b7c24a91da5b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_217abfe861bac852b1d6b7c24a91da5b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1779-truyen-luc-to-hue-nang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1779-truyen-luc-to-hue-nang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

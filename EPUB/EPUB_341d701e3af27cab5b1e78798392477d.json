@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ke-phan-ki-to-601.html",
+    "title" : "KẺ PHẢN KI-TÔ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Friedrich Nietzsche",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>KẺ PHẢN KI-TÔ Thử đưa ra một phê bình Ki-tô giáo DER ANTICHRIST Versuch einer Kritik des Christenthums Hà Vũ Trọng dịch Tiến Văn hiệu đính Thiện Tri Thức biên tập Dịch theo bản Anh ngữ The Portable Nietzsche do Walter Kaufmann dịch và biên tập, Penguin Books 1977; tham chiếu thêm bản The Anti-Christ, Ecce Homo, Twilight of the Idols, and Other Writings, do Aaron Ridley và Judith Norman dịch và biên tập, Cambridge Texts in the History of Philosophy, Cambridge University Press, 2005. Bản điện tử tiếng Đức toàn bộ tác phẩm của Nietzsche: Bản quyển tiếng Việt: © Thiện Tri Thức, 2011</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_341d701e3af27cab5b1e78798392477d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_341d701e3af27cab5b1e78798392477d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=414",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:06:54 Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=1053",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:17:33 Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=2059",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:34:19 Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=4139",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:08:59 Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=5662",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:34:22 Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=6822",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:53:42 Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=8655",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:24:15 Phần 8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=414",
+    "title" : "00:06:54 Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=1053",
+    "title" : "00:17:33 Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=2059",
+    "title" : "00:34:19 Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=4139",
+    "title" : "01:08:59 Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=5662",
+    "title" : "01:34:22 Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=6822",
+    "title" : "01:53:42 Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/601-ke-phan-ki-to-thuviensach.vn.mp3?t=8655",
+    "title" : "02:24:15 Phần 8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

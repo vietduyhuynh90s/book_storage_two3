@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/48-toa-dam-khe-ly-khe-co-1224.html",
+    "title" : "48 TỌA ĐÀM KHẾ LÝ - KHẾ CƠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệu Âm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những trang sách “HỘ NIỆM: KHẾ LÝ - KHẾ CƠ” này được chư vị phát tâm ghi chép lại từ những buổi tọa đàm ngắn trong những buổi cộng tu tại NiệmPhật Đường A-Di-Đà ở vùng Brisbane Úc-Đại-Lợi. Bàn về vấn đề “Khế Lý - Khế Cơ” thành thực xin thưa rằng, chỉ nói được với những người hiền lành hạ căn. Cụ thể là nhắc nhở các vị Đồng Tu hữu duyên cố gắng giữ gìn tâm hồn Thanh Tịnh, tư cách Khiêm Nhường để tu hành, hầu tránh bớt những chướng nạn của thời mạt pháp, vì toàn thể đồng tu chúng ta đều là hàng phàm phu, căn tánh hạ liệt, nếu sơ ý thì đường tu có thể gặp nhiều trở ngại. “KHẾ LÝ” là đúng theo lý đạo của Phật. “KHẾ CƠ” là cách hành trì phải hợp căn cơ của chính mình. Bậc Thượng Căn Thượng Trí thì không cần gì phải phân biệt vấn đề “ KHẾ LÝ - KHẾ CƠ”, nhưng hàng hạ căn trí cạn thì vấn đề này rất hệ trọng. Vì thế, người tu hành trong thời mạt pháp này muốn được thành t ựu cần phải nghiêm khắc tự xem xét cho rõ căn cơ của chính mình. Nếu đã cố gắng xem xét mà cũng không rõ được căn cơ của mình là đâu, thì xin chư vị hãy nghĩ rằng chắc chắn mình phải thuộc vào hàng hạ căn trí độn, phước mỏng chướng sâu, nhất định không dễ gì có ngày tự chứng đạo! Nếu quả là hàng phàm phu tội chướng sâu nặng mà lơ là việc trạch pháp, tâmý hiếu kỳ, ham mê chứng đắc thì rất dễ bị chướng nạn trên con đường tu hành! Niệm Phật cầu sanh Tịnh-Độ là đại pháp môn thích ứng với mọi căn cơ. Nói như vậy không có nghĩa là người có tâm ý vọng động, tâm ý không thanh tịnh Niệm Phật cũng được thành tựu! Hộ Niệm là pháp ứng dụng triệt để pháp Niệm Phật, thực hiện đầy đủ ba tư lương TÍN-NGUYỆN-HẠNH, giúp người phàm phu tội nặng, trí cạn một đời này có cơ duyên vãng sanh Tây Phương Cực Lạc, viên thành Phật đạo. Vậy thì, NIỆM PHẬT - HỘ NIỆM - VÃNG SANH là vừa “Khế Lý” vừa “Khế Cơ” và là “Đại Cứu Tinh” cho người hạ căn học Phật trong thời mạt pháp được thành tựu vậy. Đây chính là nội dung của những lời tọa đàm này</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_72443e1031728351015ad2185c351823.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_72443e1031728351015ad2185c351823.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1224-48-toa-dam-khe-ly-khe-co-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1224-48-toa-dam-khe-ly-khe-co-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ban-la-mai-mai-64.html",
+    "title" : "BẠN LÀ MÃI MÃI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lobsang Rampa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời tựa Tôi là Tuesday Lobsang Rampa. Đó là cái tên duy nhất của tôi, bây giờ là tên hợp pháp của tôi, và tôi sẽ không trả lời thêm nữa. Rất nhiều thư gửi đến tôi với một đống những cái tên kỳ lạ, và tôi đã ném chúng vào sọt rác, vì như đã nói, tên duy nhất của tôi là Tuesday Lobsang Rampa. Tất cả những cuốn sách của tôi là sự thật, tất cả những lời xác nhận của tôi cũng hoàn toàn là sự thật. Nhiều năm trước, báo chí Anh và Đức đã bắt đầu một chiến dịch chống lại tôi ở thời điểm mà tôi không thể bảo vệ bản thân mình bởi vì tôi gần như chết vì nhồi máu cơ tim. Tôi bị khủng bố một cách không thương xót và điên rồ. Thực tế có một vài người ghen tị với tôi, vì vậy họ thu thập ‘chứng cứ’, nhưng một điều rõ ràng là ‘những nhà sưu tập chứng cứ’ ấy chẳng thèm thử nhìn đến TÔI! Thật không bình thường khi mà ‘một bị cáo’ lại không có nổi một cơ hội để kể lại sự tình. Một người được coi là vô tội chừng nào anh ta chưa bị chứng minh là có tội. Tôi CHƯA BAO GIỜ ‘bị chứng minh là có tội’, và cũng chưa bao giờ được cho phép tự chứng minh là mình THÀNH THẬT! Các tờ báo của Anh và Đức không cho tôi bất kỳ một khoảng trống nào trên các trang của họ, vì vậy tôi ở địa vị thật không may là mặc dù vô tội và trung thực, nhưng cũng chẳng thể cho ai biết câu chuyện của mình. Một kênh truyền hình lớn mời tôi tham gia phỏng vấn, nhưng họ KHẲNG ĐỊNH rằng tôi phải nói những gì họ muốn, hay nói cách khác, là nói dối. Tôi muốn nói sự thật, vì vậy họ không cho tôi xuất hiện. Vậy, tôi xin khẳng định lại một lần nữa, rằng mọi thứ tôi viết là sự thật, Mọi lời xác nhận của tôi là sự thật. Lý do đặc biệt mà tôi phải nhấn mạnh rằng tất cả những điều này là sự thật vì trong một tương lai gần, những người như tôi sẽ xuất hiện, và tôi không muốn rằng họ phải chịu sự khổ sở như tôi đã trải qua và những hận thù luẩn quẩn. Rất nhiều người đã được nhìn thấy những giấy tờ xác nhận rằng tôi là một Lạt Ma cao cấp của tu viện Potala tại thủ đô Lhasa, Tây Tạng, và rằng tôi là một Bác sĩ có trình độ được đào tạo ở Trung Quốc. Mặc dù vậy, người ta vẫn cứ lờ đi khi những báo chí tọc mạch đến. Bạn sẽ đọc những cuốn sách của tôi với một tâm trí khẳng định tích cực rằng mọi điều là SỰ THẬT chứ? Tôi là chính mình mà thôi. Vậy tôi là thế nào, hãy đọc những cuốn sách tôi viết và bạn sẽ thấy Lobsang Rampa</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_fae485dd1037fcbf7586e90055c395a4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_fae485dd1037fcbf7586e90055c395a4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/64-ban-la-mai-mai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/64-ban-la-mai-mai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

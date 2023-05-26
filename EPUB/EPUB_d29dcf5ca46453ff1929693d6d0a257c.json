@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tu-duy-tich-cuc-danh-thuc-tiem-nang-848.html",
+    "title" : "TƯ DUY TÍCH CỰC ĐÁNH THỨC TIỀM NĂNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brian Tracy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục 1. Giới thiệu - Giải phóng tiềm năng bị giam hãm 2. 1. Tầm nhìn dài hạn với Tầm nhìn ngắn hạn 3. 2. Tư duy chậm với Tư duy nhanh 4. 3. Tư duy thông thái với Tư duy không thông thái 5. 4. Tư duy hướng mục tiêu với Tư duy hướng phản ứng 6. 5. Tư duy hướng kết quả với Tư duy hướng hành động 7. 6. Tư duy tích cực với Tư duy tiêu cực 8. 7. Tư duy linh hoạt với Tư duy cứng nhắc 9. 8. Tư duy sáng tạo với Tư duy máy móc 10. 9. Tư duy doanh nhân với Tư duy tập thể 11. 10. Tư duy giàu với Tư duy nghèo 12. Tóm lược</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_d29dcf5ca46453ff1929693d6d0a257c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_d29dcf5ca46453ff1929693d6d0a257c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/848-tu-duy-tich-cuc-danh-thuc-tiem-nang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/848-tu-duy-tich-cuc-danh-thuc-tiem-nang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

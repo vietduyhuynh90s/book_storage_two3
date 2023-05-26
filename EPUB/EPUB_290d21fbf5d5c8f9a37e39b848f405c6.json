@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-thoai-giua-duc-phat-va-ga-chan-cuu-427.html",
+    "title" : "ĐỐI THOẠI GIỮA ĐỨC PHẬT VÀ GÃ CHĂN CỪU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trịnh Nguyên Phước",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục THIỀN VÀ MỘT VÀI CÂU CHUYỆN Đối thoại trong im lặng Tắt đèn Những tiếng meo Người cha già Ba câu chuyện, một bài ca Thơ Thiền Vô Môn Quan TẢN MẠN VỀ MỘT VÀI VẤN ĐỀ Đối thoại giữa Đức Phật và gã chăn cừu Phiếm luận về thời gian Siêu việt thiện-ác Tâm là gì? TƯƠNG QUAN GIỮA ĐẠO PHẬT VÀ KHOA HỌC Đạo Phật và khoa học Đạo Phật trước những vấn đề sinh đạo đức (bioéthique) Đạo Phật trước vấn đề trợ tử (euthanasie) GIÁO LÝ CĂN BẢN CỦA ĐẠO PHẬT Phật tại tâm: Chìa khóa mở vào cửa Phật Trí tuệ trong đạo Phật Đức tin trong đạo Phật Nghiệp là gì? Hiểu đạo Phật một cách giản dị bằng Kinh Pháp Cú (Dhammapada)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_290d21fbf5d5c8f9a37e39b848f405c6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_290d21fbf5d5c8f9a37e39b848f405c6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/427-doi-thoai-giua-duc-phat-va-ga-chan-cuu-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/427-doi-thoai-giua-duc-phat-va-ga-chan-cuu-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

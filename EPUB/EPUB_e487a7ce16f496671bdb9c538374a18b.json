@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/100-dieu-nen-biet-ve-phong-tuc-viet-nam-1903.html",
+    "title" : "100 ĐIỀU NÊN BIẾT VỀ PHONG TỤC VIỆT NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phong tục tập quán là những nếp sống, thói quen sinh hoạt do con người hình thành trong đời sống xã hội hay toàn bộ hoạt động sống của con người hình thành trong tiến trình lịch sử, có tính ổn định, được lưu truyền từ thế hệ này sang thế hệ khác, được cộng đồng thừa nhận và tuân theo một cách tự giác. Có thể ví dụ một số phong tục thường nghe như: phong tục cưới hỏi, phong tục ma chay, đặc biệt là việc xây dựng nhà cửa, xây mộ phần cho người thân,… Phong tục không mang tính cố định và bắt buộc như nghi lễ, nghi thức, tuy nhiên nó cũng không tuỳ tiện, nhất thời như hoạt động sống thường ngày. Phong tục lối sống cũng dần được hình thành và thay đổi khác đi theo từng thời điểm để phù hợp với đời sống hiện tại và từng thời kỳ phát triển của dân tộc. Cuốn sách 100 Điều Nên Biết Về Phong Tục Việt Nam giới thiệu một số tục lệ hay, những ngày lễ của các vùng miền và một số dân tộc tiêu biểu Góp phần bảo tồn những giá trị quý báu của văn hóa dân tộc. Phong tục làm cho sắc thái văn hóa trở nên đa dạng, phong tục giúp chúng ta phân biệt được cộng đồng này, dân tộc này, nước này khác với cộng đồng khác, dân tộc khác, nước khác. Sống đúng với phong tục của nước mình, dân tộc mình mới là sống đúng với truyền thống. Phong tục Việt Nam nói chung và các phong tục của dân tộc thiểu số trên lãnh thổ Việt Nam nói riêng là một đề tài vô tận, bởi nước ta có 54 dân tộc với rất nhiều phong tục, nghi lễ văn hóa khác nhau. Vẻ đẹp của những phong tục trong cách thờ cúng tổ tiên, cách tổ chức lễ tết hay những tục lệ trong hiếu, hỷ,.. là những hoạt động mang đậm ý nghĩa văn hóa truyền thống của dân tộc Việt. Vì thế, nếu muốn hiểu về văn hóa truyền thống thì phải tìm hiểu từ các phong tục bởi đây chính là tấm gương phản ánh chân thực nhất cuộc sống. 100 Điều Nên Biết Về Phong Tục Việt Nam giới thiệu một số phong tục, tục lệ hay, tập tục trong hiếu hỷ hay những ngày lễ tết lớn, văn hoá tiêu biểu nhất của các vùng miền và các dân tộc của Việt Nam. Hầu hết các phong tục vẫn được duy trì đến ngày hôm nay, nhưng một số phong tục bị mai một đi theo thời gian và một số khác được chắt lọc hoặc được kết hợp với nhau cho phù hợp với xã hội hiện đại.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_e487a7ce16f496671bdb9c538374a18b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_e487a7ce16f496671bdb9c538374a18b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1903-100-dieu-nen-biet-ve-phong-tuc-viet-nam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1903-100-dieu-nen-biet-ve-phong-tuc-viet-nam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

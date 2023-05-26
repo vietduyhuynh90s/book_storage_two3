@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-bi-an-cuoc-doi-213.html",
+    "title" : "NHỮNG BÍ ẨN CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hữu Kiệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Chương 1: Một Triển Vọng Đáng Mừng Chương 2: Ông Edgar Cayce Dùng Thần Nhãn Chương 3: Giải Đáp Cho Những Vấn Đề Chương 4: Vài Loại Quả Báo Xác Thân Chương 5: Quả Báo Của Sự Chế Nhạo Chương 6: Vài Cảm Tưởng Về Luật Quả Báo Chương 7: Quả Báo Treo Chương 8: Quả Báo Đối Với Sức Khỏe Chương 9: Kích Thước Mới Của Khoa Tâm Lý Chương 10: Những Hạng Người Khác Nhau Chương 11: Quả Báo Tâm Lý Chương 12: Nguyên Nhân Của Quái Trạng Tâm Lý Chương 13: Quả Báo Đối Với Hôn Nhân Chương 14: Những Thiếu Phụ Cô Đơn Chương 15: Thắc Mắc Về Vấn Đề Hôn Nhân Chương 16: Ngoại Tình Và Ly Dị Chương 17: Nghiệp Quả Giữa Cha Mẹ Và Con Cái Chương 18: Vài Nghiệp Quả Gia Đình Chương 19: Nhân Quả Đối Với Chức Nghiệp Chương 20: Phương Châm Trong Việc Chọn Nghề Chương 21: Bí Quyết Đào Tạo Khả Năng Chương 22: Tiềm Năng Của Con Người Chương 23: Khía Cạnh Của Luật Nhân Quả Chương 24: Một Phương Châm Xử Thế Chương 25: Kết luận</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_b7f3d7fcfe24ef10f07b33c900846ec6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_b7f3d7fcfe24ef10f07b33c900846ec6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/213-nhung-bi-an-cuoc-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/213-nhung-bi-an-cuoc-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

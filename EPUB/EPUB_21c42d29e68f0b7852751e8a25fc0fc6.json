@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/guong-kien-nhan-13538.html",
+    "title" : "GƯƠNG KIÊN NHẪN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiến Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Ở Hàn lâm viện Y khoa, ông A.Fleming tuyên bố:\"Người ta cứ gán cho tôi cái công phát minh ra chất Pénicilline. Không có ai phát minh ra được chất Pénicilline; vì tạo hóa đã sinh ra nó tự thuở nào tới giờ, nhờ một loài mốc... Tôi chỉ có công làm cho mọi người chú ý tới chất đó, và đặt cho nó một cái tên, thế thôi\". Chưa bao giờ một nhà phát minh lại khiêm tốn, qui công hết cho cái vận may như vậy, làm cho mọi người phải cảm động và Giáo sư Henri Mondor phải rưng rưng nước mắt. Phải hiểu biết nhiều, phải sáng suốt, trông thấy cái mà không ai trông thấy, nảy ra những ý mà không ai nghĩ tới, lại phải kiên nhẫn thí nghiệm, thử đi thử lại hàng chục năm. Tóm lại phải có bốn điều kiện gặp may, có tài, kiên nhẫn, gặp thời cơ, thì mới làm nên việc lớn được.\" Mục Lục Helen Keller một cuộc chiến đấu ghê gớm trong cảnh tối tăm mù mịt. Alexander Fleming thiên tài hay chỉ là vận may? Wright và Santos Dumont những người chinh phục không trung. Gamal Abdel Nasser vị anh hùng của Ai Cập Jean - Henry Fabre thi sĩ của côn trùng Champollion người làm cho đá biết nói Florence Nightingale một người không hề biết \"cam chịu\".</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_21c42d29e68f0b7852751e8a25fc0fc6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_21c42d29e68f0b7852751e8a25fc0fc6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13538-guong-kien-nhan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13538-guong-kien-nhan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

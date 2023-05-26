@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/trat-tu-vu-tru-307.html",
+    "title" : "TRẬT TỰ VŨ TRỤ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "George Ohsawa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI GIỚI THIỆU Ông bà Ando người Nhật - đệ tử của ông bà Ohsawa, đã gửi cho chúng tôi những quyển sách quí của tiên sinh Ohsawa bằng tiếng Nhật Bản và mong ước chia sẻ tư tưởng của tiên sinh cho người Việt Nam, một dân tộc có khả năng thâm nhập ý nghĩa sâu xa nhất của tư tưởng cực đông… theo đà đó, chúng tôi xin phép ông Ngô Ánh Tuyết, là con trai ông bà Ngô Thành Nhân (đang sống tại thành phố Hồ Chí Minh) đồng thời là truyền nhân của phương pháp Thực dưỡng tại Việt Nam, ông Tuyết đã đồng ý cho nhóm gạo lứt Hà Nội tham gia dịch và xuất bản các sách của tiên sinh; đây là điều kỳ diệu tuyệt vời của ngành Thực dưỡng nước nhà. Sau đây là nội dung tin nhắn trả lời của ông Tuyết đồng ý cho phép tham gia dịch và xuất bản sách tiếng Nhật của tiên sinh Ohsawa, những tác phẩm chưa từng được biết tới ở Việt Nam: Trăng trời muôn thuở soi chung Nước yên: sáng rạng, động rung: mờ nhòe. Ngô Ánh Tuyết Một loạt sách tiếng Nhật của tiên sinh Ohsawa sẽ tiếp nối ra đời đã, đang và sẽ mang lại tác động rất tốt, làm lành mạnh hóa xã hội hiện đại… khi con người một ngày chợt tỉnh ngộ tự hỏi: Ta là ai? Ta sống trên trái đất này là để làm gì? Chết đi về đâu? Làm sao ta có thể sống một cuộc đời có được sự tự do vô biên, công bằng tuyệt đối và hạnh phúc vĩnh cửu? Những điều này sẽ được sáng tỏ trong các sách của tiên sinh và nhất là những ai đang học đạo Phật hay bất cứ một môn học nào trên trái đất này. Hà Nội tháng 6/2012 Ngọc Trâm</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_682efe8cb06bd251767b75eaa780e202.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_682efe8cb06bd251767b75eaa780e202.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/307-trat-tu-vu-tru-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/307-trat-tu-vu-tru-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

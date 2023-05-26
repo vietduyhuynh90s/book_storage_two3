@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nghe-thuat-song-hanh-thien-vipassana-341.html",
+    "title" : "NGHỆ THUẬT SỐNG HÀNH THIỀN VIPASSANA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "William Hart",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>NỘI DUNG Lời nói đầu...9 Tựa...11 Dẫn nhập..17 Chương 1. Tìm kiếm..25 Chương 2. Điểm khởi đầu...41 Chương 3. Nguyên nhân trực tiếp...53 Chương 4. Căn nguyên của vấn đề.63 Chương 5. Tu tập giới hạnh.79 Chương 6. Tu tập định tâm.95 Chương 7. Rèn luyện trí tuệ.113 Chương 8. Ý thức và bình tâm...137 Chương 9. Mục đích...155 Chương 10. Nghệ thuật sống...173 Phụ lục A: Tầm quan trọng của vedanā (cảm giác) trong giáo huấn của Đức Phật.191 Phụ lục B: Những đoạn kinh nói về cảm giác..201 Bảng chú giải từ ngữ Pāli..205</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_0850d99a7e4942d581de167612e7cb71.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_0850d99a7e4942d581de167612e7cb71.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/341-nghe-thuat-song-hanh-thien-vipassana-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/341-nghe-thuat-song-hanh-thien-vipassana-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

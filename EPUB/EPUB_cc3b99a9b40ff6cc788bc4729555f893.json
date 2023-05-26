@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tri-tue-kinh-doanh-va-ly-thuyet-tro-choi-12847.html",
+    "title" : "TRÍ TUỆ KINH DOANH VÀ LÝ THUYẾT TRÒ CHƠI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Túc Xuân Lễ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Kể từ khi ra đời đến nay, lý thuyết trò chơi ngày càng nhận được nhiều sự quan tâm nghiên cứu, tìm hiểu bởi tính ứng dụng cao của nó trong mọi lĩnh vực: kinh tế, sinh học, triết học, tâm lý… Cuộc sống là một trò chơi. Bạn - với tư cách là người chơi - sẽ chơi như thế nào và chơi với tâm thế ra sao? Mỗi lựa chọn của bạn sẽ dẫn đến những kết quả xác định, vì vậy bạn phải tỉnh táo, đầy mưu lược và phải có tầm nhìn xa trông rộng. Cuốn sách Trí tuệ kinh doanh và lý thuyết trò chơi giới thiệu gần 100 chiến lược áp dụng lý thuyết trò chơi nhằm giúp bạn đưa ra quyết định sáng suốt trước mỗi lựa chọn trong kinh doanh và trong cuộc sống. Những câu chuyện minh họa sinh động cùng những phân tích dễ hiểu mà sâu sắc trên cơ sở lý thuyết trò chơi sẽ giúp bạn nắm vững nghệ thuật ra quyết định và giành chiến thắng ngoạn mục trong mọi trận chiến cuộc đời.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_cc3b99a9b40ff6cc788bc4729555f893.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_cc3b99a9b40ff6cc788bc4729555f893.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12847-tri-tue-kinh-doanh-va-ly-thuyet-tro-choi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12847-tri-tue-kinh-doanh-va-ly-thuyet-tro-choi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

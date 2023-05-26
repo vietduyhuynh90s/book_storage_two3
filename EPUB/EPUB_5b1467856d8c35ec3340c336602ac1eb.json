@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-kim-cang-295.html",
+    "title" : "KINH KIM CANG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thanh Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI ĐẦU SÁCH Trí tuệ Bát-nhã thấy đúng lý Trung đạo, không mắc kẹt ở hai bên có và không v. v… Vì biết rõ vạn vật đều do nhân duyên sanh, nên không có chủ thể thì làm gì thật có được; đủ duyên vạn vật sanh thì làm sao nói thật không? Như kinh nói \"chúng sanh không phải chúng sanh, ấy gọi là chúng sanh… Thế giới không phải thế giới, ấy gọi là thế giới…\". \"Không phải chúng sanh\", vì duyên hợp không có chủ thể. \"Gọi là chúng sanh\", vì giả tướng giả danh hiện tiền làm sao phủ nhận được. To như thế giới cũng là duyên hợp không chủ thể, nên nói \"không phải thế giới\"; cụ thể chúng sanh đang sống nương nhờ trên thế giới thì giả tướng thế giới làm sao chối bỏ được, nên nói \"gọi là thế giới\". Thế mà, có một số người học Phật nông nổi nói: \"Bát-nhã chấp không\". Quả thật họ là người rất đáng thương, học Phật mà hoảng sợ trí tuệ thì bao giờ được giác ngộ. Bát-nhã có công dụng, có khả năng phá sạch mọi kiến chấp. Người học Phật cần yếu phải nhờ nó để dẹp tan tất cả kiến chấp sai lầm cố hữu, đã lôi kéo mình vào vòng trầm luân muôn vạn kiếp rồi. Nếu không tận dụng cây kiếm Bát-nhã chặt đứt mọi xiềng xích kiến chấp, chúng ta khó mong thoát khỏi luân hồi. Diệu dụng kinh Kim Cang là ở đây vậy. Đọc toàn quyển kinh Kim Cang, chúng ta thấy Phật phá sạch không còn sót một kiến chấp nào. Đây là quả bom, là khối chất nổ mạnh làm nổ tung hai ngọn núi kiến chấp của chúng sanh. Có một số người bảo rằng \"Tụng kinh Kim Cang nóng\". Họ sợ tụng kinh Kim Cang, vì không chịu nổi sức công phá khốc liệt của kinh này. Ngược lại, Ngũ tổ Hoằng Nhẫn khuyên người tu thiền nên tụng kinh Kim Cang và chính Ngài cũng đem kinh Kim Cang giảng cho Lục tổ Huệ Năng nghe, nhân đó Lục tổ ngộ đạo. Chúng tôi giảng kinh Kim Cang tại Thiền viện Thường Chiếu và các thiền sinh ghi ra từ băng nhựa. Đọc qua bản ghi xong, chúng tôi đồng ý cho in ra để được nhiều người xem. Tuy nhiên, không sao tránh khỏi vài điều sơ sót, xin quý vị cảm thông cho. THÍCH THANH TỪ</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_5b1467856d8c35ec3340c336602ac1eb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_5b1467856d8c35ec3340c336602ac1eb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/295-kinh-kim-cang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/295-kinh-kim-cang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
