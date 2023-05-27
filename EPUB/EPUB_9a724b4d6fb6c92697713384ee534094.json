@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/moi-dieu-ban-can-biet-nhung-chua-bao-gio-duoc-ke-1211.html",
+    "title" : "MỌI ĐIỀU BẠN CẦN BIẾT NHƯNG CHƯA BAO GIỜ ĐƯỢC KỂ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David Icke",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>'Người đàn ông điên' đã được chứng minh là đúng hết lần này đến lần khác David Icke đã cảnh báo trong gần 30 năm về một nhà nước Orwellian toàn cầu sắp tới, trong đó một số ít người sẽ nô dịch nhân loại thông qua kiểm soát tài chính, chính phủ, truyền thông và cảnh sát quân sự Gestapo giám sát 24/4 giám sát dân số được gắn vi mạch. Anh ấy đã nói rằng thực tế ‘vật lý’ là một ảo ảnh và những gì chúng ta nghĩ là ‘thế giới’ là một mô phỏng ba chiều hoặc ‘Ma trận’ được tạo ra bởi một thế lực phi con người để lôi kéo nhận thức của con người trong tình trạng nô lệ đang diễn ra. Họ gọi anh ta là ‘điên rồ’, ‘mất trí’, ‘kẻ mất trí’, và anh ta đã phải chịu nhiều thập kỷ chế giễu, sa thải và lạm dụng. Ồ, nhưng mọi thứ thay đổi như thế nào. Ngày nay sách của ông được đọc khắp nơi trên thế giới và các sự kiện diễn thuyết của ông được hàng nghìn người ở khắp các châu lục theo dõi. Tại sao? Bởi vì những gì ông đã bị chế nhạo vì đã nói bây giờ đang xảy ra trong các sự kiện thế giới và ngay cả các nhà khoa học chính thống cũng kết luận rằng thực tế thực sự là một mô phỏng. Hầu như mỗi ngày điều gì đó mà David Icke đã nói từ lâu đều được hỗ trợ bởi các diễn biến và bằng chứng. Như Mahatma Gandhi đã nói: 'Đầu tiên họ phớt lờ bạn, sau đó họ cười nhạo bạn, sau đó họ chiến đấu với bạn, rồi bạn giành chiến thắng. \" Thời của David Icke đã đến.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9a724b4d6fb6c92697713384ee534094.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9a724b4d6fb6c92697713384ee534094.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1211-moi-dieu-ban-can-biet-nhung-chua-bao-gio-duoc-ke-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1211-moi-dieu-ban-can-biet-nhung-chua-bao-gio-duoc-ke-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

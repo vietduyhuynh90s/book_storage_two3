@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/luc-do-ba-la-mat-1783.html",
+    "title" : "LỤC ĐỘ BA LA MẬT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Sỹ Minh Tùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lục độ Ba-la-mật là pháp tu của hàng Bồ tát, được hiểu một cách khái quát là sáu phương tiện đưa người qua bờ bên kia, tức từ bờ mê qua bờ giác. Tuy nhiên, ý nghĩa “qua bờ kia” chưa diễn đạt hết tinh tuý của từ Ba-la-mật, vì Bồ tát không chỉ an vị tại bờ giác, mà mục đích tu hành của Bồ tát là một mặt tự hoàn thiện mình, một mặt cứu độ chúng sanh. Các Ngài làm tất cả các Phật sự nhưng không có tâm mong cầu kết quả, không chấp trước vào người làm, vào phương tiện làm và vào chúng sinh là đối tượng của việc làm. Đây là đạo đức vô hành, là tam luân không tịch, là vô sở cầu vô sở đắc. Ba-la-mật cũng là mật hạnh, đại hạnh của Bồ tát. Nếu dùng bố thí độ xan tham, trì giới độ phá giới. thì còn hạn chế trong việc đối trị; ở đây, lục độ với tinh thần Ba-la-mật có sự hài hòa giữa trí tuệ, từ bi và hùng lực. Bằng trí tuệ, Bồ tát thấy tất cả chúng sinh đều có Phật tánh, nhưng do mê muội không nhận ra, nên mãi tạo nghiệp và trầm luân trong sanh tử. Vì thế, Bồ tát phát khởi lòng từ bi, nguyện độ tận chúng sinh trong ba cõi sáu đường. Có từ bi, các Ngài có đủ hùng lực, thi thiết mọi phương tiện quyền xảo tùy căn cơ giáo hóa chúng sinh, dù bao nghịch cảnh vẫn không thối chí. Ba-la-mật còn có nghĩa là cứu cánh, rốt ráo. Mục đích cuối cùng của đời tu, cũng như bản hoài của chư Phật đối với tất cả chúng sanh, là nhận ra và hằng sống với bản tâm thanh tịnh thường nhiên của chính mình. Đó là Phật tánh, chân tâm, bản lai diện mục... Nhận ra bản tâm là chánh nhân thành Phật, hằng sống trọn vẹn với bản tâm là viên mãn Phật quả. Lục độ Ba-la-mật gồm sáu phương tiện: - Bố thí Ba-la-mật - Trì giới Ba-la-mật - Nhẫn nhục Ba-la-mật - Tinh tấn Ba-la-mật - Thiền định Ba-la-mật - Trí huệ Ba-la-mật</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_214d336bb6d59120023267d4c310142b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_214d336bb6d59120023267d4c310142b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1783-luc-do-ba-la-mat-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1783-luc-do-ba-la-mat-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

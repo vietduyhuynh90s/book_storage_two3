@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thuong-mau-dien-dien-13967.html",
+    "title" : "THƯƠNG MÀU ĐIÊN ĐIỂN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>- Út đừng đi. Hôm nay tui phải nói rõ với Út, không là tui chịu không có nổi. Sao Út có bầu với tui, Út lại giấu? Lẽ nào, suốt bao nhiêu năm qua, Út không có chút gì với tui? Sao Út ác vậy? Út có biết tui thương Út nhiều biết chừng nào không? Út ghét tui lắm hả, tới mức có bầu với tui cũng không muốn cho tui biết, không muốn cho tui gặp con? Hay tại Út khinh tui ngày xưa từng vào tù ra tội? Út giật tay ra khỏi chú An, vừa quát, vừa rưng rưng nước mắt: - Nói với anh làm chi? Không phải anh sắp lấy vợ rồi sao? Nói với anh để người ta chửi tui là loại đi cướp chồng người khác hả? Chú An cũng hét lên: - Tui hổng có! Em nghe người ta nói, mà em hổng có nghe tôi. Em bất công lắm, em ác lắm! Người ta nói tôi lấy vợ, em tin, mà tui nói gì em cũng lắc. Má nói tui đi xem mắt, má dắt ai về là tui xua người đó đi. Tui nói, đời này ngoài em ra tui hổng lấy ai hết. Má không chọn em, thì tui ở vậy, tui chết già cho má tui coi. Em nghe người ta nói tầm bậy không rồi em xua đuổi tui, em làm tui khổ quá Út ơi! Tác giả: Nguyễn Thị Loan Giọng đọc: Hà Diễm, Sand Thực hiện: Hằng Nga Thiết kế: Hương Giang</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_6b9665d4cee960a304e1d940171802cc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_6b9665d4cee960a304e1d940171802cc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13967-thuong-mau-dien-dien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13967-thuong-mau-dien-dien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

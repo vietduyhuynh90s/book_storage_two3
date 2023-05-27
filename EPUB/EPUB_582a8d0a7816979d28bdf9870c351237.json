@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/5-viec-kho-nhat-doi-nguoi-ban-da-lam-duoc-dieu-gi-13898.html",
+    "title" : "5 VIỆC KHÓ NHẤT ĐỜI NGƯỜI: BẠN ĐÃ LÀM ĐƯỢC ĐIỀU GÌ?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mỗi người sinh ra trên đời, theo thời gian, dần dần cũng già đi, trải nghiệm về cuộc sống cũng nhờ đó mà sâu sắc hơn. Dưới đây là 5 việc khó khăn được mọi người thừa nhận. Với những gì đã có, nhất định phải nâng niu, trân trọng; với những gì đã bỏ lỡ, khi tái ngộ, hãy nắm bắt cho thật tốt. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_582a8d0a7816979d28bdf9870c351237.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_582a8d0a7816979d28bdf9870c351237.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13898-5-viec-kho-nhat-doi-nguoi-ban-da-lam-duoc-dieu-gi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13898-5-viec-kho-nhat-doi-nguoi-ban-da-lam-duoc-dieu-gi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

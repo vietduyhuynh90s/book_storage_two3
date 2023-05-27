@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dao-ba-kho-bau-tap-2-5.html",
+    "title" : "ĐẠO BA KHO BÁU - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Chương 1 Biết luật vĩnh hằng..1 Chương 2 Vô chọn lựa..31 Chương 3 Vô tích sự của tranh giành...61 Chương 4 Chư Phật và kẻ ngu.93 Chương 5 Phẩm hạnh Đạo nhân..123 Chương 6 Kỉ luật và kiểm soát...155 Chương 7 Cái mềm nhất...191 Chương 8 Trong sự tồn tại không có câu hỏi.215 Chương 9 Thanh tịnh..253 Chương 10 Mọi phật đều làm giầu cho vũ trụ.277 Về Osho.307</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_3fac87568ddb1c8e8e7b779f27fc584d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_3fac87568ddb1c8e8e7b779f27fc584d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5-dao-ba-kho-bau-tap-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5-dao-ba-kho-bau-tap-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

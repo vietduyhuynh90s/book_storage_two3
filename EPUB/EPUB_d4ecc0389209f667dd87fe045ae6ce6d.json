@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tu-thuoc-toi-thien-22.html",
+    "title" : "TỪ THUỐC TỚI THIỀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Lời nói đầu: Thuốc và Thiền. 1 1. Định nghĩa về mạnh khoẻ.. 37 2. Được chữa lành ngụ ý là cái toàn thể.. 53 3. Mê tín vào y học. 61 4. Cách tiếp cận mạnh khoẻ khác.. 73 5. Chức năng của thầy chữa.. 91 6. Thời gian cho chăm sóc, thời gian cho tình yêu. 95 7. Cái chạm chữa lành. 99 8. Thiền và tâm thần học.. 107 9. Kính trọng thân thể.. 129 10. Gốc rễ của căng thẳng. 137 11. Chìa khoá cho thảnh thơi.. 147 12. Dồn nén và quá căng.. 155 13. Phiền muộn, bệnh của người giầu. 167 14. Thức ăn và mạnh khoẻ. 179 15. Đau đớn.. 219 16. Giấc ngủ... 245 17. Già đi.. 263 18. Chết với chân giá trị... 275 19. Bệnh AID.. 289 20. Nhìn vào tương lai. 299 21. Sức mạnh chữa lành của tiếng cười.. 315 Về Osho... 325</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_d4ecc0389209f667dd87fe045ae6ce6d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_d4ecc0389209f667dd87fe045ae6ce6d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/22-tu-thuoc-toi-thien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/22-tu-thuoc-toi-thien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
