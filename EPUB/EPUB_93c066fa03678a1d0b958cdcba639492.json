@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bon-cau-chuyen-hay-de-thuc-tinh-va-cam-nhan-lai-trai-tim-nhan-sinh-cua-minh-13896.html",
+    "title" : "BỐN CÂU CHUYỆN HAY ĐỂ THỨC TỈNH VÀ CẢM NHẬN LẠI TRÁI TIM NHÂN SINH CỦA MÌNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trên đường đời không cần điều gì cao quý, chỉ cần làm việc bằng một trái tim chân thực là đủ. Nếu muốn có được những người bạn tốt, trước tiên bạn phải đối tốt với người khác. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_93c066fa03678a1d0b958cdcba639492.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_93c066fa03678a1d0b958cdcba639492.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13896-bon-cau-chuyen-hay-de-thuc-tinh-va-cam-nhan-lai-trai-tim-nhan-sinh-cua-minh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13896-bon-cau-chuyen-hay-de-thuc-tinh-va-cam-nhan-lai-trai-tim-nhan-sinh-cua-minh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

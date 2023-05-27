@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/gia-nhu-anh-dung-xuat-hien-13943.html",
+    "title" : "GIÁ NHƯ ANH ĐỪNG XUẤT HIỆN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>5 năm hạnh phúc, 5 năm khổ đau cuối cùng cũng kết thúc bằng một tờ giấy mỏng. Chị quyết định ly hôn, sau 5 năm trời dày vò lẫn nhau, oán hận vì sự phản bội của người đàn ông, vì sự đắc ý của kẻ thứ 3, chua xót cho những dòng nước mắt của hai đứa con. Đến cuối cùng chị đã lựa chọn ly hôn, chỉ đơn giản vì chị cảm thấy mệt rồi, một mình chị không còn đủ sức để cố gắng nữa. Khi cầm trên tay tờ “Đơn Ly Hôn” chị vẫn lặng lẽ rơi nước mắt, nhưng chị đã tự động viên mình “không sao, mình được giải thoát rồi!” Hai đứa con là chị giành quyền nuôi vì chị đủ khả năng để tự mình nuôi cả hai đứa, nhưng quan trọng hơn là do chị không tin tưởng chồng chị, à không bây giờ phải gọi là chồng cũ mới đúng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_86745d59cd8a45df1baf4a437dea9036.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_86745d59cd8a45df1baf4a437dea9036.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13943-gia-nhu-anh-dung-xuat-hien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13943-gia-nhu-anh-dung-xuat-hien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

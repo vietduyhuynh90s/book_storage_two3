@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tinh-dau-la-tinh-lo-13941.html",
+    "title" : "TÌNH ĐẦU LÀ TÌNH LỠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ai trong cuộc đời này cũng từng có một khoảng thời gian tươi đẹp được gọi là thời thanh xuân cùng bạn bè. Tuổi đó phải gọi là chơi hết hơi, sống hết mình, được tự do làm những gì mình thích, trải nghiệm những thứ ta xem đó là mạo hiểm, ngu ngốc thậm chí là điên rồ. Thật, mới nghĩ đến đó thôi mà trong lòng tôi lại rạo rực lên đây rồi. Ôi, những kỉ niệm xưa dường như đã được cất giấu trong tủ kín bây giờ bỗng dưng lại tuôn ra ào ạt phải làm cho tôi chững lại để hoài niệm về những năm tháng kí ức, và quả thực con tim này của tôi đã từ lâu vẫn chưa tìm lại được những hơi ấm của kỉ niệm ngày xưa nhưng hôm nay mới có dịp ngồi nhắc lại bỗng nhiên thấy bồi hồi làm sao.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_28720ee387e0a5b639e85f9c3236fab5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_28720ee387e0a5b639e85f9c3236fab5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13941-tinh-dau-la-tinh-lo-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13941-tinh-dau-la-tinh-lo-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
