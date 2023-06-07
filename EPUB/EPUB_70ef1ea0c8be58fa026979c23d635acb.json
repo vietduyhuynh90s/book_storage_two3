@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-tinh_20411.html",
+    "title" : "Người Tình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Marguerite Duras",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-07",
+    "duration" : 10912,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_70ef1ea0c8be58fa026979c23d635acb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_70ef1ea0c8be58fa026979c23d635acb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 878,
+    "title" : "Chương 1 | Người đọc: Nhà giáo Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1188,
+    "title" : "Marguerite Duras | Tiểu thuyết: Người tình - Chương 2 và 3 | Người đọc: Nhà giáo Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 725,
+    "title" : "Chương 4, 5 và 6 | Người đọc: Nhà giáo Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1601,
+    "title" : "Chương 7, 8 và 9 | Người đọc: Nhà giáo Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1290,
+    "title" : "Chương 10 và 11 | Người đọc: Nhà giáo Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2037,
+    "title" : "Marguerite Duras | Tiểu thuyết: Người tình | Chương 12 phần đầu | Người đọc: Nhà giáo Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1028,
+    "title" : "Chương 13 | Người đọc: Nhà giáo Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 858,
+    "title" : "Chương 14 và 15 | Người đọc: Nhà giáo Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1307,
+    "title" : "Chương 16, chương cuối | Người đọc: Nhà giáo Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-1.mp3",
+    "title" : "Chương 1 | Người đọc: Nhà giáo Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-2.mp3",
+    "title" : "Marguerite Duras | Tiểu thuyết: Người tình - Chương 2 và 3 | Người đọc: Nhà giáo Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-3.mp3",
+    "title" : "Chương 4, 5 và 6 | Người đọc: Nhà giáo Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-4.mp3",
+    "title" : "Chương 7, 8 và 9 | Người đọc: Nhà giáo Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-5.mp3",
+    "title" : "Chương 10 và 11 | Người đọc: Nhà giáo Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-6.mp3",
+    "title" : "Marguerite Duras | Tiểu thuyết: Người tình | Chương 12 phần đầu | Người đọc: Nhà giáo Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-7.mp3",
+    "title" : "Chương 13 | Người đọc: Nhà giáo Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-8.mp3",
+    "title" : "Chương 14 và 15 | Người đọc: Nhà giáo Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-tinh-6/nguoi-tinh-9.mp3",
+    "title" : "Chương 16, chương cuối | Người đọc: Nhà giáo Ngọc Như",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

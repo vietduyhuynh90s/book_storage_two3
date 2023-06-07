@@ -1,0 +1,581 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-san-cuu-hoang_19581.html",
+    "title" : "Cuộc Săn Cừu Hoang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Haruki Murakami",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-07",
+    "duration" : 33371,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_5eb437d98257540d1306d56c079fdab5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_5eb437d98257540d1306d56c079fdab5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL001%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 84,
+    "title" : "SNNL001 ― Cuộc Săn Cừu Hoang ― Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL002%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20I%20%20Kh%C3%BAc%20D%E1%BA%A1o%20%C4%90%E1%BA%A7u%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201%20%20Picnic%20Chi%E1%BB%81u%20Th%E1%BB%A9%20T%C6%B0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 862,
+    "title" : "SNNL002 ― Cuộc Săn Cừu Hoang ― Phần I  Khúc Dạo Đầu ― Chương 1  Picnic Chiều Thứ Tư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL003%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20II%20%20Th%C3%A1ng%20B%E1%BA%A3y%20%20T%C3%A1m%20N%C4%83m%20Sau%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202%20%20M%C6%B0%E1%BB%9Di%20S%C3%A1u%20B%C6%B0%E1%BB%9Bc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 737,
+    "title" : "SNNL003 ― Cuộc Săn Cừu Hoang ― Phần II  Tháng Bảy  Tám Năm Sau ― Chương 2  Mười Sáu Bước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL004%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203%20%20Chi%E1%BA%BFc%20V%C3%A1y%20Ng%E1%BB%A7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 432,
+    "title" : "SNNL004 ― Cuộc Săn Cừu Hoang ― Chương 3  Chiếc Váy Ngủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL005%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20III%20%20Th%C3%A1ng%20Ch%C3%ADn%20%20Hai%20Th%C3%A1ng%20Sau%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204%20%20D%C6%B0%C6%A1ng%20V%E1%BA%ADt%20C%C3%A1%20Voi%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20B%C3%A0%20L%C3%A0m%20Ba%20Ngh%E1%BB%81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "SNNL005 ― Cuộc Săn Cừu Hoang ― Phần III  Tháng Chín  Hai Tháng Sau ― Chương 4  Dương Vật Cá Voi Và...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL006%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205%20%20%C4%90%C3%B4i%20Tai%20Kh%C3%B4ng%20B%E1%BB%8Bt%20K%C3%ADn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 83,
+    "title" : "SNNL006 ― Cuộc Săn Cừu Hoang ― Chương 5  Đôi Tai Không Bịt Kín",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL007%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206%20%20Nh%E1%BB%AFng%20Cu%E1%BB%99c%20Phi%C3%AAu%20L%C6%B0u%20Ti%E1%BA%BFp%20Theo%20C%E1%BB%A7a%20%C4%90%C3%B4i%20Tai%20Kh%C3%B4ng%20B%E1%BB%8Bt%20K%C3%ADn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 377,
+    "title" : "SNNL007 ― Cuộc Săn Cừu Hoang ― Chương 6  Những Cuộc Phiêu Lưu Tiếp Theo Của Đôi Tai Không Bịt Kín",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL008%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20IV%20%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207%20%20Tr%C6%B0%E1%BB%9Bc%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20%C3%94ng%20L%E1%BA%A1%20M%E1%BA%B7t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 678,
+    "title" : "SNNL008 ― Cuộc Săn Cừu Hoang ― Phần IV  Cuộc Săn Cừu Hoang ― Chương 7  Trước Người Đàn Ông Lạ Mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL009%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208%20%20Gi%E1%BB%9D%20L%C3%A0%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20%C3%94ng%20L%E1%BA%A1%20M%E1%BA%B7t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 718,
+    "title" : "SNNL009 ― Cuộc Săn Cừu Hoang ― Chương 8  Giờ Là Người Đàn Ông Lạ Mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL010%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209%20%20%E2%80%9C%C3%94ng%20Ch%E1%BB%A7%E2%80%9D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 509,
+    "title" : "SNNL010 ― Cuộc Săn Cừu Hoang ― Chương 9  “Ông Chủ”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL011%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010%20%20%C4%90%E1%BA%BFm%20C%E1%BB%ABu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 370,
+    "title" : "SNNL011 ― Cuộc Săn Cừu Hoang ― Chương 10  Đếm Cừu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL012%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011%20%20Chi%E1%BA%BFc%20Limousine%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di%20L%C3%A1i%20Xe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 371,
+    "title" : "SNNL012 ― Cuộc Săn Cừu Hoang ― Chương 11  Chiếc Limousine Và Người Lái Xe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL013%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012%20%20N%C6%A1i%20V%C5%A9%20Tr%E1%BB%A5%20C%E1%BB%A7a%20Lo%C3%A0i%20S%C3%A2u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 551,
+    "title" : "SNNL013 ― Cuộc Săn Cừu Hoang ― Chương 12  Nơi Vũ Trụ Của Loài Sâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL014%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20V%20%20Nh%E1%BB%AFng%20L%C3%A1%20Th%C6%B0%20C%E1%BB%A7a%20Chu%E1%BB%99t%20V%C3%A0%20C%C3%A1c%20K%E1%BB%B7%20Ni%E1%BB%87m%20T%E1%BA%A1p%20Nh%E1%BA%A1p%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013%20%20L%C3%A1%20Th%C6%B0%20Th%E1%BB%A9%20Nh%E1%BA%A5t%20C%E1%BB%A7a%20Chu%E1%BB%99t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 108,
+    "title" : "SNNL014 ― Cuộc Săn Cừu Hoang ― Phần V  Những Lá Thư Của Chuột Và Các Kỷ Niệm Tạp Nhạp ― Chương 13 ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL015%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014%20%20L%C3%A1%20Th%C6%B0%20Th%E1%BB%A9%20Hai%20C%E1%BB%A7a%20Chu%E1%BB%99t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 92,
+    "title" : "SNNL015 ― Cuộc Săn Cừu Hoang ― Chương 14  Lá Thư Thứ Hai Của Chuột",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL016%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015%20%20B%C3%A0i%20H%C3%A1t%20%C4%90%C3%A3%20Ch%E1%BA%A5m%20D%E1%BB%A9t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1174,
+    "title" : "SNNL016 ― Cuộc Săn Cừu Hoang ― Chương 15  Bài Hát Đã Chấm Dứt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL017%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016%20%20C%C3%B4%20Ta%20U%E1%BB%91ng%20M%E1%BB%99t%20Ly%20Salty%20Dog%20%20N%C3%B3i%20Chuy%E1%BB%87n%20V%E1%BB%81%20Ti%E1%BA%BFng%20S%C3%B3ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1035,
+    "title" : "SNNL017 ― Cuộc Săn Cừu Hoang ― Chương 16  Cô Ta Uống Một Ly Salty Dog  Nói Chuyện Về Tiếng Sóng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL018%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20VI%20%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%20II%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017%20%20C%C3%A2u%20Chuy%E1%BB%87n%20L%E1%BA%A1%20K%E1%BB%B3%20C%E1%BB%A7a%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20%C3%94ng%20L%E1%BA%A1%20M%E1%BA%B7t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1120,
+    "title" : "SNNL018 ― Cuộc Săn Cừu Hoang ― Phần VI  Cuộc Săn Cừu Hoang  II ― Chương 17  Câu Chuyện Lạ Kỳ Của...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL019%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018%20%20C%C3%A2u%20Chuy%E1%BB%87n%20K%E1%BB%B3%20L%E1%BA%A1%20C%E1%BB%A7a%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20%C3%94ng%20L%E1%BA%A1%20M%E1%BA%B7t%20Ti%E1%BA%BFp%20Di%E1%BB%85n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1773,
+    "title" : "SNNL019 ― Cuộc Săn Cừu Hoang ― Chương 18  Câu Chuyện Kỳ Lạ Của Người Đàn Ông Lạ Mặt Tiếp Diễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL020%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019%20%20L%E1%BA%A1i%20Chuy%E1%BB%87n%20Chi%E1%BA%BFc%20Xe%20Limousine%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di%20L%C3%A1i%20Xe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 431,
+    "title" : "SNNL020 ― Cuộc Săn Cừu Hoang ― Chương 19  Lại Chuyện Chiếc Xe Limousine Và Người Lái Xe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL021%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020%20%20Cu%E1%BB%91i%20H%C3%A8%20%20%C4%90%E1%BA%A7u%20Thu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 362,
+    "title" : "SNNL021 ― Cuộc Săn Cừu Hoang ― Chương 20  Cuối Hè  Đầu Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL022%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021%20%20M%E1%BB%99t%20Trong%20S%E1%BB%91%20N%C4%83m%20Ng%C3%A0n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 556,
+    "title" : "SNNL022 ― Cuộc Săn Cừu Hoang ― Chương 21  Một Trong Số Năm Ngàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL023%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022%20%20Bu%E1%BB%95i%20Picnic%20Chi%E1%BB%81u%20Ch%E1%BB%A7%20Nh%E1%BA%ADt.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 870,
+    "title" : "SNNL023 ― Cuộc Săn Cừu Hoang ― Chương 22  Buổi Picnic Chiều Chủ Nhật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL024%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023%20%20T%C6%B0%20T%C6%B0%E1%BB%9Fng%20H%E1%BA%A1n%20Ch%E1%BA%BF%20Nh%C6%B0ng%20Ngoan%20C%C6%B0%E1%BB%9Dng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 711,
+    "title" : "SNNL024 ― Cuộc Săn Cừu Hoang ― Chương 23  Tư Tưởng Hạn Chế Nhưng Ngoan Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL025%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024%20%20M%E1%BB%99t%20Ch%C6%B0%C6%A1ng%20Cho%20C%C3%A1%20Tr%C3%ADch.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 918,
+    "title" : "SNNL025 ― Cuộc Săn Cừu Hoang ― Chương 24  Một Chương Cho Cá Trích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL026%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20VII%20%20C%C3%B4ng%20V%E1%BB%A5%20%E1%BB%9E%20Kh%C3%A1ch%20S%E1%BA%A1n%20C%C3%A1%20Heo%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025%20%20D%E1%BB%8Bch%20Chuy%E1%BB%83n%20Ho%C3%A0n%20Th%C3%A0nh%20T%E1%BA%A1i%20R%E1%BA%A1p%20Chi%E1%BA%BFu%20Phim%20%20%C4%90%E1%BA%BFn%20Kh%C3%A1ch%20S%E1%BA%A1n%20C%C3%A1%20Heo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1213,
+    "title" : "SNNL026 ― Cuộc Săn Cừu Hoang ― Phần VII  Công Vụ Ở Khách Sạn Cá Heo ― Chương 25  Dịch Chuyển Hoàn...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL027%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026%20%20Gi%C3%A1o%20S%C6%B0%20C%E1%BB%ABu%20Xu%E1%BA%A5t%20Hi%E1%BB%87n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1278,
+    "title" : "SNNL027 ― Cuộc Săn Cừu Hoang ― Chương 26  Giáo Sư Cừu Xuất Hiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL028%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027%20%20Gi%C3%A1o%20S%C6%B0%20C%E1%BB%ABu%20%C4%82n%20H%E1%BA%BFt%20%20K%E1%BB%83%20H%E1%BA%BFt.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "SNNL028 ― Cuộc Săn Cừu Hoang ― Chương 27  Giáo Sư Cừu Ăn Hết  Kể Hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL029%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028%20%20T%E1%BA%A1m%20bi%E1%BB%87t%20kh%C3%A1ch%20s%E1%BA%A1n%20c%C3%A1%20heo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 249,
+    "title" : "SNNL029 ― Cuộc Săn Cừu Hoang ― Chương 28  Tạm biệt khách sạn cá heo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL030%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20VIII%20%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%20III%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029%20%20S%E1%BB%B1%20Ra%20%C4%90%E1%BB%9Di%20%20H%C6%B0ng%20Th%E1%BB%8Bnh%20V%C3%A0%20Suy%20Vong%20C%E1%BB%A7a%20Huy%E1%BB%87n%20Junitaki.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1297,
+    "title" : "SNNL030 ― Cuộc Săn Cừu Hoang ― Phần VIII  Cuộc Săn Cừu Hoang  III ― Chương 29  Sự Ra Đời  Hưng...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL031%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030%20%20L%E1%BA%A7n%20Suy%20Vong%20Ti%E1%BA%BFp%20Theo%20C%E1%BB%A7a%20Junitaki%20V%C3%A0%20L%C6%B0%E1%BB%A3ng%20C%E1%BB%ABu%20C%E1%BB%A7a%20N%C3%B3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "SNNL031 ― Cuộc Săn Cừu Hoang ― Chương 30  Lần Suy Vong Tiếp Theo Của Junitaki Và Lượng Cừu Của Nó",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL032%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031%20%20%C4%90%C3%AAm%20%E1%BB%9E%20Junitaki.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 281,
+    "title" : "SNNL032 ― Cuộc Săn Cừu Hoang ― Chương 31  Đêm Ở Junitaki",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL033%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2032%20%20M%E1%BB%99t%20Kh%C3%BAc%20Ngo%E1%BA%B7t%20Kh%C3%B4ng%20May%20Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2264,
+    "title" : "SNNL033 ― Cuộc Săn Cừu Hoang ― Chương 32  Một Khúc Ngoặt Không May Trên Đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL034%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2033%20%20N%C3%A0ng%20R%E1%BB%9Di%20N%C3%BAi%20%20C%C6%A1n%20%C4%90%C3%B3i%20H%C3%A0nh%20H%E1%BA%A1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 171,
+    "title" : "SNNL034 ― Cuộc Săn Cừu Hoang ― Chương 33  Nàng Rời Núi  Cơn Đói Hành Hạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL035%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2034%20%20Kh%C3%A1m%20Ph%C3%A1%20Trong%20Ga%20Ra%20%20Nh%E1%BB%AFng%20%C3%9D%20Ngh%C4%A9%20Gi%E1%BB%AFa%20%C4%90%E1%BB%93ng%20C%E1%BB%8F.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 353,
+    "title" : "SNNL035 ― Cuộc Săn Cừu Hoang ― Chương 34  Khám Phá Trong Ga Ra  Những Ý Nghĩ Giữa Đồng Cỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL036%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2035%20%20Ng%C6%B0%E1%BB%9Di%20C%E1%BB%ABu%20T%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 883,
+    "title" : "SNNL036 ― Cuộc Săn Cừu Hoang ― Chương 35  Người Cừu Tới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL037%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2036%20%20Con%20%C4%90%C6%B0%E1%BB%9Dng%20L%E1%BB%9Bn%20R%E1%BA%A5t%20Ri%C3%AAng%20C%E1%BB%A7a%20Gi%C3%B3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1314,
+    "title" : "SNNL037 ― Cuộc Săn Cừu Hoang ― Chương 36  Con Đường Lớn Rất Riêng Của Gió",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL038%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2037%20%20Nh%E1%BB%AFng%20%C4%90i%E1%BB%81u%20G%C6%B0%C6%A1ng%20Ph%E1%BA%A3n%20Chi%E1%BA%BFu%20%20Nh%E1%BB%AFng%20%C4%90i%E1%BB%81u%20Kh%C3%B4ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 775,
+    "title" : "SNNL038 ― Cuộc Săn Cừu Hoang ― Chương 37  Những Điều Gương Phản Chiếu  Những Điều Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL039%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2038%20%20V%C3%A0%20Th%E1%BA%BF%20L%C3%A0%20Th%E1%BB%9Di%20Gian%20Tr%C3%B4i%20%C4%90i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 205,
+    "title" : "SNNL039 ― Cuộc Săn Cừu Hoang ― Chương 38  Và Thế Là Thời Gian Trôi Đi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL040%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2039%20%20Nh%E1%BB%AFng%20K%E1%BA%BB%20S%E1%BB%91ng%20Trong%20B%C3%B3ng%20T%E1%BB%91i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 482,
+    "title" : "SNNL040 ― Cuộc Săn Cừu Hoang ― Chương 39  Những Kẻ Sống Trong Bóng Tối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL041%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2040%20%20Chu%E1%BB%99t%20%20Ng%C6%B0%E1%BB%9Di%20L%C3%AAn%20D%C3%A2y%20%C4%90%E1%BB%93ng%20H%E1%BB%93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 939,
+    "title" : "SNNL041 ― Cuộc Săn Cừu Hoang ― Chương 40  Chuột  Người Lên Dây Đồng Hồ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL042%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2041%20%20D%C3%A2y%20Xanh%20V%E1%BB%9Bi%20D%C3%A2y%20%C4%90%E1%BB%8F%20%20Nh%E1%BB%AFng%20Con%20M%C3%B2ng%20Bi%E1%BB%83n%20L%E1%BA%A1nh%20C%C3%B3ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 150,
+    "title" : "SNNL042 ― Cuộc Săn Cừu Hoang ― Chương 41  Dây Xanh Với Dây Đỏ  Những Con Mòng Biển Lạnh Cóng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL043%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2042%20%20Th%C4%83m%20L%E1%BA%A1i%20Kh%C3%BAc%20Ngo%E1%BA%B7t%20Kh%C3%B4ng%20May.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 217,
+    "title" : "SNNL043 ― Cuộc Săn Cừu Hoang ― Chương 42  Thăm Lại Khúc Ngoặt Không May",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL044%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2043%20%20Cu%E1%BB%99c%20H%E1%BA%B9n%20L%C3%BAc%20M%C6%B0%E1%BB%9Di%20Hai%20Gi%E1%BB%9D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 387,
+    "title" : "SNNL044 ― Cuộc Săn Cừu Hoang ― Chương 43  Cuộc Hẹn Lúc Mười Hai Giờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL045%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20K%E1%BA%BFt.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 476,
+    "title" : "SNNL045 ― Cuộc Săn Cừu Hoang ― Phần Kết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL001%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "title" : "SNNL001 ― Cuộc Săn Cừu Hoang ― Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL002%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20I%20%20Kh%C3%BAc%20D%E1%BA%A1o%20%C4%90%E1%BA%A7u%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201%20%20Picnic%20Chi%E1%BB%81u%20Th%E1%BB%A9%20T%C6%B0.mp3",
+    "title" : "SNNL002 ― Cuộc Săn Cừu Hoang ― Phần I  Khúc Dạo Đầu ― Chương 1  Picnic Chiều Thứ Tư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL003%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20II%20%20Th%C3%A1ng%20B%E1%BA%A3y%20%20T%C3%A1m%20N%C4%83m%20Sau%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202%20%20M%C6%B0%E1%BB%9Di%20S%C3%A1u%20B%C6%B0%E1%BB%9Bc.mp3",
+    "title" : "SNNL003 ― Cuộc Săn Cừu Hoang ― Phần II  Tháng Bảy  Tám Năm Sau ― Chương 2  Mười Sáu Bước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL004%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203%20%20Chi%E1%BA%BFc%20V%C3%A1y%20Ng%E1%BB%A7.mp3",
+    "title" : "SNNL004 ― Cuộc Săn Cừu Hoang ― Chương 3  Chiếc Váy Ngủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL005%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20III%20%20Th%C3%A1ng%20Ch%C3%ADn%20%20Hai%20Th%C3%A1ng%20Sau%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204%20%20D%C6%B0%C6%A1ng%20V%E1%BA%ADt%20C%C3%A1%20Voi%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20B%C3%A0%20L%C3%A0m%20Ba%20Ngh%E1%BB%81.mp3",
+    "title" : "SNNL005 ― Cuộc Săn Cừu Hoang ― Phần III  Tháng Chín  Hai Tháng Sau ― Chương 4  Dương Vật Cá Voi Và...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL006%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205%20%20%C4%90%C3%B4i%20Tai%20Kh%C3%B4ng%20B%E1%BB%8Bt%20K%C3%ADn.mp3",
+    "title" : "SNNL006 ― Cuộc Săn Cừu Hoang ― Chương 5  Đôi Tai Không Bịt Kín",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL007%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206%20%20Nh%E1%BB%AFng%20Cu%E1%BB%99c%20Phi%C3%AAu%20L%C6%B0u%20Ti%E1%BA%BFp%20Theo%20C%E1%BB%A7a%20%C4%90%C3%B4i%20Tai%20Kh%C3%B4ng%20B%E1%BB%8Bt%20K%C3%ADn.mp3",
+    "title" : "SNNL007 ― Cuộc Săn Cừu Hoang ― Chương 6  Những Cuộc Phiêu Lưu Tiếp Theo Của Đôi Tai Không Bịt Kín",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL008%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20IV%20%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207%20%20Tr%C6%B0%E1%BB%9Bc%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20%C3%94ng%20L%E1%BA%A1%20M%E1%BA%B7t.mp3",
+    "title" : "SNNL008 ― Cuộc Săn Cừu Hoang ― Phần IV  Cuộc Săn Cừu Hoang ― Chương 7  Trước Người Đàn Ông Lạ Mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL009%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208%20%20Gi%E1%BB%9D%20L%C3%A0%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20%C3%94ng%20L%E1%BA%A1%20M%E1%BA%B7t.mp3",
+    "title" : "SNNL009 ― Cuộc Săn Cừu Hoang ― Chương 8  Giờ Là Người Đàn Ông Lạ Mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL010%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209%20%20%E2%80%9C%C3%94ng%20Ch%E1%BB%A7%E2%80%9D.mp3",
+    "title" : "SNNL010 ― Cuộc Săn Cừu Hoang ― Chương 9  “Ông Chủ”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL011%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010%20%20%C4%90%E1%BA%BFm%20C%E1%BB%ABu.mp3",
+    "title" : "SNNL011 ― Cuộc Săn Cừu Hoang ― Chương 10  Đếm Cừu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL012%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011%20%20Chi%E1%BA%BFc%20Limousine%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di%20L%C3%A1i%20Xe.mp3",
+    "title" : "SNNL012 ― Cuộc Săn Cừu Hoang ― Chương 11  Chiếc Limousine Và Người Lái Xe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL013%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012%20%20N%C6%A1i%20V%C5%A9%20Tr%E1%BB%A5%20C%E1%BB%A7a%20Lo%C3%A0i%20S%C3%A2u.mp3",
+    "title" : "SNNL013 ― Cuộc Săn Cừu Hoang ― Chương 12  Nơi Vũ Trụ Của Loài Sâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL014%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20V%20%20Nh%E1%BB%AFng%20L%C3%A1%20Th%C6%B0%20C%E1%BB%A7a%20Chu%E1%BB%99t%20V%C3%A0%20C%C3%A1c%20K%E1%BB%B7%20Ni%E1%BB%87m%20T%E1%BA%A1p%20Nh%E1%BA%A1p%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013%20%20L%C3%A1%20Th%C6%B0%20Th%E1%BB%A9%20Nh%E1%BA%A5t%20C%E1%BB%A7a%20Chu%E1%BB%99t.mp3",
+    "title" : "SNNL014 ― Cuộc Săn Cừu Hoang ― Phần V  Những Lá Thư Của Chuột Và Các Kỷ Niệm Tạp Nhạp ― Chương 13 ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL015%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014%20%20L%C3%A1%20Th%C6%B0%20Th%E1%BB%A9%20Hai%20C%E1%BB%A7a%20Chu%E1%BB%99t.mp3",
+    "title" : "SNNL015 ― Cuộc Săn Cừu Hoang ― Chương 14  Lá Thư Thứ Hai Của Chuột",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL016%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015%20%20B%C3%A0i%20H%C3%A1t%20%C4%90%C3%A3%20Ch%E1%BA%A5m%20D%E1%BB%A9t.mp3",
+    "title" : "SNNL016 ― Cuộc Săn Cừu Hoang ― Chương 15  Bài Hát Đã Chấm Dứt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL017%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016%20%20C%C3%B4%20Ta%20U%E1%BB%91ng%20M%E1%BB%99t%20Ly%20Salty%20Dog%20%20N%C3%B3i%20Chuy%E1%BB%87n%20V%E1%BB%81%20Ti%E1%BA%BFng%20S%C3%B3ng.mp3",
+    "title" : "SNNL017 ― Cuộc Săn Cừu Hoang ― Chương 16  Cô Ta Uống Một Ly Salty Dog  Nói Chuyện Về Tiếng Sóng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL018%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20VI%20%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%20II%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017%20%20C%C3%A2u%20Chuy%E1%BB%87n%20L%E1%BA%A1%20K%E1%BB%B3%20C%E1%BB%A7a%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20%C3%94ng%20L%E1%BA%A1%20M%E1%BA%B7t.mp3",
+    "title" : "SNNL018 ― Cuộc Săn Cừu Hoang ― Phần VI  Cuộc Săn Cừu Hoang  II ― Chương 17  Câu Chuyện Lạ Kỳ Của...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL019%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018%20%20C%C3%A2u%20Chuy%E1%BB%87n%20K%E1%BB%B3%20L%E1%BA%A1%20C%E1%BB%A7a%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20%C3%94ng%20L%E1%BA%A1%20M%E1%BA%B7t%20Ti%E1%BA%BFp%20Di%E1%BB%85n.mp3",
+    "title" : "SNNL019 ― Cuộc Săn Cừu Hoang ― Chương 18  Câu Chuyện Kỳ Lạ Của Người Đàn Ông Lạ Mặt Tiếp Diễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL020%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019%20%20L%E1%BA%A1i%20Chuy%E1%BB%87n%20Chi%E1%BA%BFc%20Xe%20Limousine%20V%C3%A0%20Ng%C6%B0%E1%BB%9Di%20L%C3%A1i%20Xe.mp3",
+    "title" : "SNNL020 ― Cuộc Săn Cừu Hoang ― Chương 19  Lại Chuyện Chiếc Xe Limousine Và Người Lái Xe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL021%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020%20%20Cu%E1%BB%91i%20H%C3%A8%20%20%C4%90%E1%BA%A7u%20Thu.mp3",
+    "title" : "SNNL021 ― Cuộc Săn Cừu Hoang ― Chương 20  Cuối Hè  Đầu Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL022%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021%20%20M%E1%BB%99t%20Trong%20S%E1%BB%91%20N%C4%83m%20Ng%C3%A0n.mp3",
+    "title" : "SNNL022 ― Cuộc Săn Cừu Hoang ― Chương 21  Một Trong Số Năm Ngàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL023%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022%20%20Bu%E1%BB%95i%20Picnic%20Chi%E1%BB%81u%20Ch%E1%BB%A7%20Nh%E1%BA%ADt.mp3",
+    "title" : "SNNL023 ― Cuộc Săn Cừu Hoang ― Chương 22  Buổi Picnic Chiều Chủ Nhật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL024%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023%20%20T%C6%B0%20T%C6%B0%E1%BB%9Fng%20H%E1%BA%A1n%20Ch%E1%BA%BF%20Nh%C6%B0ng%20Ngoan%20C%C6%B0%E1%BB%9Dng.mp3",
+    "title" : "SNNL024 ― Cuộc Săn Cừu Hoang ― Chương 23  Tư Tưởng Hạn Chế Nhưng Ngoan Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL025%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024%20%20M%E1%BB%99t%20Ch%C6%B0%C6%A1ng%20Cho%20C%C3%A1%20Tr%C3%ADch.mp3",
+    "title" : "SNNL025 ― Cuộc Săn Cừu Hoang ― Chương 24  Một Chương Cho Cá Trích",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL026%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20VII%20%20C%C3%B4ng%20V%E1%BB%A5%20%E1%BB%9E%20Kh%C3%A1ch%20S%E1%BA%A1n%20C%C3%A1%20Heo%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025%20%20D%E1%BB%8Bch%20Chuy%E1%BB%83n%20Ho%C3%A0n%20Th%C3%A0nh%20T%E1%BA%A1i%20R%E1%BA%A1p%20Chi%E1%BA%BFu%20Phim%20%20%C4%90%E1%BA%BFn%20Kh%C3%A1ch%20S%E1%BA%A1n%20C%C3%A1%20Heo.mp3",
+    "title" : "SNNL026 ― Cuộc Săn Cừu Hoang ― Phần VII  Công Vụ Ở Khách Sạn Cá Heo ― Chương 25  Dịch Chuyển Hoàn...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL027%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026%20%20Gi%C3%A1o%20S%C6%B0%20C%E1%BB%ABu%20Xu%E1%BA%A5t%20Hi%E1%BB%87n.mp3",
+    "title" : "SNNL027 ― Cuộc Săn Cừu Hoang ― Chương 26  Giáo Sư Cừu Xuất Hiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL028%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027%20%20Gi%C3%A1o%20S%C6%B0%20C%E1%BB%ABu%20%C4%82n%20H%E1%BA%BFt%20%20K%E1%BB%83%20H%E1%BA%BFt.mp3",
+    "title" : "SNNL028 ― Cuộc Săn Cừu Hoang ― Chương 27  Giáo Sư Cừu Ăn Hết  Kể Hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL029%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028%20%20T%E1%BA%A1m%20bi%E1%BB%87t%20kh%C3%A1ch%20s%E1%BA%A1n%20c%C3%A1%20heo.mp3",
+    "title" : "SNNL029 ― Cuộc Săn Cừu Hoang ― Chương 28  Tạm biệt khách sạn cá heo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL030%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20VIII%20%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%20III%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029%20%20S%E1%BB%B1%20Ra%20%C4%90%E1%BB%9Di%20%20H%C6%B0ng%20Th%E1%BB%8Bnh%20V%C3%A0%20Suy%20Vong%20C%E1%BB%A7a%20Huy%E1%BB%87n%20Junitaki.mp3",
+    "title" : "SNNL030 ― Cuộc Săn Cừu Hoang ― Phần VIII  Cuộc Săn Cừu Hoang  III ― Chương 29  Sự Ra Đời  Hưng...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL031%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030%20%20L%E1%BA%A7n%20Suy%20Vong%20Ti%E1%BA%BFp%20Theo%20C%E1%BB%A7a%20Junitaki%20V%C3%A0%20L%C6%B0%E1%BB%A3ng%20C%E1%BB%ABu%20C%E1%BB%A7a%20N%C3%B3.mp3",
+    "title" : "SNNL031 ― Cuộc Săn Cừu Hoang ― Chương 30  Lần Suy Vong Tiếp Theo Của Junitaki Và Lượng Cừu Của Nó",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL032%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031%20%20%C4%90%C3%AAm%20%E1%BB%9E%20Junitaki.mp3",
+    "title" : "SNNL032 ― Cuộc Săn Cừu Hoang ― Chương 31  Đêm Ở Junitaki",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL033%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2032%20%20M%E1%BB%99t%20Kh%C3%BAc%20Ngo%E1%BA%B7t%20Kh%C3%B4ng%20May%20Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng.mp3",
+    "title" : "SNNL033 ― Cuộc Săn Cừu Hoang ― Chương 32  Một Khúc Ngoặt Không May Trên Đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL034%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2033%20%20N%C3%A0ng%20R%E1%BB%9Di%20N%C3%BAi%20%20C%C6%A1n%20%C4%90%C3%B3i%20H%C3%A0nh%20H%E1%BA%A1.mp3",
+    "title" : "SNNL034 ― Cuộc Săn Cừu Hoang ― Chương 33  Nàng Rời Núi  Cơn Đói Hành Hạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL035%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2034%20%20Kh%C3%A1m%20Ph%C3%A1%20Trong%20Ga%20Ra%20%20Nh%E1%BB%AFng%20%C3%9D%20Ngh%C4%A9%20Gi%E1%BB%AFa%20%C4%90%E1%BB%93ng%20C%E1%BB%8F.mp3",
+    "title" : "SNNL035 ― Cuộc Săn Cừu Hoang ― Chương 34  Khám Phá Trong Ga Ra  Những Ý Nghĩ Giữa Đồng Cỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL036%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2035%20%20Ng%C6%B0%E1%BB%9Di%20C%E1%BB%ABu%20T%E1%BB%9Bi.mp3",
+    "title" : "SNNL036 ― Cuộc Săn Cừu Hoang ― Chương 35  Người Cừu Tới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL037%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2036%20%20Con%20%C4%90%C6%B0%E1%BB%9Dng%20L%E1%BB%9Bn%20R%E1%BA%A5t%20Ri%C3%AAng%20C%E1%BB%A7a%20Gi%C3%B3.mp3",
+    "title" : "SNNL037 ― Cuộc Săn Cừu Hoang ― Chương 36  Con Đường Lớn Rất Riêng Của Gió",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL038%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2037%20%20Nh%E1%BB%AFng%20%C4%90i%E1%BB%81u%20G%C6%B0%C6%A1ng%20Ph%E1%BA%A3n%20Chi%E1%BA%BFu%20%20Nh%E1%BB%AFng%20%C4%90i%E1%BB%81u%20Kh%C3%B4ng.mp3",
+    "title" : "SNNL038 ― Cuộc Săn Cừu Hoang ― Chương 37  Những Điều Gương Phản Chiếu  Những Điều Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL039%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2038%20%20V%C3%A0%20Th%E1%BA%BF%20L%C3%A0%20Th%E1%BB%9Di%20Gian%20Tr%C3%B4i%20%C4%90i.mp3",
+    "title" : "SNNL039 ― Cuộc Săn Cừu Hoang ― Chương 38  Và Thế Là Thời Gian Trôi Đi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL040%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2039%20%20Nh%E1%BB%AFng%20K%E1%BA%BB%20S%E1%BB%91ng%20Trong%20B%C3%B3ng%20T%E1%BB%91i.mp3",
+    "title" : "SNNL040 ― Cuộc Săn Cừu Hoang ― Chương 39  Những Kẻ Sống Trong Bóng Tối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL041%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2040%20%20Chu%E1%BB%99t%20%20Ng%C6%B0%E1%BB%9Di%20L%C3%AAn%20D%C3%A2y%20%C4%90%E1%BB%93ng%20H%E1%BB%93.mp3",
+    "title" : "SNNL041 ― Cuộc Săn Cừu Hoang ― Chương 40  Chuột  Người Lên Dây Đồng Hồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL042%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2041%20%20D%C3%A2y%20Xanh%20V%E1%BB%9Bi%20D%C3%A2y%20%C4%90%E1%BB%8F%20%20Nh%E1%BB%AFng%20Con%20M%C3%B2ng%20Bi%E1%BB%83n%20L%E1%BA%A1nh%20C%C3%B3ng.mp3",
+    "title" : "SNNL042 ― Cuộc Săn Cừu Hoang ― Chương 41  Dây Xanh Với Dây Đỏ  Những Con Mòng Biển Lạnh Cóng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL043%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2042%20%20Th%C4%83m%20L%E1%BA%A1i%20Kh%C3%BAc%20Ngo%E1%BA%B7t%20Kh%C3%B4ng%20May.mp3",
+    "title" : "SNNL043 ― Cuộc Săn Cừu Hoang ― Chương 42  Thăm Lại Khúc Ngoặt Không May",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL044%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2043%20%20Cu%E1%BB%99c%20H%E1%BA%B9n%20L%C3%BAc%20M%C6%B0%E1%BB%9Di%20Hai%20Gi%E1%BB%9D.mp3",
+    "title" : "SNNL044 ― Cuộc Săn Cừu Hoang ― Chương 43  Cuộc Hẹn Lúc Mười Hai Giờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Cuoc-San-Cuu-Hoang/SNNL045%20%E2%80%95%20Cu%E1%BB%99c%20S%C4%83n%20C%E1%BB%ABu%20Hoang%20%E2%80%95%20Ph%E1%BA%A7n%20K%E1%BA%BFt.mp3",
+    "title" : "SNNL045 ― Cuộc Săn Cừu Hoang ― Phần Kết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
