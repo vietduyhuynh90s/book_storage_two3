@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kho-tang-tam-cua-cac-bac-giac-ngo_20407.html",
+    "title" : "Kho Tàng Tâm Của Các Bậc Giác Ngộ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Patrul Rinpoche",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-21",
+    "duration" : 27998,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_02f2ab4d207a5a092df7628bbc71471b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_02f2ab4d207a5a092df7628bbc71471b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3496,
+    "title" : "01_Loi-dau_Dan-nhap_TAnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5445,
+    "title" : "02-Nhung-Khuyet -Diem-Cua-Thoi-Dai-Suy-Thoai-Cua-Chung-Ta_TAnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "03_Ba-con-duong_TMai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4250,
+    "title" : "04_Tu-Guru-Yoga-Den-Sau-Thien-Dinh_KHanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4318,
+    "title" : "05_Giai-doan-thanh-tuu_KHanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2696,
+    "title" : "06_Tu-Tham-Lam-Den -Het-Phan-Hai_TAnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "07_Quyet-Tam-Giai-Thoat-Khoi-Sanh-Tu_KHanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1985,
+    "title" : "08_Ve-Patrul_Dilgo-Khyentse-Rimpoche_TAnh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-1.mp3",
+    "title" : "01_Loi-dau_Dan-nhap_TAnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-2.mp3",
+    "title" : "02-Nhung-Khuyet -Diem-Cua-Thoi-Dai-Suy-Thoai-Cua-Chung-Ta_TAnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-3.mp3",
+    "title" : "03_Ba-con-duong_TMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-4.mp3",
+    "title" : "04_Tu-Guru-Yoga-Den-Sau-Thien-Dinh_KHanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-5.mp3",
+    "title" : "05_Giai-doan-thanh-tuu_KHanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-6.mp3",
+    "title" : "06_Tu-Tham-Lam-Den -Het-Phan-Hai_TAnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-7.mp3",
+    "title" : "07_Quyet-Tam-Giai-Thoat-Khoi-Sanh-Tu_KHanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kho-tang-2/kho-tang-8.mp3",
+    "title" : "08_Ve-Patrul_Dilgo-Khyentse-Rimpoche_TAnh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
