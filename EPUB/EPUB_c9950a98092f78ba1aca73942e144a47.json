@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chuyen-thoi-bao-cap-1335.html",
+    "title" : "CHUYỆN THỜI BAO CẤP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách là tập hợp các bài viết của một số tác giả kể lại những câu chuyện chân thực về những khó khăn, thiếu thốn, tình trạng khan hiếm hàng hoá, lương thực, thực phẩm cùng các nhu yếu phẩm thiết yếu của đời sống con người và những tư duy, suy nghĩ, mong ước rất giản dị của mọi người thời kỳ trước Đổi mới (1986) khi mà đất nước ta còn duy trì cơ chế kinh tế kế hoạch hoá tập trung quan liêu, bao cấp. Thời kỳ đó mọi nhu yếu phẩm cần thiết đều phải phân phối theo chế độ tem phiếu và chúng ta gọi là “thời bao cấp” Trải qua thời kỳ khó khăn như vậy, nhưng nhân dân ta vẫn vượt qua. Chúng ta đã trăn trở, tìm tòi được con đường đi phù hợp với quy luật phát triển chung của thời đại và thực tiễn của Việt Nam. Nhờ đó, đất nước ta đã thoát ra khỏi khủng hoảng kinh tế xã hội, có sự thay đổi cơ bản và toàn diện như hôm nay, đời sống nhân dân được cải thiện rõ rệt. Những kết quả, thành tựu đó đã khẳng định đường lối đổi mới do Đảng ta khởi xướng và lãnh đạo là đúng đắn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_c9950a98092f78ba1aca73942e144a47.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_c9950a98092f78ba1aca73942e144a47.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1335-chuyen-thoi-bao-cap-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 01 - Mặt Rỗ Đi Lơ Không Bằng Lưng Gù Đi Cúp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1335-chuyen-thoi-bao-cap-thuviensach.vn.mp3?t=4568",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:16:08 Tập 02 - Kén Rể Thời Bao Cấp Và Khi Mẹ Vợ Là Cán Bộ Vụ Tổ Chức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1335-chuyen-thoi-bao-cap-thuviensach.vn.mp3?t=7573",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:06:13 Tập 03 - Những Chuyện Cười Ra Nước Mắt ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1335-chuyen-thoi-bao-cap-thuviensach.vn.mp3?t=10082",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:48:02 Tập 04 - Những Chuyện Cười Ra Nước Mắt ...",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1335-chuyen-thoi-bao-cap-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 01 - Mặt Rỗ Đi Lơ Không Bằng Lưng Gù Đi Cúp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1335-chuyen-thoi-bao-cap-thuviensach.vn.mp3?t=4568",
+    "title" : "01:16:08 Tập 02 - Kén Rể Thời Bao Cấp Và Khi Mẹ Vợ Là Cán Bộ Vụ Tổ Chức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1335-chuyen-thoi-bao-cap-thuviensach.vn.mp3?t=7573",
+    "title" : "02:06:13 Tập 03 - Những Chuyện Cười Ra Nước Mắt ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1335-chuyen-thoi-bao-cap-thuviensach.vn.mp3?t=10082",
+    "title" : "02:48:02 Tập 04 - Những Chuyện Cười Ra Nước Mắt ...",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

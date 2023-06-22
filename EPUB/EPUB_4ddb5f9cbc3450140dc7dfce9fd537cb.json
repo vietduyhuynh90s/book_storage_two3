@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/no-doi-7833.html",
+    "title" : "NỢ ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một buổi trưa, trời ui-ui, gió mát-mẻ, có một cái xe-hơi ở phía dưới Mỹ Thuận chạy lên, qua khỏi chợ Cai-Lậy một đổi rồi rề-rề ngừng ngay cái xóm nhà dựa lộ, bên mé tay trái. Nhơn-dân trong xóm chạy túa ra đứng dài theo lề đường mà coi, đờn-ông có, đờn-bà có, bà-già có, con-nít có, song ai nấy đều đứng xa xa mà ngó chớ không dám lại gần, không hiểu tại họ sợ cái mầu-nhiệm của món cơ-xảo lạ lùng, hay là tại họ kiêng hơi oai nghiêm của người chủ xe sang trọng. Cái xe còn mới tinh nên kèn cản chói sang lòa, lại sơn màu lá cây sậm nên coi mặn-mòi đẹp-đẽ. Người sớp -phơ mở cửa xe leo xuống, mặc đồ tây trắng, mang giày tây trắng, đội kết cũng màu trắng, giơ tay ngoắt đám dân làng và kêu mà nói rằng: “Ê! mấy người lại đây đặng hỏi thăm một chút coi nào”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_4ddb5f9cbc3450140dc7dfce9fd537cb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_4ddb5f9cbc3450140dc7dfce9fd537cb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7833-no-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7833-no-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

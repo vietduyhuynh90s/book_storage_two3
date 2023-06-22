@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tong-hop-than-thoai-trung-quoc-1188.html",
+    "title" : "TỔNG HỢP THẦN THOẠI TRUNG QUỐC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thần thoại và truyền thuyết là các câu chuyện kể về thần linh và anh hùng (anh hùng trong chiến tranh và anh hùng văn hóa). Nội dung của chúng bao gồm nguồn gốc của vũ trụ, nguồn gốc của các vị thần và loài người, các vị thần làm thế nào để thống trị vũ trụ, tranh bá trong vũ trụ, mối quan hệ thần bí giữa thần linh và con người, cùng với công trạng của các anh hùng dân tộc thời cổ đại. Thần thoại và truyền thuyết lý giải thế giới bằng trí tưởng tượng phong phú, mô tả lịch sử loài người thời viễn cổ bằng con mắt siêu hiện thực. Theo góc nhìn của thần thoại và truyền thuyết, thần linh là căn nguyên của sinh mệnh và xã hội loài người, ý nghĩa tồn tại của con người bắt nguồn từ thần, vận mệnh của loài người được quyết định bởi thần; các anh hùng trong truyền thuyết đã sáng tạo nên lịch sử và văn hóa của nhân loại. Thần thoại và truyền thuyết là nơi hội tụ tín ngưỡng, đạo đức, triết học, khoa học và lịch sử của con người thời viễn cổ, chúng chính là kết tinh đời sống tinh thần, là đền thờ tinh thần linh thiêng của con người từ thời xa xưa.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_27228d6b9d6b29518a12362dd8ee19e3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_27228d6b9d6b29518a12362dd8ee19e3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1188-tong-hop-than-thoai-trung-quoc-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1188-tong-hop-than-thoai-trung-quoc-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

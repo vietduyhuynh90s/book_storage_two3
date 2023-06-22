@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/luat-hap-dan-suc-manh-bi-mat-cua-vu-tru-8337.html",
+    "title" : "LUẬT HẤP DẪN - SỨC MẠNH BÍ MẬT CỦA VŨ TRỤ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jenny Loveless",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sức mạnh bí mật của vũ trụ không chỉ đưa ra lời giải thích sâu sắc và tất cả cách thức thực hiện mà còn mang đến cho bạn nguồn cảm hứng và động lực để tạo ra số phận của chính mình theo đúng như bạn mong muốn. Sau khi nghe audio về cuốn sách này, những từ tôi không thể thậm chí sẽ không còn là một phần trong vốn từ vựng của bạn. Bạn sẽ thành công trong mọi lĩnh vực nỗ lực vì bạn sẽ chỉ mong đợi thành công. Và bạn sẽ ngoại trừ không có gì ít hơn! Với đầy những trích dẫn truyền cảm hứng, cuốn sách này sẽ giúp bạn tạo ra cuộc sống mà bạn hằng mơ ước!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_407ec96a6630a4c3b3a259e7c2537a42.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_407ec96a6630a4c3b3a259e7c2537a42.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8337-luat-hap-dan-suc-manh-bi-mat-cua-vu-tru-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8337-luat-hap-dan-suc-manh-bi-mat-cua-vu-tru-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/me-min-bo-min-14039.html",
+    "title" : "MẸ MÌN BỐ MÌN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tô Hoài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Giản dị nhưng sâu sắc, Mẹ Mìn Bố Mìn của Tô Hoài khắc họa chân thực cuộc sống và con người Hà Nội của một thời kì loạn lạc. Trong bối cảnh ấy có những số phận trái ngang, đau thương đã phải vươn lên để sinh tồn bằng mọi cách... Dù nhiều cay đắng nhưng ở họ vẫn toát lên sự chân chất, mộc mạc và cả hy vọng vào một ngày mai đẹp hơn. \"Cái dạo bà Sâm còn sống, mỗi khi về làng, tôi thường có dịp gặp. Cùng trạc tuổi ngày trước, chuyện cũ chuyện nay không bao giờ cạn. Vả lại, ở tuổi chúng tôi bây giờ trong làng cũng chẳng còn mấy người. Nhớ lại năm xưa, hồi Sâm bỏ nhà đi và cái bà cụ Sâm bây giờ, cả hai quãng đời chẳng một chút hơi hướng với nhau...” (Trích Mẹ mìn bố mìn)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_55926c5666c207aaac116739eadfdccd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_55926c5666c207aaac116739eadfdccd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14039-me-min-bo-min-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14039-me-min-bo-min-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
