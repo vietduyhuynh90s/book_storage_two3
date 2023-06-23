@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/em-hon-nhien-em-se-binh-minh-14018.html",
+    "title" : "EM HỒN NHIÊN, EM SẼ BÌNH MINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Niệm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Dịu dàng từ ái là thứ quyền năng tạo hóa ban cho phụ nữ, là phép màu cho loài người để tạo ra một thế giới bình yên và đầy tình yêu. Cuộc đời này chẳng có gì là ngẫu nhiên. Tạo hoá không vô tình khi phụ nữ vốn được tạo ra với khí chất mềm mại như lụa, tươi tắn như hoa, ôn hòa như nước, kiên cường như đất mẹ, giọng nói là tiếng ngọc, nụ cười như tỏa nắng, sự thông minh thiên bẩm trong tâm hồn luôn trẻ thơ… Thế giới này không có phụ nữ xấu. Mỗi người là một tiểu thế giới trong vũ trụ bao la mà phụ nữ chính là những thế giới quyến rũ nhất, mê hoặc nhất và cũng bí ẩn nhất, còn thế giới của những người đàn ông thường đơn giản nhưng gai góc và khô cằn giống như núi đá. Chỉ có điều, ai đủ diễm phúc để tìm thấy người phụ nữ hợp nhất với mình thì đó chính là người phụ nữ đẹp nhất. Mỗi phụ nữ đều là những bông hoa quý, đằm thắm toả cả sắc lẫn hương... Tạo hóa sinh ra con trai và con gái là đã khẳng định sự khác biệt. Đàn ông như núi, đàn bà như nước. Không có núi thì nước chẳng có nguồn, cũng như không có nước thì núi chẳng còn linh hồn nữa. Vậy thì phụ nữ ơi, xin đừng ám ảnh và chiến đấu vì sự bình đẳng nam nữ vì đó là điều trái với tự nhiên. Cũng đừng chiến đấu vì sự công bằng bởi lẽ thế gian không thể tồn tại sự công bằng theo cách mà ta muốn. Những điều này chỉ đẩy thế gian chìm trong khổ lụy. Bởi vốn tạo hóa sinh ra phụ nữ để mang lại niềm vui và yêu thương cho nhân loại, để cho vũ trụ không còn cô đơn. Tôi tin rằng mỗi phụ nữ đều có thể thành công cùng với hạnh phúc theo cách riêng của mình, giống như nước tồn tại trên trái đất này vậy. Nước là cái nôi của sinh mệnh, nước là cầu nối tuần hoàn giữa đất và trời, nước là dòng Cam Lồ rửa trôi mọi nỗi buồn phiền, là suối nguồn hiền hòa và bình yên tưới mát và nuôi dưỡng mọi tâm hồn dù khô cằn hay đầy thương tổn… nước có sức mạnh phi thường mà không gì trên thế gian ngăn cản được nhưng lại ôn nhu khiêm nhường, không màu đến lấp lánh, không mùi đến thuần khiết, không vị đến mát lành, mà dù có gặp chướng ngại cản ngăn cũng lặng lẽ kiên cường rẽ lối để rồi vẫn hiền hòa dưỡng nuôi vạn vật. Dịu dàng từ ái là thứ quyền năng tạo hóa ban cho phụ nữ, cũng chính là phép nhiệm màu tạo hóa đã ban cho loài người để tạo ra một thế giới bình yên và đầy tình yêu. Hỡi một nửa yêu thương và diệu kỳ của nhân loại, Em hồn nhiên rồi Em sẽ bình minh, Em bình minh rồi thế giới sẽ bình yên!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_336e1031cda210d7db6976d18048a479.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_336e1031cda210d7db6976d18048a479.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14018-em-hon-nhien-em-se-binh-minh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14018-em-hon-nhien-em-se-binh-minh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
