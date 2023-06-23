@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://radiosach.com/sach/ra-bo-suoi-ngam-hoa-ken-hong.html",
+    "title" : "Ra Bờ Suối Ngắm Hoa Kèn Hồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "Giữa đại dịch căng thẳng, cầm cuốn sách nhỏ, đọc một mạch, không thể rời mắt. Đôi khi tủm tỉm, lúc thì cười rúc rích, nghĩ lại thì thấy sao mà dễ thương, những chi tiết quanh mình giản dị thế thôi mà được nhà văn gọi ra, sắp xếp lại- thế là bạn đọc có ngay trên tay một cuốn sách mới thật đặc biệt so với hơn 100 cuốn sách khác của Nguyễn Nhật Ánh. Trải ra trước mắt một cuốn phim về khu vườn trại rực rỡ màu sắc của vùng quê thanh bình, cỏ cây xanh mướt, hoa tươi sặc sỡ, những nhân vật đáng yêu “không thể chịu được” làm nên một “thế giới giàu có, rộng lớn và vô cùng hấp dẫn” mà dường như người lớn nào cũng đã bỏ quên hoặc đánh mất từ lâu.",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 3735,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_149fc8a688c800b6a4720e1d55da9399.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_149fc8a688c800b6a4720e1d55da9399.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ra-bo-1/ra-bo-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "Full",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ra-bo-1/ra-bo-1.mp3",
+    "title" : "Full",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
