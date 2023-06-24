@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tieu-bo-tap-2-14100.html",
+    "title" : "KINH TIỂU BỘ - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu Bộ kinh có nhan đề “Tiểu Bộ”, nhưng lại chứa đựng số lượng kinh lớn nhất trong năm bộ Nikàya là 15 tập, so với Trường Bộ (3 tập), Trung Bộ (3 tập), Tương Ưng Bộ (5 tập) và Tăng Chi Bộ (3 tập). Chữ “Tiểu” ở đây, theo các vị luận sư, muốn chỉ tính cách hỗn hợp nhiều đề tài được diễn tả bằng nhiều thể văn khác nhau, từ các kinh kệ ngắn gọn do Ðức Phật thuyết giảng, các tiền thân Ðức Phật với hàng ngàn bài kệ do các vị Tỳ kheo cảm tác, tiểu sử các Ðức Phật, các vị A-la-hán, sự tích Thiên cung, Ngạ quỷ do chư vị kết tập kinh điển biên soạn..., đến các luận thư phân tích giáo lý mở đầu cho văn học A Tì Ðàm (Abhidhamma) của Luận tạng về sau.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-24",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_5440e77dd6871bb5c1238b1be001d6b3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_5440e77dd6871bb5c1238b1be001d6b3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 1 - Kinh Tập - Chương 3 - Đại Phẩm 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=2015",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:33:35 Tập 1 - Kinh Tập - Chương 3 - Đại Phẩm 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=3591",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:59:51 Tập 1 - Kinh Tập - Chương 3 - Đại Phẩm 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=5302",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:28:22 Tập 1 - Kinh Tập - Chương 4 - Phẩm Tám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=8940",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:29:00 Tập 1 - Kinh Tập - Chương 5 - Trên Đường Đến Bờ Bên Kia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=11667",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:14:27 Tập 2 - Chuyện Thiên Cung - Phẩm 1 Lâu Đài Nữ Giới - Chuyện 1-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=17454",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:50:54 Tập 2 - Chuyện Thiên Cung - Phẩm 2 Cittalata - Chuyện 1-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=19802",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:30:02 Tập 2 - Chuyện Thiên Cung - Phẩm 3 Paricchattaka - Chuyện 1-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=23422",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:30:22 Tập 2 - Chuyện Thiên Cung - Phẩm 4 Đỏ Sẫm - Chuyện 1-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=27208",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:33:28 Tập 2 - Chuyện Thiên Cung - Phẩm 5 Đại Xa - Chuyện 1-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=31013",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:36:53 Tập 2 - Chuyện Thiên Cung - Phẩm 6 Payasi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=32157",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:55:57 Tập 2 - Chuyện Thiên Cung - Phẩm 7 Sunikkhitta",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 1 - Kinh Tập - Chương 3 - Đại Phẩm 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=2015",
+    "title" : "00:33:35 Tập 1 - Kinh Tập - Chương 3 - Đại Phẩm 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=3591",
+    "title" : "00:59:51 Tập 1 - Kinh Tập - Chương 3 - Đại Phẩm 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=5302",
+    "title" : "01:28:22 Tập 1 - Kinh Tập - Chương 4 - Phẩm Tám",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=8940",
+    "title" : "02:29:00 Tập 1 - Kinh Tập - Chương 5 - Trên Đường Đến Bờ Bên Kia",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=11667",
+    "title" : "03:14:27 Tập 2 - Chuyện Thiên Cung - Phẩm 1 Lâu Đài Nữ Giới - Chuyện 1-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=17454",
+    "title" : "04:50:54 Tập 2 - Chuyện Thiên Cung - Phẩm 2 Cittalata - Chuyện 1-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=19802",
+    "title" : "05:30:02 Tập 2 - Chuyện Thiên Cung - Phẩm 3 Paricchattaka - Chuyện 1-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=23422",
+    "title" : "06:30:22 Tập 2 - Chuyện Thiên Cung - Phẩm 4 Đỏ Sẫm - Chuyện 1-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=27208",
+    "title" : "07:33:28 Tập 2 - Chuyện Thiên Cung - Phẩm 5 Đại Xa - Chuyện 1-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=31013",
+    "title" : "08:36:53 Tập 2 - Chuyện Thiên Cung - Phẩm 6 Payasi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14100-kinh-tieu-bo-tap-2-thuviensach.vn.mp3?t=32157",
+    "title" : "08:55:57 Tập 2 - Chuyện Thiên Cung - Phẩm 7 Sunikkhitta",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
