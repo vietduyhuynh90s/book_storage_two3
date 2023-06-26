@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/an-the-hao-mon.html",
+    "title" : "Ẩn Thế Hào Môn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Uyển Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 42655,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_be0ec1d12cbb5530bcfd22222d395ce3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_be0ec1d12cbb5530bcfd22222d395ce3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4120,
+    "title" : "an-the-hao-mon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4179,
+    "title" : "an-the-hao-mon-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3687,
+    "title" : "an-the-hao-mon-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "an-the-hao-mon-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3901,
+    "title" : "an-the-hao-mon-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3957,
+    "title" : "an-the-hao-mon-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "an-the-hao-mon-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3823,
+    "title" : "an-the-hao-mon-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "an-the-hao-mon-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3995,
+    "title" : "an-the-hao-mon-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3879,
+    "title" : "an-the-hao-mon-tap-11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon.mp3",
+    "title" : "an-the-hao-mon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-2.mp3",
+    "title" : "an-the-hao-mon-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-3.mp3",
+    "title" : "an-the-hao-mon-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-4.mp3",
+    "title" : "an-the-hao-mon-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-5.mp3",
+    "title" : "an-the-hao-mon-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-6.mp3",
+    "title" : "an-the-hao-mon-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-7.mp3",
+    "title" : "an-the-hao-mon-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-8.mp3",
+    "title" : "an-the-hao-mon-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-9.mp3",
+    "title" : "an-the-hao-mon-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-10.mp3",
+    "title" : "an-the-hao-mon-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-the-hao-mon/an-the-hao-mon-tap-11.mp3",
+    "title" : "an-the-hao-mon-tap-11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
