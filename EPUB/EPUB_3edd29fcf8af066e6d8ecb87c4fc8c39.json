@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nhat-kiep-tien-pham.html",
+    "title" : "Nhất Kiếp Tiên Phàm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tâm Lạnh Như Đao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 21642,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_3edd29fcf8af066e6d8ecb87c4fc8c39.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_3edd29fcf8af066e6d8ecb87c4fc8c39.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiem-tien-pham.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "nhat-kiem-tien-pham",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2651,
+    "title" : "nhat-kiep-tien-pham-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "nhat-kiep-tien-pham-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3933,
+    "title" : "nhat-kiep-tien-pham-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2983,
+    "title" : "nhat-kiep-tien-pham-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2938,
+    "title" : "nhat-kiep-tien-pham-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2687,
+    "title" : "nhat-kiep-tien-pham-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiem-tien-pham.mp3",
+    "title" : "nhat-kiem-tien-pham",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-2.mp3",
+    "title" : "nhat-kiep-tien-pham-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-3.mp3",
+    "title" : "nhat-kiep-tien-pham-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-4.mp3",
+    "title" : "nhat-kiep-tien-pham-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-5.mp3",
+    "title" : "nhat-kiep-tien-pham-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-6.mp3",
+    "title" : "nhat-kiep-tien-pham-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-kiem-tien-pham/nhat-kiep-tien-pham-tap-7.mp3",
+    "title" : "nhat-kiep-tien-pham-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
