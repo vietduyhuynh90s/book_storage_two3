@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/bua-yem-tan-ac.html",
+    "title" : "Bùa Yểm Tàn Ác",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiến Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 19193,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_2aa2206bd9da3b110c98c3260e95655f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_2aa2206bd9da3b110c98c3260e95655f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3167,
+    "title" : "bua-yem-tan-ac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3182,
+    "title" : "bua-yem-tan-ac-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3227,
+    "title" : "bua-yem-tan-ac-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3077,
+    "title" : "bua-yem-tan-ac-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "bua-yem-tan-ac-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3387,
+    "title" : "bua-yem-tan-ac-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac.mp3",
+    "title" : "bua-yem-tan-ac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-2.mp3",
+    "title" : "bua-yem-tan-ac-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-3.mp3",
+    "title" : "bua-yem-tan-ac-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-4.mp3",
+    "title" : "bua-yem-tan-ac-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-5.mp3",
+    "title" : "bua-yem-tan-ac-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bua-yem-tan-ac/bua-yem-tan-ac-tap-6.mp3",
+    "title" : "bua-yem-tan-ac-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

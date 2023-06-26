@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/doc-giang-cuu-huyen.html",
+    "title" : "Độc Giang Cửu Huyền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tĩnh Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 64232,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_99ad9984f4f0d9857efe9df3fac37e70.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_99ad9984f4f0d9857efe9df3fac37e70.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3530,
+    "title" : "doc-giang-cuu-huyen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "doc-giang-cuu-huyen-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "doc-giang-cuu-huyen-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3445,
+    "title" : "doc-giang-cuu-huyen-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "doc-giang-cuu-huyen-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3349,
+    "title" : "doc-giang-cuu-huyen-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3469,
+    "title" : "doc-giang-cuu-huyen-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3871,
+    "title" : "doc-giang-cuu-huyen-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4195,
+    "title" : "doc-giang-cuu-huyen-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "doc-giang-cuu-huyen-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3982,
+    "title" : "doc-giang-cuu-huyen-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "doc-giang-cuu-huyen-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "doc-giang-cuu-huyen-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3418,
+    "title" : "doc-giang-cuu-huyen-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4232,
+    "title" : "doc-giang-cuu-huyen-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4479,
+    "title" : "doc-giang-cuu-huyen-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5079,
+    "title" : "doc-giang-cuu-huyen-tap-17",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen.mp3",
+    "title" : "doc-giang-cuu-huyen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-2.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-3.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-4.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-5.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-6.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-7.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-8.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-9.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-10.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-11.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-12.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-13.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-14.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-15.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-16.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-giang-cuu-huyen/doc-giang-cuu-huyen-tap-17.mp3",
+    "title" : "doc-giang-cuu-huyen-tap-17",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/den-long-do.html",
+    "title" : "Đèn lồng đỏ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đặng Thuỳ Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_8043c08ccd47251ee97def220e7bdced.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_8043c08ccd47251ee97def220e7bdced.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đèn lồng đỏ tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đèn lồng đỏ tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đèn lồng đỏ tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đèn lồng đỏ tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đèn lồng đỏ tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đèn lồng đỏ tập 6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_01.mp3",
+    "title" : "Đèn lồng đỏ tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_02.mp3",
+    "title" : "Đèn lồng đỏ tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_03.mp3",
+    "title" : "Đèn lồng đỏ tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_04.mp3",
+    "title" : "Đèn lồng đỏ tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_05.mp3",
+    "title" : "Đèn lồng đỏ tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801409.us.archive.org/17/items/den-long-do-full/DenLongDo_06.mp3",
+    "title" : "Đèn lồng đỏ tập 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

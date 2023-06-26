@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngoi-nha-tren-manh-dat-hoang.html",
+    "title" : "Ngôi nhà trên mảnh đất hoang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Tiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_a71bf1b1f0831371d0808dd9d8dad1fc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_a71bf1b1f0831371d0808dd9d8dad1fc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoi-nha-tren-manh-dat-hoang/ngoi-nha-tren-manh-dat-hoang-quang-a-tun-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ngôi Nhà Trên Mảnh Đất Hoang Tập 1 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801504.us.archive.org/34/items/ngoi-nha-tren-manh-dat-hoang/ngoi-nha-tren-manh-dat-hoang-quang-a-tun-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ngôi Nhà Trên Mảnh Đất Hoang Tập 2 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801504.us.archive.org/34/items/ngoi-nha-tren-manh-dat-hoang/ngoi-nha-tren-manh-dat-hoang-quang-a-tun-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ngôi Nhà Trên Mảnh Đất Hoang Tập 3 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoi-nha-tren-manh-dat-hoang/ngoi-nha-tren-manh-dat-hoang-quang-a-tun-tap-1.mp3",
+    "title" : "Ngôi Nhà Trên Mảnh Đất Hoang Tập 1 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801504.us.archive.org/34/items/ngoi-nha-tren-manh-dat-hoang/ngoi-nha-tren-manh-dat-hoang-quang-a-tun-tap-2.mp3",
+    "title" : "Ngôi Nhà Trên Mảnh Đất Hoang Tập 2 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801504.us.archive.org/34/items/ngoi-nha-tren-manh-dat-hoang/ngoi-nha-tren-manh-dat-hoang-quang-a-tun-tap-3.mp3",
+    "title" : "Ngôi Nhà Trên Mảnh Đất Hoang Tập 3 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

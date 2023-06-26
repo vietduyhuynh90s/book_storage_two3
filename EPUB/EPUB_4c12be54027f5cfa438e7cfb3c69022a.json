@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vao-di-nha-khong-co-ma-dau.html",
+    "title" : "Vào đi nhà không có ma đâu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọc Sơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_4c12be54027f5cfa438e7cfb3c69022a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_4c12be54027f5cfa438e7cfb3c69022a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801505.us.archive.org/30/items/vao-di-nha-khong-co-ma-dau/VaoDiNhaKhongCoMaDau_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Vào đi nhà không có ma đâu tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801505.us.archive.org/30/items/vao-di-nha-khong-co-ma-dau/VaoDiNhaKhongCoMaDau_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Vào đi nhà không có ma đâu tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801505.us.archive.org/30/items/vao-di-nha-khong-co-ma-dau/VaoDiNhaKhongCoMaDau_01.mp3",
+    "title" : "Vào đi nhà không có ma đâu tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801505.us.archive.org/30/items/vao-di-nha-khong-co-ma-dau/VaoDiNhaKhongCoMaDau_02.mp3",
+    "title" : "Vào đi nhà không có ma đâu tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
