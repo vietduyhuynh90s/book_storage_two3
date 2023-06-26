@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nha-cu-cua-ba-ngoai.html",
+    "title" : "Nhà Cũ Của Bà Ngoại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 4002,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_bd4a5551d1ff0910d8452fb367513e8e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_bd4a5551d1ff0910d8452fb367513e8e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nha-cu-cua-ba-ngoai/nha-cu-cua-ba-ngoai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4002,
+    "title" : "nha-cu-cua-ba-ngoai",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nha-cu-cua-ba-ngoai/nha-cu-cua-ba-ngoai.mp3",
+    "title" : "nha-cu-cua-ba-ngoai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

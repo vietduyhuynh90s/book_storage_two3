@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/yem-mang.html",
+    "title" : "Yểm Mạng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đan Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 59949,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9ed1c9668da600cbb6629173913d198d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9ed1c9668da600cbb6629173913d198d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/yem-mang/yem-mang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3958,
+    "title" : "yem-mang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3824,
+    "title" : "yem-mang-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3962,
+    "title" : "yem-mang-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "yem-mang-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "yem-mang-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "yem-mang-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3527,
+    "title" : "yem-mang-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "yem-mang-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "yem-mang-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "yem-mang-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "yem-mang-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3714,
+    "title" : "yem-mang-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3823,
+    "title" : "yem-mang-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "yem-mang-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3891,
+    "title" : "yem-mang-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3829,
+    "title" : "yem-mang-tap-19",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/yem-mang/yem-mang.mp3",
+    "title" : "yem-mang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-2.mp3",
+    "title" : "yem-mang-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-3.mp3",
+    "title" : "yem-mang-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-4.mp3",
+    "title" : "yem-mang-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-5.mp3",
+    "title" : "yem-mang-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-7.mp3",
+    "title" : "yem-mang-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-9.mp3",
+    "title" : "yem-mang-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-10.mp3",
+    "title" : "yem-mang-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-11.mp3",
+    "title" : "yem-mang-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-13.mp3",
+    "title" : "yem-mang-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-14.mp3",
+    "title" : "yem-mang-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-15.mp3",
+    "title" : "yem-mang-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-16.mp3",
+    "title" : "yem-mang-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-17.mp3",
+    "title" : "yem-mang-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-18.mp3",
+    "title" : "yem-mang-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yem-mang/yem-mang-tap-19.mp3",
+    "title" : "yem-mang-tap-19",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
