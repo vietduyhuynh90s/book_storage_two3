@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thi-vuong-hoi-sinh.html",
+    "title" : "Thi Vương Hồi Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Trần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 8168,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_7882bb7d062c3fc08a592ab8b512aacb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_7882bb7d062c3fc08a592ab8b512aacb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thi-vuong-hoi-sinh/thi-vuong-hoi-sinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "thi-vuong-hoi-sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thi-vuong-hoi-sinh/thi-vuong-hoi-sinh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "thi-vuong-hoi-sinh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thi-vuong-hoi-sinh/thi-vuong-hoi-sinh.mp3",
+    "title" : "thi-vuong-hoi-sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thi-vuong-hoi-sinh/thi-vuong-hoi-sinh-tap-2.mp3",
+    "title" : "thi-vuong-hoi-sinh-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

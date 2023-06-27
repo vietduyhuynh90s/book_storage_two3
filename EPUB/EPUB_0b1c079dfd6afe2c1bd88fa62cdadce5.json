@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/co-dong-thao-bao-ha-thanh-tuong.html",
+    "title" : "Cô đồng Thao Bảo Hà Thánh Tướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trung Kiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 23401,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_0b1c079dfd6afe2c1bd88fa62cdadce5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_0b1c079dfd6afe2c1bd88fa62cdadce5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-dong-thao-bao-ha-thanh-tuong/co-dong-thao-bao-ha-thanh-tuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5337,
+    "title" : "co-dong-thao-bao-ha-thanh-tuong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-bao-ha-thanh-tuong/co-dong-thao-bao-ha-thanh-tuong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6154,
+    "title" : "co-dong-thao-bao-ha-thanh-tuong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-bao-ha-thanh-tuong/co-dong-thao-bao-ha-thanh-tuong-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5735,
+    "title" : "co-dong-thao-bao-ha-thanh-tuong-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-bao-ha-thanh-tuong/co-dong-thao-bao-ha-thanh-tuong-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6175,
+    "title" : "co-dong-thao-bao-ha-thanh-tuong-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-dong-thao-bao-ha-thanh-tuong/co-dong-thao-bao-ha-thanh-tuong.mp3",
+    "title" : "co-dong-thao-bao-ha-thanh-tuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-bao-ha-thanh-tuong/co-dong-thao-bao-ha-thanh-tuong-tap-2.mp3",
+    "title" : "co-dong-thao-bao-ha-thanh-tuong-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-bao-ha-thanh-tuong/co-dong-thao-bao-ha-thanh-tuong-tap-3.mp3",
+    "title" : "co-dong-thao-bao-ha-thanh-tuong-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-bao-ha-thanh-tuong/co-dong-thao-bao-ha-thanh-tuong-tap-4.mp3",
+    "title" : "co-dong-thao-bao-ha-thanh-tuong-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

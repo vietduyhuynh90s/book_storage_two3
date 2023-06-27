@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/truyen-kiep-tinh-thu.html",
+    "title" : "Truyền Kiếp Tình Thù",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Nghĩa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11072,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_c047c63e616d3539ac07f119d9647084.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_c047c63e616d3539ac07f119d9647084.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truyen-kiep-tinh-thu/truyen-kiep-tinh-thu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3732,
+    "title" : "truyen-kiep-tinh-thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-kiep-tinh-thu/truyen-kiep-tinh-thu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3964,
+    "title" : "truyen-kiep-tinh-thu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-kiep-tinh-thu/truyen-kiep-tinh-thu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3376,
+    "title" : "truyen-kiep-tinh-thu-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truyen-kiep-tinh-thu/truyen-kiep-tinh-thu.mp3",
+    "title" : "truyen-kiep-tinh-thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-kiep-tinh-thu/truyen-kiep-tinh-thu-tap-2.mp3",
+    "title" : "truyen-kiep-tinh-thu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-kiep-tinh-thu/truyen-kiep-tinh-thu-tap-3.mp3",
+    "title" : "truyen-kiep-tinh-thu-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

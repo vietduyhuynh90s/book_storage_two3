@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/su-thay-dau-phap-voi-ta-tu-trung-quoc.html",
+    "title" : "Sư Thầy Đấu Pháp Với Tà Tu Trung Quốc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thanh Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 5855,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_ae930b17116a2460cea7003297815723.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_ae930b17116a2460cea7003297815723.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/su-thay-dau-phap-voi-ta-tu-trung-quoc/su-thay-dau-phap-voi-ta-tu-trung-quoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5855,
+    "title" : "su-thay-dau-phap-voi-ta-tu-trung-quoc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/su-thay-dau-phap-voi-ta-tu-trung-quoc/su-thay-dau-phap-voi-ta-tu-trung-quoc.mp3",
+    "title" : "su-thay-dau-phap-voi-ta-tu-trung-quoc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

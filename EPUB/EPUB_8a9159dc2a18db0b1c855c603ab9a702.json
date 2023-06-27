@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/doc-co-dong-de.html",
+    "title" : "Độc Cô Đồng Đế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hải Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 16024,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_8a9159dc2a18db0b1c855c603ab9a702.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_8a9159dc2a18db0b1c855c603ab9a702.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doccodongdeNTM/doc-co-dong-de.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "doc-co-dong-de",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doccodongdeNTM/doc-co-dong-de-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3979,
+    "title" : "doc-co-dong-de-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doccodongdeNTM/doc-co-dong-de-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3803,
+    "title" : "doc-co-dong-de-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doccodongdeNTM/doc-co-dong-de-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4617,
+    "title" : "doc-co-dong-de-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doccodongdeNTM/doc-co-dong-de.mp3",
+    "title" : "doc-co-dong-de",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doccodongdeNTM/doc-co-dong-de-tap-2.mp3",
+    "title" : "doc-co-dong-de-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doccodongdeNTM/doc-co-dong-de-tap-3.mp3",
+    "title" : "doc-co-dong-de-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doccodongdeNTM/doc-co-dong-de-tap-4.mp3",
+    "title" : "doc-co-dong-de-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

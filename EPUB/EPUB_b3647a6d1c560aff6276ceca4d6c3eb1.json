@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thay-phap-luyen-than.html",
+    "title" : "Đồ Đệ Diêm Vương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đông Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 87678,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_b3647a6d1c560aff6276ceca4d6c3eb1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_b3647a6d1c560aff6276ceca4d6c3eb1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6425,
+    "title" : "thay-phap-luyen-than",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/doa-hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "doa-hon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4215,
+    "title" : "thay-phap-luyen-than-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/doa-hon-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6398,
+    "title" : "doa-hon-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5550,
+    "title" : "thay-phap-luyen-than-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-phan-2-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4711,
+    "title" : "thay-phap-luyen-than-phan-2-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-phan-2-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4176,
+    "title" : "thay-phap-luyen-than-phan-2-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-phan-2-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "thay-phap-luyen-than-phan-2-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-4-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4625,
+    "title" : "do-de-diem-vuong-phan-4-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-4-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5615,
+    "title" : "do-de-diem-vuong-phan-4-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-4-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4771,
+    "title" : "do-de-diem-vuong-phan-4-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-5-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4423,
+    "title" : "do-de-diem-vuong-phan-5-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-5-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4910,
+    "title" : "do-de-diem-vuong-phan-5-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-5-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5905,
+    "title" : "do-de-diem-vuong-phan-5-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-6-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5666,
+    "title" : "do-de-diem-vuong-phan-6-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-6-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4410,
+    "title" : "do-de-diem-vuong-phan-6-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-6-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5898,
+    "title" : "do-de-diem-vuong-phan-6-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than.mp3",
+    "title" : "thay-phap-luyen-than",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/doa-hon.mp3",
+    "title" : "doa-hon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-tap-2.mp3",
+    "title" : "thay-phap-luyen-than-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/doa-hon-tap-3.mp3",
+    "title" : "doa-hon-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-tap-3.mp3",
+    "title" : "thay-phap-luyen-than-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-phan-2-tap-2.mp3",
+    "title" : "thay-phap-luyen-than-phan-2-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-phan-2-tap-3.mp3",
+    "title" : "thay-phap-luyen-than-phan-2-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/thay-phap-luyen-than-phan-2-tap-4.mp3",
+    "title" : "thay-phap-luyen-than-phan-2-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-4-tap-1.mp3",
+    "title" : "do-de-diem-vuong-phan-4-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-4-tap-2.mp3",
+    "title" : "do-de-diem-vuong-phan-4-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-4-tap-3.mp3",
+    "title" : "do-de-diem-vuong-phan-4-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-5-tap-1.mp3",
+    "title" : "do-de-diem-vuong-phan-5-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-5-tap-2.mp3",
+    "title" : "do-de-diem-vuong-phan-5-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-5-tap-3.mp3",
+    "title" : "do-de-diem-vuong-phan-5-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-6-tap-1.mp3",
+    "title" : "do-de-diem-vuong-phan-6-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-6-tap-2.mp3",
+    "title" : "do-de-diem-vuong-phan-6-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-phap-luyen-than/do-de-diem-vuong-phan-6-tap-3.mp3",
+    "title" : "do-de-diem-vuong-phan-6-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vong-nu-tren-canh-dong.html",
+    "title" : "Vong Nữ Trên Cánh Đồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mây Hạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10854,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_84b9d7d7081a066cbc429f21d87eeb02.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_84b9d7d7081a066cbc429f21d87eeb02.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-gai-hien-hon-bao-oan-ma-van-bi-yem-mo/co-gai-hien-hon-bao-oan-ma-van-bi-yem-mo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5516,
+    "title" : "co-gai-hien-hon-bao-oan-ma-van-bi-yem-mo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-gai-hien-hon-bao-oan-ma-van-bi-yem-mo/co-gai-hien-hon-bao-oan-ma-van-con-bi-yem-mo-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5338,
+    "title" : "co-gai-hien-hon-bao-oan-ma-van-con-bi-yem-mo-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-gai-hien-hon-bao-oan-ma-van-bi-yem-mo/co-gai-hien-hon-bao-oan-ma-van-bi-yem-mo.mp3",
+    "title" : "co-gai-hien-hon-bao-oan-ma-van-bi-yem-mo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-gai-hien-hon-bao-oan-ma-van-bi-yem-mo/co-gai-hien-hon-bao-oan-ma-van-con-bi-yem-mo-tap-2.mp3",
+    "title" : "co-gai-hien-hon-bao-oan-ma-van-con-bi-yem-mo-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

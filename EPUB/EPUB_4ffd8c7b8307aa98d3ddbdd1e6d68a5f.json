@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tieng-het-trong-can-nha-doi-dien.html",
+    "title" : "Tiếng Hét Trong Căn Nhà Đối Diện",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Tuấn Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 5853,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_4ffd8c7b8307aa98d3ddbdd1e6d68a5f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_4ffd8c7b8307aa98d3ddbdd1e6d68a5f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tieng-het-trong-can-nha-doi-dien/tieng-het-trong-can-nha-doi-dien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5853,
+    "title" : "tieng-het-trong-can-nha-doi-dien",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tieng-het-trong-can-nha-doi-dien/tieng-het-trong-can-nha-doi-dien.mp3",
+    "title" : "tieng-het-trong-can-nha-doi-dien",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/loi-nguyen-nha-bac-coi.html",
+    "title" : "Lời Nguyền Nhà Bác Cói",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duy Lương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 9380,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_deed4d9ec4a5ea0211fd8e9f6e527f84.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_deed4d9ec4a5ea0211fd8e9f6e527f84.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-nha-bac-coi/loi-nguyen-nha-bac-coi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4530,
+    "title" : "loi-nguyen-nha-bac-coi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-nha-bac-coi/vong-pha-nha-bac-coi-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4850,
+    "title" : "vong-pha-nha-bac-coi-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-nha-bac-coi/loi-nguyen-nha-bac-coi.mp3",
+    "title" : "loi-nguyen-nha-bac-coi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-nha-bac-coi/vong-pha-nha-bac-coi-tap-2.mp3",
+    "title" : "vong-pha-nha-bac-coi-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

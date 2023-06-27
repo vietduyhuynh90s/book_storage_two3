@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thay-mo-luyen-thien-linh-cai.html",
+    "title" : "Thầy Mo Luyện Thiên Linh Cái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giang Messi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 12338,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_f98e91ce02faee335943b796af023b17.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_f98e91ce02faee335943b796af023b17.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-mo-luyen-thien-linh-cai/thay-mo-luyen-thien-linh-cai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5425,
+    "title" : "thay-mo-luyen-thien-linh-cai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-mo-luyen-thien-linh-cai/thay-mo-luyen-thien-linh-cai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6913,
+    "title" : "thay-mo-luyen-thien-linh-cai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-mo-luyen-thien-linh-cai/thay-mo-luyen-thien-linh-cai.mp3",
+    "title" : "thay-mo-luyen-thien-linh-cai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-mo-luyen-thien-linh-cai/thay-mo-luyen-thien-linh-cai-tap-2.mp3",
+    "title" : "thay-mo-luyen-thien-linh-cai-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

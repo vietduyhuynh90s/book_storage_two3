@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mo-ac-hoi-sinh.html",
+    "title" : "Mo Ác Hồi Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Hằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 17060,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_b4389e90b39fcacfb08c8e1a57f58bdb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_b4389e90b39fcacfb08c8e1a57f58bdb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mo-ac-hoi-sinh/mo-ac-hoi-sinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5986,
+    "title" : "mo-ac-hoi-sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-ac-hoi-sinh/mo-ac-hoi-sinh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5738,
+    "title" : "mo-ac-hoi-sinh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-ac-hoi-sinh/mo-ac-hoi-sinh-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5336,
+    "title" : "mo-ac-hoi-sinh-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mo-ac-hoi-sinh/mo-ac-hoi-sinh.mp3",
+    "title" : "mo-ac-hoi-sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-ac-hoi-sinh/mo-ac-hoi-sinh-tap-2.mp3",
+    "title" : "mo-ac-hoi-sinh-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-ac-hoi-sinh/mo-ac-hoi-sinh-tap-3.mp3",
+    "title" : "mo-ac-hoi-sinh-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

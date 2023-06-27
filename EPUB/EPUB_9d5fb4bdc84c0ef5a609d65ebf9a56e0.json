@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/doc-co-dong-de-phan-3.html",
+    "title" : "Độc Cô Đồng Đế Phần 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hải Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 7632,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_9d5fb4bdc84c0ef5a609d65ebf9a56e0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_9d5fb4bdc84c0ef5a609d65ebf9a56e0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doc-co-dong-de-phan-3/doc-co-dong-de-phan-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3820,
+    "title" : "doc-co-dong-de-phan-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-co-dong-de-phan-3/doc-co-dong-de-phan-3-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "doc-co-dong-de-phan-3-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doc-co-dong-de-phan-3/doc-co-dong-de-phan-3.mp3",
+    "title" : "doc-co-dong-de-phan-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-co-dong-de-phan-3/doc-co-dong-de-phan-3-tap-2.mp3",
+    "title" : "doc-co-dong-de-phan-3-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

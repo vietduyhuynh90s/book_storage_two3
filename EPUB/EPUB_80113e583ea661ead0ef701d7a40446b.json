@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nhin-thay-vong-hon.html",
+    "title" : "Nhìn Thấy Vong Hồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_80113e583ea661ead0ef701d7a40446b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_80113e583ea661ead0ef701d7a40446b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhìn thấy vong hồn tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhìn thấy vong hồn tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhìn thấy vong hồn tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhìn thấy vong hồn tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhìn thấy vong hồn tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhìn thấy vong hồn tập 6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon.mp3",
+    "title" : "Nhìn thấy vong hồn tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-2.mp3",
+    "title" : "Nhìn thấy vong hồn tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-3.mp3",
+    "title" : "Nhìn thấy vong hồn tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-4.mp3",
+    "title" : "Nhìn thấy vong hồn tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-5.mp3",
+    "title" : "Nhìn thấy vong hồn tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/7/items/nhin-thay-vong-hon/nhin-thay-vong-hon-tap-6.mp3",
+    "title" : "Nhìn thấy vong hồn tập 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

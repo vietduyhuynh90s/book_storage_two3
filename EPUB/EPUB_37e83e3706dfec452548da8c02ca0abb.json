@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phap-su-thanh-son-va-nguyet-quy.html",
+    "title" : "Pháp Sư Thanh Sơn Và Nguyệt Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10986,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_37e83e3706dfec452548da8c02ca0abb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_37e83e3706dfec452548da8c02ca0abb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phap-su-thanh-son-va-nguyet-quy/phap-su-thanh-son-va-nguyet-quy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5247,
+    "title" : "phap-su-thanh-son-va-nguyet-quy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-thanh-son-va-nguyet-quy/phap-su-thanh-son-dau-nguyet-quy-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5739,
+    "title" : "phap-su-thanh-son-dau-nguyet-quy-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phap-su-thanh-son-va-nguyet-quy/phap-su-thanh-son-va-nguyet-quy.mp3",
+    "title" : "phap-su-thanh-son-va-nguyet-quy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-thanh-son-va-nguyet-quy/phap-su-thanh-son-dau-nguyet-quy-tap-2.mp3",
+    "title" : "phap-su-thanh-son-dau-nguyet-quy-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
