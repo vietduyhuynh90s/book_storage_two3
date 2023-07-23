@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thu-toi-12486.html",
+    "title" : "THÚ TỘI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minato Kanae",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cảnh sát nhận định đây là vụ tai nạn nhưng Moriguchi biết ai đã sát hại con gái mình - kẻ ở ngay trong lớp học do mình chủ nhiệm. Moriguchi bắt đầu kế hoạch báo thù của riêng cô...*** &quot;Một câu chuyện tâm lý kinh dị, ớn lạnh, thuyết phục, gây bất ngờ không chỉ một lần...Day dứt, tàn nhẫn và choáng váng.&quot;- WALL STREET JOURNAL &quot;Cuốn sách đáng đọc này vừa tăm tối, gây xáo động và biết đánh lừa độc giả, với giọng văn sắc bén, dồn dập, mỗi chương đều đưa người đọc tới tận cùng căng thẳng.&quot;- TORONTO STAR *** Kanae Minato là một nhà văn Nhật Bản về viễn tưởng và phim kinh dị. Cô là thành viên của các nhà văn bí ẩn của Nhật Bản và Câu lạc bộ nhà văn bí ẩn Honkaku của Nhật Bản.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_5df03c076622a1c37cfa1a3fddd770fb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_5df03c076622a1c37cfa1a3fddd770fb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chương 1: Kẻ Giảng Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=3854",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:04:14 Chương 2: Kẻ Tuẫn Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=6816",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:53:36 Chương 3: Kẻ Nhân Từ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=9493",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:38:13 Chương 4: Kẻ Cầu Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=12800",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:33:20 Kết Thúc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chương 1: Kẻ Giảng Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=3854",
+    "title" : "01:04:14 Chương 2: Kẻ Tuẫn Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=6816",
+    "title" : "01:53:36 Chương 3: Kẻ Nhân Từ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=9493",
+    "title" : "02:38:13 Chương 4: Kẻ Cầu Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12486-thu-toi-thuviensach.vn.mp3?t=12800",
+    "title" : "03:33:20 Kết Thúc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

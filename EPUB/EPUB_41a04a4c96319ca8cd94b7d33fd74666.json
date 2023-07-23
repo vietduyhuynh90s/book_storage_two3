@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ngan-nam-cho-doi-11029.html",
+    "title" : "NGÀN NĂM CHỜ ĐỢI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Lạc Vô Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hắn đạo hạnh ngàn năm, ngàn năm cô độc… Hắn dùng huyết, dùng lệ của mình để tạo ra một nữ nhân hoàn mỹ nhất… Không cẩn thận, bị thiên giới trừng phạt….. Hắn dùng cả chân tình của mình cho nàng nhưng đổi lại chỉ là sự lạnh lùng của nàng. Hắn đã chờ đợi cả ngàn năm, lẽ nào còn chưa đủ sao??? Nếu có thể làm cho nàng nhìn hắn ….. Cho dù mất cả ba ngàn năm đạo hạnh cũng không oán không hối hận….. Ai bảo thần tiên không có cảm giác, không có máu và nước mắt? Đó là sự khắc cốt ghi tâm chưa một lần trải qua Ta coi nàng là tri kỷ, coi nàng là người duy nhất hiểu được nỗi niềm tâm sự trong lòng ta giữa đất trời bao la, cũng là người duy nhất có thể tồn tại vĩnh hằng với ta trong tam giới... Nếu một ngày nào đó nàng có thể nói chuyện với ta, mỉm cười với ta, thì ta sẵn sàng đánh đổi bằng tất cả những gì ta có... Tại sao đến khi cử động được, mỉm cười được, nàng lại quên ta nhanh như vậy...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_41a04a4c96319ca8cd94b7d33fd74666.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_41a04a4c96319ca8cd94b7d33fd74666.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ngàn Năm Chờ Đợi Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=69",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:01:09 Ngàn Năm Chờ Đợi - Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=3477",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:57 Ngàn Năm Chờ Đợi - Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=6785",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:53:05 Ngàn Năm Chờ Đợi - Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=10298",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:51:38 Ngàn Năm Chờ Đợi - Tập 4 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ngàn Năm Chờ Đợi Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=69",
+    "title" : "00:01:09 Ngàn Năm Chờ Đợi - Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=3477",
+    "title" : "00:57:57 Ngàn Năm Chờ Đợi - Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=6785",
+    "title" : "01:53:05 Ngàn Năm Chờ Đợi - Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11029-ngan-nam-cho-doi-thuviensach.vn.mp3?t=10298",
+    "title" : "02:51:38 Ngàn Năm Chờ Đợi - Tập 4 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
