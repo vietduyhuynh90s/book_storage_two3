@@ -1,0 +1,665 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ba-cach-giai-nghia-la-bai-tarot-14247.html",
+    "title" : "BA CÁCH GIẢI NGHĨA LÁ BÀI TAROT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời Tác Giả: Mình xin gửi tới các bạn seri tự học Tarot qua ba cách giải nghĩa 78 lá bài Tarot được mình sưu tầm từ ba trang Wed về Tarot là: tarot.vn, mystichouse.vn và tarothuyenbi.info Hy vọng sẽ giúp được các bạn phần nào đó trên con đường tìm hiểu tarot của chính mình Cảm ơn các bạn đã theo dõi và đồng hành cùng mình trong suốt sự án này Chúc cho mọi điều tốt đẹp sẽ luôn đến với các bạn</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_d4a49ce3c3bbc3b29c276b22b48ed827.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_d4a49ce3c3bbc3b29c276b22b48ed827.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 1 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Fool",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=1137",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:18:57 2 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Magican",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=2346",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:06 3 # Ba Cách Giải Nghĩa Lá Bài Tarot # The High Priestess",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=3482",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:58:02 4 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Empress",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=4728",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:18:48 5 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Emperor",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=6053",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:40:53 6 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Heirophant",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=7249",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:00:49 7 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Lovers",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=8513",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:21:53 8 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Chariot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=9756",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:42:36 9 # Ba Cách Giải Nghĩa Lá Bài Tarot # Strengths",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=11043",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:04:03 10 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Hermit",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=12281",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:24:41 11 # Ba Cách Giải Nghĩa Lá Bài Tarot # Wheel Of Furtune",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=13543",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:45:43 12 # Ba Cách Giải Nghĩa Lá Bài Tarot # Justice",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=14686",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:04:46 13 # Ba Cách Giải Nghĩa Lá Bài Tarot # Hanged Man",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=15976",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:26:16 14 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Death",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=17123",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:45:23 15 # Ba Cách Giải Nghĩa Lá Bài Tarot # Temperance",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=18282",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:04:42 16 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Devil",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=19783",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:29:43 17 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Tower",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=21152",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:52:32 18 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Star",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=22474",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:14:34 19 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Moon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=23862",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:37:42 20 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Sun",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=25144",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:59:04 21 # Ba Cách Giải Nghĩa Lá Bài Tarot # Judgement",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=26420",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:20:20 22 # Ba Cách Giải Nghĩa Lá Bài Tarot # The World",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=27835",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:43:55 23 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Ace Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=28873",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:01:13 24 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands #two Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=29948",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:19:08 25 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Three Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=30966",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:36:06 26 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Four Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=32012",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:53:32 27 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Five Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=33154",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:12:34 28 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Six Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=34177",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:29:37 29 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Seven Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=35218",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:46:58 30 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Eight Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=36172",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:02:52 31 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Nine Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=37238",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:20:38 32 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Ten Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=38304",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:38:24 33 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Page Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=39353",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:55:53 34 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Knight Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=40449",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:14:09 35 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Queen Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=41552",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:32:32 36 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # King Of Wands",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=42742",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:52:22 37 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Ace Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=43733",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:08:53 38 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Two Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=44766",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:26:06 39 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Three Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=45845",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:44:05 40 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Four Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=46999",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:03:19 41 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Five Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=48151",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:22:31 42 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Six Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=49291",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:41:31 43 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Seven Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=50387",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:59:47 44 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Eight Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=51525",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:18:45 45 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Nine Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=52461",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:34:21 46 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Ten Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=53470",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:51:10 47 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Page Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=54606",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:10:06 48 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Knight Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=55895",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:31:35 49 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Queen Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=57049",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:50:49 50 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # King Of Pentacles",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=58192",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:09:52 51 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Cups # Ace Of Cups",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=59130",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:25:30 52 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Cups # Two Of Cups",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 1 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Fool",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=1137",
+    "title" : "00:18:57 2 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Magican",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=2346",
+    "title" : "00:39:06 3 # Ba Cách Giải Nghĩa Lá Bài Tarot # The High Priestess",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=3482",
+    "title" : "00:58:02 4 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Empress",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=4728",
+    "title" : "01:18:48 5 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Emperor",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=6053",
+    "title" : "01:40:53 6 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Heirophant",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=7249",
+    "title" : "02:00:49 7 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Lovers",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=8513",
+    "title" : "02:21:53 8 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Chariot",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=9756",
+    "title" : "02:42:36 9 # Ba Cách Giải Nghĩa Lá Bài Tarot # Strengths",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=11043",
+    "title" : "03:04:03 10 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Hermit",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=12281",
+    "title" : "03:24:41 11 # Ba Cách Giải Nghĩa Lá Bài Tarot # Wheel Of Furtune",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=13543",
+    "title" : "03:45:43 12 # Ba Cách Giải Nghĩa Lá Bài Tarot # Justice",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=14686",
+    "title" : "04:04:46 13 # Ba Cách Giải Nghĩa Lá Bài Tarot # Hanged Man",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=15976",
+    "title" : "04:26:16 14 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Death",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=17123",
+    "title" : "04:45:23 15 # Ba Cách Giải Nghĩa Lá Bài Tarot # Temperance",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=18282",
+    "title" : "05:04:42 16 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Devil",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=19783",
+    "title" : "05:29:43 17 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Tower",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=21152",
+    "title" : "05:52:32 18 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Star",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=22474",
+    "title" : "06:14:34 19 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Moon",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=23862",
+    "title" : "06:37:42 20 # Ba Cách Giải Nghĩa Lá Bài Tarot # The Sun",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=25144",
+    "title" : "06:59:04 21 # Ba Cách Giải Nghĩa Lá Bài Tarot # Judgement",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=26420",
+    "title" : "07:20:20 22 # Ba Cách Giải Nghĩa Lá Bài Tarot # The World",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=27835",
+    "title" : "07:43:55 23 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Ace Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=28873",
+    "title" : "08:01:13 24 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands #two Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=29948",
+    "title" : "08:19:08 25 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Three Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=30966",
+    "title" : "08:36:06 26 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Four Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=32012",
+    "title" : "08:53:32 27 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Five Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=33154",
+    "title" : "09:12:34 28 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Six Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=34177",
+    "title" : "09:29:37 29 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Seven Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=35218",
+    "title" : "09:46:58 30 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Eight Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=36172",
+    "title" : "10:02:52 31 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Nine Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=37238",
+    "title" : "10:20:38 32 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Ten Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=38304",
+    "title" : "10:38:24 33 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Page Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=39353",
+    "title" : "10:55:53 34 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Knight Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=40449",
+    "title" : "11:14:09 35 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # Queen Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=41552",
+    "title" : "11:32:32 36 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Wands # King Of Wands",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=42742",
+    "title" : "11:52:22 37 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Ace Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=43733",
+    "title" : "12:08:53 38 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Two Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=44766",
+    "title" : "12:26:06 39 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Three Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=45845",
+    "title" : "12:44:05 40 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Four Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=46999",
+    "title" : "13:03:19 41 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Five Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=48151",
+    "title" : "13:22:31 42 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Six Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=49291",
+    "title" : "13:41:31 43 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Seven Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=50387",
+    "title" : "13:59:47 44 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Eight Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=51525",
+    "title" : "14:18:45 45 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Nine Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=52461",
+    "title" : "14:34:21 46 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Ten Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=53470",
+    "title" : "14:51:10 47 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Page Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=54606",
+    "title" : "15:10:06 48 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Knight Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=55895",
+    "title" : "15:31:35 49 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # Queen Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=57049",
+    "title" : "15:50:49 50 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Pentacles # King Of Pentacles",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=58192",
+    "title" : "16:09:52 51 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Cups # Ace Of Cups",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14247-ba-cach-giai-nghia-la-bai-tarot-thuviensach.vn.mp3?t=59130",
+    "title" : "16:25:30 52 # Ba Cách Giải Nghĩa Lá Bài Tarot # Bộ Cups # Two Of Cups",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thanh-xuan-ay-co-em-14389.html",
+    "title" : "THANH XUÂN ẤY CÓ EM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cố Tây Tước",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_4c9febef89abd071e16c308e0e941c25.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_4c9febef89abd071e16c308e0e941c25.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Thanh Xuân Ấy Có Em - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=3923",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:05:23 Thanh Xuân Ấy Có Em - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=8079",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:14:39 Thanh Xuân Ấy Có Em - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=12161",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:22:41 Thanh Xuân Ấy Có Em - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=16102",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:28:22 Thanh Xuân Ấy Có Em - Phần 5 - End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Thanh Xuân Ấy Có Em - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=3923",
+    "title" : "01:05:23 Thanh Xuân Ấy Có Em - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=8079",
+    "title" : "02:14:39 Thanh Xuân Ấy Có Em - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=12161",
+    "title" : "03:22:41 Thanh Xuân Ấy Có Em - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14389-thanh-xuan-ay-co-em-thuviensach.vn.mp3?t=16102",
+    "title" : "04:28:22 Thanh Xuân Ấy Có Em - Phần 5 - End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

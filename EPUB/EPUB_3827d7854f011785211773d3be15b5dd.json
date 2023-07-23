@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-me-de-thue-14468.html",
+    "title" : "NGƯỜI MẸ ĐẺ THUÊ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Vạn Lý",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Truyện ngắn NGƯỜI MẸ ĐẺ THUÊ mô tả cuộc đời đầy thương cảm, đầm đìa nước mắt của một người phụ nữ Trung Hoa sống cách đây ngót một thế kỷ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_3827d7854f011785211773d3be15b5dd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_3827d7854f011785211773d3be15b5dd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14468-nguoi-me-de-thue-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Người Mẹ Đẻ Thuê. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14468-nguoi-me-de-thue-thuviensach.vn.mp3?t=1688",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:28:08 Người Mẹ Đẻ Thuê. Tập 02 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14468-nguoi-me-de-thue-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Người Mẹ Đẻ Thuê. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14468-nguoi-me-de-thue-thuviensach.vn.mp3?t=1688",
+    "title" : "00:28:08 Người Mẹ Đẻ Thuê. Tập 02 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

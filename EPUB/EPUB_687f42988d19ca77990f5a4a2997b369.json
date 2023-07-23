@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bo-vo-14424.html",
+    "title" : "BƠ VƠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Công Hoan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn tiểu thuyết xoay quanh bốn số phận khác nhau, đáng thương và đáng trân trọng. “Một kiếp người” đầy gian truân, tủi hổ của cô Muộn. Vì quá khứ chống và giết người Pháp của cha mà Muộn phải sống khổ sở, không nơi nào được tồn tại lâu dài với nghề nghiệp. Khác với Muộn trong “Một kiếp người”, Lệ Dung trong truyện cùng tên, là cô con gái xinh đẹp, may mắn sống trong sự giáo dục chu đáo của gia đình và nền học vấn tiến bộ. Cô có một tình yêu đằm thắm với người bạn học Liêm Khê. Nhưng đến ngày cưới thì Liêm Khê bị bắt, để lại Lệ Dung với nỗi buồn đau tuyệt vọng, không tin tức. Còn tiểu thuyết “Tấm lòng vàng” kể về anh chàng học trò nghèo tên Đức. Do thông cảm và thương Đức hiếu học nhưng không có tiền trọ học, nên một người thầy đã âm thầm giúp anh một số tiền nhỏ. Đến khi đỗ đạt làm quan, Đức cố công tìm cho ra ân nhân của mình và trả ơn một cách thích đáng, không những về vật chất mà cả tinh thần. Riêng số phận bơ vơ của Sửu (tiểu thuyết “Bơ vơ”) khiến người đọc phải bùi ngùi. Bị vứt ra khỏi gia đình từ khi mới lọt lòng bởi quan niệm “môn đăng hộ đối”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_687f42988d19ca77990f5a4a2997b369.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_687f42988d19ca77990f5a4a2997b369.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14424-bo-vo-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Bơ Vơ - Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14424-bo-vo-thuviensach.vn.mp3?t=3604",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:04 Bơ Vơ - Tập 02 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14424-bo-vo-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Bơ Vơ - Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14424-bo-vo-thuviensach.vn.mp3?t=3604",
+    "title" : "01:00:04 Bơ Vơ - Tập 02 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

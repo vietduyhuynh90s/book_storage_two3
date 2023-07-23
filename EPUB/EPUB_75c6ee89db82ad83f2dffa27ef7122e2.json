@@ -1,0 +1,665 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/linh-chu-phan-5-14208.html",
+    "title" : "LINH CHU - PHẦN 5",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Đương Gia",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đây là bộ truyện “Linh chu” của tác giả Cửu Đương Gia, một thế giới tiên - người - quái cùng tồn tại đầy bất ngờ, thú vị. Mời mọi người cùng theo dõi bộ truyện thuộc thể loại Huyền huyễn này nha ^^. Đạo gia tu luyện kiếp này, Phật gia tu luyện kiếp sau! Đạo tại bến bờ, Phật tại cõi Niết bàn, con người tại trung gian! Mà Linh chu không tại bến bờ, không tại Niết bàn và cũng không tại trung gian… Vậy Linh chu ở đâu và vì đâu mà xuất hiện? … Truyện Linh chu là một thế giới kì dị mênh mông, có người tu hành liều mạng cùng với trời đất, có người con gái xinh đẹp tuyệt vời, dáng vẻ mềm mại thước tha, có người cổ đại mạnh mẽ kiên cường chuyển kiếp, còn có cổ thú hung mãnh, rồi bạch cốt ở giữa hắc thạch, dưới thổ nhưỡng là Hoàng tuyền, trên trời thì có cung điện, … Còn có bảy con Linh chu cổ lão... Và người thiếu niên anh hùng kiệt xuất với ý chí kiên cường bất khuất Phong Phi Vân - cầm tinh Phượng hoàng sẽ đưa bạn đi đến một câu chuyện đầy tình tiết gây cấn, mê hoặc và cả những nụ cười bất ngờ. Chết dưới hoa mẫu đơn làm quỷ cũng phong lưu.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_75c6ee89db82ad83f2dffa27ef7122e2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_75c6ee89db82ad83f2dffa27ef7122e2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Linh Chu - Tập 201: Phiêu Miểu Thần Triều",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=3703",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:01:43 Linh Chu - Tập 202: Thánh Đình Tan Vỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=7555",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:05:55 Linh Chu - Tập 203: Thanh Y Nữ Tử Trên Tiểu Thuyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=11364",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:09:24 Linh Chu - Tập 204: Phá Tan Đan Điền Tám Ngày Dương Thọ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=15216",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:13:36 Linh Chu - Tập 205: Phượng Hoàng Thiên Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=18766",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:12:46 Linh Chu - Tập 206: Phong Phi Vân Vẫn Là Phong Phi Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=22380",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:13:00 Linh Chu - Tập 207: Đấu Giá Thái Cổ Thiên Mộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=26224",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:17:04 Linh Chu - Tập 208: Bí Ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=29816",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:16:56 Linh Chu - Tập 209: Phượng Phó Chủ Nhân Quỷ Môn Thứ Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=33576",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:19:36 Linh Chu - Tập 210: Luân Hồi Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=37299",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:21:39 Linh Chu - Tập 211: Trở Về Thần Tấn Vương Triều",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=40995",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:23:15 Linh Chu - Tập 212: Phong Ấn Trong Đồng Lô Sơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=44644",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:24:04 Linh Chu - Tập 213: Tiếng Tiêu Trong Làn Khói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=48459",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:27:39 Linh Chu - Tập 214: Bắt Phi Tặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=52235",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:30:35 Linh Chu - Tập 215: Nữ Thần Tế Tự Thuỷ Nguyệt Thiên Cảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=55955",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:32:35 Linh Chu - Tập 216: Thái Cổ Hung Binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=59623",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:33:43 Linh Chu - Tập 217: Đánh Vào Thuỷ Nguyệt Thiên Cảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=63135",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:32:15 Linh Chu - Tập 218: Thánh Linh Vực Ngoại Thủy Nguyệt Đình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=66801",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:33:21 Linh Chu - Tập 219: Chỉ Là 1 Giấc Mơ?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=70877",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:41:17 Linh Chu - Tập 220: Yêu Hận Tình Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=74608",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:43:28 Linh Chu - Tập 221: Bạch Kỳ Lân Và Hỗn Côn Hoàng Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=78448",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:47:28 Linh Chu - Tập 222: Một Đám Vương Giả Xuất Thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=82307",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:51:47 Linh Chu - Tập 223: Câu Chuyện Của Lão Mao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=86202",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:56:42 Linh Chu - Tập 224: Vạn Tộc Hưng Thịnh Tiên Hư Động Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=89898",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:58:18 Linh Chu - Tập 225: Bên Bờ Hỗn Độn Hải Kim Ô Chiến Hoả Loan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=93836",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:03:56 Linh Chu - Tập 226: Cùng Đường Thần Phượng Luyện Phủ Địa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=97589",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:06:29 Linh Chu - Tập 227: Tịch Nguyệt Vạn Thú Chiến Thể Đại Thừa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=101348",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:09:08 Linh Chu - Tập 228: Ăn Miếng Trả Miếng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=105007",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:10:07 Linh Chu - Tập 229: Cự Linh Dương Thần Cửu Châu Thất Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=108618",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:10:18 Linh Chu - Tập 230: Vạn Thú Đồ Thần Bia Xuất Thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=112401",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:13:21 Linh Chu - Tập 231: Thiên Đạo Vô Đạo Đại Đạo Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=116278",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:17:58 Linh Chu - Tập 232: Ngày Thành Hôn Tiên Nữ Phú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=120132",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:22:12 Linh Chu - Tập 233: Vạn Thánh Tập Kết Lệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=123927",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:25:27 Linh Chu - Tập 234: Anh Kiệt Vực Ngoại Trái Tim Của Nhân Tổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=127668",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:27:48 Linh Chu - Tập 235: Mộ Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=131542",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:32:22 Linh Chu - Tập 236: Thần Phủ Trấn Phong Đô",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=135443",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:37:23 Linh Chu - Tập 237: Tiểu Chân Thánh Cảnh Đột Phá Một Nửa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=139267",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:41:07 Linh Chu - Tập 238: Côn Luân Giáo Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=143082",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "39:44:42 Linh Chu - Tập 239: Hồi Sinh Diệt Thế Thần Bia Chi Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=146959",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:49:19 Linh Chu - Tập 240: Thiên Đạo Tâm Linh Kiếm Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=150333",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:45:33 Linh Chu - Tập 241: Thiên Hồ Mười Đuôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=153942",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:45:42 Linh Chu - Tập 242: Bí Mật Dưới Lớp Áo Đen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=157671",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "43:47:51 Linh Chu - Tập 243: Cuộc Chiến Phụ Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=161458",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:50:58 Linh Chu - Tập 244: Thiên Quốc Phong Tiểu Long",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=164866",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "45:47:46 Linh Chu - Tập 245: Một Khúc Phá Mai Phạn Diệt Giáo Hoàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=168215",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:43:35 Linh Chu - Tập 246: Chân Lý Tứ Pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=171515",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:38:35 Linh Chu - Tập 247: Sự Thật Tàn Nhẫn Tiên Giới Di Châu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=174904",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "48:35:04 Linh Chu - Tập 248: Tiên Nhân Vòng Xoáy Ngũ Sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=178253",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:30:53 Linh Chu - Tập 249: Cứu Người Bài Ca Tận Thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=181524",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:25:24 Linh Chu - Tập 250: Tru Thiên Hỗn Loạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=184921",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:22:01 Linh Chu - Tập 251: Hậu Cung Người Trở Về Từ Quá Khứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=188233",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "52:17:13 Linh Chu - Tập 252 Hết: Người Đưa Đò Bỉ Ngạn Hoa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Linh Chu - Tập 201: Phiêu Miểu Thần Triều",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=3703",
+    "title" : "01:01:43 Linh Chu - Tập 202: Thánh Đình Tan Vỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=7555",
+    "title" : "02:05:55 Linh Chu - Tập 203: Thanh Y Nữ Tử Trên Tiểu Thuyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=11364",
+    "title" : "03:09:24 Linh Chu - Tập 204: Phá Tan Đan Điền Tám Ngày Dương Thọ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=15216",
+    "title" : "04:13:36 Linh Chu - Tập 205: Phượng Hoàng Thiên Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=18766",
+    "title" : "05:12:46 Linh Chu - Tập 206: Phong Phi Vân Vẫn Là Phong Phi Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=22380",
+    "title" : "06:13:00 Linh Chu - Tập 207: Đấu Giá Thái Cổ Thiên Mộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=26224",
+    "title" : "07:17:04 Linh Chu - Tập 208: Bí Ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=29816",
+    "title" : "08:16:56 Linh Chu - Tập 209: Phượng Phó Chủ Nhân Quỷ Môn Thứ Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=33576",
+    "title" : "09:19:36 Linh Chu - Tập 210: Luân Hồi Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=37299",
+    "title" : "10:21:39 Linh Chu - Tập 211: Trở Về Thần Tấn Vương Triều",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=40995",
+    "title" : "11:23:15 Linh Chu - Tập 212: Phong Ấn Trong Đồng Lô Sơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=44644",
+    "title" : "12:24:04 Linh Chu - Tập 213: Tiếng Tiêu Trong Làn Khói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=48459",
+    "title" : "13:27:39 Linh Chu - Tập 214: Bắt Phi Tặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=52235",
+    "title" : "14:30:35 Linh Chu - Tập 215: Nữ Thần Tế Tự Thuỷ Nguyệt Thiên Cảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=55955",
+    "title" : "15:32:35 Linh Chu - Tập 216: Thái Cổ Hung Binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=59623",
+    "title" : "16:33:43 Linh Chu - Tập 217: Đánh Vào Thuỷ Nguyệt Thiên Cảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=63135",
+    "title" : "17:32:15 Linh Chu - Tập 218: Thánh Linh Vực Ngoại Thủy Nguyệt Đình",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=66801",
+    "title" : "18:33:21 Linh Chu - Tập 219: Chỉ Là 1 Giấc Mơ?",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=70877",
+    "title" : "19:41:17 Linh Chu - Tập 220: Yêu Hận Tình Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=74608",
+    "title" : "20:43:28 Linh Chu - Tập 221: Bạch Kỳ Lân Và Hỗn Côn Hoàng Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=78448",
+    "title" : "21:47:28 Linh Chu - Tập 222: Một Đám Vương Giả Xuất Thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=82307",
+    "title" : "22:51:47 Linh Chu - Tập 223: Câu Chuyện Của Lão Mao",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=86202",
+    "title" : "23:56:42 Linh Chu - Tập 224: Vạn Tộc Hưng Thịnh Tiên Hư Động Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=89898",
+    "title" : "24:58:18 Linh Chu - Tập 225: Bên Bờ Hỗn Độn Hải Kim Ô Chiến Hoả Loan",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=93836",
+    "title" : "26:03:56 Linh Chu - Tập 226: Cùng Đường Thần Phượng Luyện Phủ Địa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=97589",
+    "title" : "27:06:29 Linh Chu - Tập 227: Tịch Nguyệt Vạn Thú Chiến Thể Đại Thừa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=101348",
+    "title" : "28:09:08 Linh Chu - Tập 228: Ăn Miếng Trả Miếng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=105007",
+    "title" : "29:10:07 Linh Chu - Tập 229: Cự Linh Dương Thần Cửu Châu Thất Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=108618",
+    "title" : "30:10:18 Linh Chu - Tập 230: Vạn Thú Đồ Thần Bia Xuất Thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=112401",
+    "title" : "31:13:21 Linh Chu - Tập 231: Thiên Đạo Vô Đạo Đại Đạo Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=116278",
+    "title" : "32:17:58 Linh Chu - Tập 232: Ngày Thành Hôn Tiên Nữ Phú",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=120132",
+    "title" : "33:22:12 Linh Chu - Tập 233: Vạn Thánh Tập Kết Lệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=123927",
+    "title" : "34:25:27 Linh Chu - Tập 234: Anh Kiệt Vực Ngoại Trái Tim Của Nhân Tổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=127668",
+    "title" : "35:27:48 Linh Chu - Tập 235: Mộ Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=131542",
+    "title" : "36:32:22 Linh Chu - Tập 236: Thần Phủ Trấn Phong Đô",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=135443",
+    "title" : "37:37:23 Linh Chu - Tập 237: Tiểu Chân Thánh Cảnh Đột Phá Một Nửa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=139267",
+    "title" : "38:41:07 Linh Chu - Tập 238: Côn Luân Giáo Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=143082",
+    "title" : "39:44:42 Linh Chu - Tập 239: Hồi Sinh Diệt Thế Thần Bia Chi Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=146959",
+    "title" : "40:49:19 Linh Chu - Tập 240: Thiên Đạo Tâm Linh Kiếm Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=150333",
+    "title" : "41:45:33 Linh Chu - Tập 241: Thiên Hồ Mười Đuôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=153942",
+    "title" : "42:45:42 Linh Chu - Tập 242: Bí Mật Dưới Lớp Áo Đen",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=157671",
+    "title" : "43:47:51 Linh Chu - Tập 243: Cuộc Chiến Phụ Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=161458",
+    "title" : "44:50:58 Linh Chu - Tập 244: Thiên Quốc Phong Tiểu Long",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=164866",
+    "title" : "45:47:46 Linh Chu - Tập 245: Một Khúc Phá Mai Phạn Diệt Giáo Hoàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=168215",
+    "title" : "46:43:35 Linh Chu - Tập 246: Chân Lý Tứ Pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=171515",
+    "title" : "47:38:35 Linh Chu - Tập 247: Sự Thật Tàn Nhẫn Tiên Giới Di Châu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=174904",
+    "title" : "48:35:04 Linh Chu - Tập 248: Tiên Nhân Vòng Xoáy Ngũ Sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=178253",
+    "title" : "49:30:53 Linh Chu - Tập 249: Cứu Người Bài Ca Tận Thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=181524",
+    "title" : "50:25:24 Linh Chu - Tập 250: Tru Thiên Hỗn Loạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=184921",
+    "title" : "51:22:01 Linh Chu - Tập 251: Hậu Cung Người Trở Về Từ Quá Khứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14208-linh-chu-phan-5-thuviensach.vn.mp3?t=188233",
+    "title" : "52:17:13 Linh Chu - Tập 252 Hết: Người Đưa Đò Bỉ Ngạn Hoa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

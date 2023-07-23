@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lang-nghe-bang-ca-trai-tim-14201.html",
+    "title" : "LẮNG NGHE BẰNG CẢ TRÁI TIM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sưu Tầm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nghe là một phản xạ tự nhiên của con người nhưng lắng nghe lại là một kỹ năng. “Học lắng nghe có vẻ là một việc làm thừa thãi với nhiều người. Nhưng thực tế, có mắt không đồng nghĩa với nhìn thấy, có não không đồng nghĩa với có trí tuệ, có tai không đồng nghĩa với việc biết lắng nghe. Lắng nghe không phải là bản năng mà là nghệ thuật, là một kỹ năng cần phải rèn luyện lâu dài mới có được.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_2a49b0e12f1191c841969678e7dd01ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_2a49b0e12f1191c841969678e7dd01ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Số 1 - Đừng Để Cuộc Sống Không Có Gì Ngoài Tiền Bạc!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=235",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:03:55 Số 2 - Những Lá Thư Tay Xuân Quỳnh - Lưu Quang Vũ Gửi Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=994",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:16:34 Số 3 - Câu Chuyện Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=1380",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:23:00 Số 4 - Đừng Nên Để Dành Những Thứ Quý Giá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=1652",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:32 Số 5 - Chỉ Cần Một Người Bình Thường - Tám Nhảm Của Ad",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=2625",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:43:45 Số 6 - Nữ Thần Sắc Đẹp Trong Thần Thoại Hy Lạp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=4820",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:20:20 Số 7 - Nếu Đây Không Phải Thanh Xuân?",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Số 1 - Đừng Để Cuộc Sống Không Có Gì Ngoài Tiền Bạc!",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=235",
+    "title" : "00:03:55 Số 2 - Những Lá Thư Tay Xuân Quỳnh - Lưu Quang Vũ Gửi Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=994",
+    "title" : "00:16:34 Số 3 - Câu Chuyện Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=1380",
+    "title" : "00:23:00 Số 4 - Đừng Nên Để Dành Những Thứ Quý Giá",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=1652",
+    "title" : "00:27:32 Số 5 - Chỉ Cần Một Người Bình Thường - Tám Nhảm Của Ad",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=2625",
+    "title" : "00:43:45 Số 6 - Nữ Thần Sắc Đẹp Trong Thần Thoại Hy Lạp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14201-lang-nghe-bang-ca-trai-tim-thuviensach.vn.mp3?t=4820",
+    "title" : "01:20:20 Số 7 - Nếu Đây Không Phải Thanh Xuân?",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
