@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-07-24",
     "duration" : 8754,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/khi-ban-3/khi-ban-1.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_e19e7d13e03a8e43eacb392cf8541c6f.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1140,
@@ -44,33 +44,57 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khi-ban-3/khi-ban-2.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_a590462a5656c5b382266f0bdb9f4710_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3619,
-    "title" : "khi-ban-2",
+    "duration" : 0,
+    "title" : "khi-ban-2 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khi-ban-3/khi-ban-3.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_a590462a5656c5b382266f0bdb9f4710_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3995,
-    "title" : "khi-ban-3",
+    "duration" : 0,
+    "title" : "khi-ban-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_4f707bfd114382ad44bb5052c5f81750_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi-ban-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_4f707bfd114382ad44bb5052c5f81750_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "khi-ban-3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/khi-ban-3/khi-ban-1.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_e19e7d13e03a8e43eacb392cf8541c6f.mp3",
     "title" : "khi-ban-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khi-ban-3/khi-ban-2.mp3",
-    "title" : "khi-ban-2",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_a590462a5656c5b382266f0bdb9f4710_1.mp3",
+    "title" : "khi-ban-2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khi-ban-3/khi-ban-3.mp3",
-    "title" : "khi-ban-3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_a590462a5656c5b382266f0bdb9f4710_2.mp3",
+    "title" : "khi-ban-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_4f707bfd114382ad44bb5052c5f81750_1.mp3",
+    "title" : "khi-ban-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_590266e9bf234abec0dbac7374092659_4f707bfd114382ad44bb5052c5f81750_2.mp3",
+    "title" : "khi-ban-3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
