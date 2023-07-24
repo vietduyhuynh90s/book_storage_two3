@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=MbiF_ESOYJ8",
+    "title" : "[Short] Lời Chia Tay Đẹp Nhất Thế Gian (Thư viện tỉnh Tây Ninh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Noh Hee Kyung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>                             <p>Lời chia tay đẹp nhất thế gian &ndash; cuốn s&aacute;ch biểu thượng về t&igrave;nh cảm gia đ&igrave;nh, kiệt t&aacute;c lay động tr&aacute;i tim của biết bao thế hệ người H&agrave;n Quốc trong suốt 22 năm qua.<br><br>Lời chia tay đẹp nhất thế gian l&agrave; c&acirc;u chuyện kể về một người mẹ chịu thương chịu kh&oacute;. Trong một lần đi kiểm tra sức khỏe b&agrave; ph&aacute;t hiện ra m&igrave;nh mắc bệnh ung thư, l&uacute;c đầu b&agrave; kh&ocirc;ng d&aacute;m tin l&agrave; m&igrave;nh đ&atilde; bị ung thư bởi v&igrave; nếu điều đ&oacute; xảy ra th&igrave; những ước mơ m&agrave; b&agrave; như x&acirc;y cất căn nh&agrave; mới, lo chuyện đại học cho cậu con &uacute;t sẽ bị dở dang. Cuộc sống của b&agrave; thậm ch&iacute; c&ograve;n kh&ocirc;ng cho ph&eacute;p c&oacute; thời gian để m&agrave; bi quan. B&agrave; vốn l&agrave; một người mẹ nội trợ tốt bụng, b&agrave; d&agrave;nh cả tuổi thanh xu&acirc;n của m&igrave;nh để chăm s&oacute;c cho gia đ&igrave;nh, chồng con v&agrave; người mẹ chồng bị mắc hội chứng mất tr&iacute;.<br><br>Căn bệnh của người mẹ cũng khiến cho c&aacute;c th&agrave;nh vi&ecirc;n trong gia định nhận ra một điều rằng họ qu&aacute; v&ocirc; t&acirc;m, thờ ơ với b&agrave; trong suốt bao năm qua. Cũng qua đ&oacute; họ nhận ra rằng b&agrave; l&agrave; người đ&aacute;ng tr&acirc;n qu&yacute; biết bao nhi&ecirc;u.<br><br>Lời chia tay đẹp nhất thế gian cũng ch&iacute;nh l&agrave; lời tri &acirc;n cuối c&ugrave;ng m&agrave; t&aacute;c giả gửi đến người mẹ qu&aacute; cố của m&igrave;nh, l&agrave; b&agrave;i ca viết d&acirc;ng tặng người k&iacute;nh y&ecirc;u.</p>                         </div>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/EPUB/EPUB_ed139ef3cc5ce62e529893d670a95bf6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/IMAGE/IMAGE_ed139ef3cc5ce62e529893d670a95bf6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_ed139ef3cc5ce62e529893d670a95bf6_00315344344ff9e073ae7325ed9e5be3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_ed139ef3cc5ce62e529893d670a95bf6_00315344344ff9e073ae7325ed9e5be3.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
