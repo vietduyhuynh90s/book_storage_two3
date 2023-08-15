@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-27",
+    "published" : "2023-08-15",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.m4a",
+    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.mp3?t=0",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
-    "title" : "Trọn bộ",
+    "title" : "00:00:00 Thuật Xử Thế Của Người Xưa - Lời Nói Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.mp3?t=1999",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:33:19 Chương 3 : Có Tài Mà Cậy Chi Tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.mp3?t=5004",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:23:24 Chương 5: Đạo Cương Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.mp3?t=7062",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:57:42 Chương 6: Biết... Sống",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.m4a",
-    "title" : "Trọn bộ",
+    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Thuật Xử Thế Của Người Xưa - Lời Nói Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.mp3?t=1999",
+    "title" : "00:33:19 Chương 3 : Có Tài Mà Cậy Chi Tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.mp3?t=5004",
+    "title" : "01:23:24 Chương 5: Đạo Cương Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/408-thuat-xu-the-cua-nguoi-xua-thuviensach.vn.mp3?t=7062",
+    "title" : "01:57:42 Chương 6: Biết... Sống",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
