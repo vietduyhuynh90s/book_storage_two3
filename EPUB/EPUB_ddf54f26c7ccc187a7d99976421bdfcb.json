@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-16",
     "duration" : 5457,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/y-2mate.com-khi-thien-su-thich-nhat-hanh-noi-ve-thien-va-bong-hong-cai-ao-giong-/bong-hong.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_ddf54f26c7ccc187a7d99976421bdfcb_4b0834ea37c06fd8b9b9a1378948a934_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5457,
-    "title" : "bong-hong",
+    "duration" : 0,
+    "title" : "bong-hong (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_ddf54f26c7ccc187a7d99976421bdfcb_4b0834ea37c06fd8b9b9a1378948a934_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bong-hong (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_ddf54f26c7ccc187a7d99976421bdfcb_4b0834ea37c06fd8b9b9a1378948a934_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "bong-hong (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/y-2mate.com-khi-thien-su-thich-nhat-hanh-noi-ve-thien-va-bong-hong-cai-ao-giong-/bong-hong.mp3",
-    "title" : "bong-hong",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_ddf54f26c7ccc187a7d99976421bdfcb_4b0834ea37c06fd8b9b9a1378948a934_1.mp3",
+    "title" : "bong-hong (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_ddf54f26c7ccc187a7d99976421bdfcb_4b0834ea37c06fd8b9b9a1378948a934_2.mp3",
+    "title" : "bong-hong (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_ddf54f26c7ccc187a7d99976421bdfcb_4b0834ea37c06fd8b9b9a1378948a934_3.mp3",
+    "title" : "bong-hong (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
