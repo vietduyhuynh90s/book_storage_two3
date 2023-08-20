@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 9504,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,65 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chi-pheo_202111/chi-pheo.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9504,
-    "title" : "chi-pheo",
+    "duration" : 0,
+    "title" : "chi-pheo (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chi-pheo (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chi-pheo (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chi-pheo (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chi-pheo (5)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chi-pheo_202111/chi-pheo.mp3",
-    "title" : "chi-pheo",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_1.mp3",
+    "title" : "chi-pheo (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_2.mp3",
+    "title" : "chi-pheo (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_3.mp3",
+    "title" : "chi-pheo (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_4.mp3",
+    "title" : "chi-pheo (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_1f6aea4372188594bc21e259a0d0ced3_d998b53fa7f6c6598009e927497fe39b_5.mp3",
+    "title" : "chi-pheo (5)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 15760,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vuong-gia-ngoc-ti-ti-den-day/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_b3893785ee5accb89f7ecaf3421b01ad_cf7be16ea9a18969566a9933ec81c761_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8232,
-    "title" : "Truyện Ngôn Tình Xuyên Không Hay Với Mỹ Nam",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Xuyên Không Hay Với Mỹ Nam (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vuong-gia-ngoc-ti-ti-den-day/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_b3893785ee5accb89f7ecaf3421b01ad_cf7be16ea9a18969566a9933ec81c761_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7528,
-    "title" : "Vương Gia Ngốc Tỉ Tỉ Đến Đây [Phần 2 HẾT] Truyện Ngôn Tình Xuyên Không Hay",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Xuyên Không Hay Với Mỹ Nam (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_b3893785ee5accb89f7ecaf3421b01ad_ba78f8b5b1f2eb51f8420c37ffa38c9d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Vương Gia Ngốc Tỉ Tỉ Đến Đây [Phần 2 HẾT] Truyện Ngôn Tình Xuyên Không Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_b3893785ee5accb89f7ecaf3421b01ad_ba78f8b5b1f2eb51f8420c37ffa38c9d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Vương Gia Ngốc Tỉ Tỉ Đến Đây [Phần 2 HẾT] Truyện Ngôn Tình Xuyên Không Hay (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vuong-gia-ngoc-ti-ti-den-day/1.mp3",
-    "title" : "Truyện Ngôn Tình Xuyên Không Hay Với Mỹ Nam",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_b3893785ee5accb89f7ecaf3421b01ad_cf7be16ea9a18969566a9933ec81c761_1.mp3",
+    "title" : "Truyện Ngôn Tình Xuyên Không Hay Với Mỹ Nam (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vuong-gia-ngoc-ti-ti-den-day/2.mp3",
-    "title" : "Vương Gia Ngốc Tỉ Tỉ Đến Đây [Phần 2 HẾT] Truyện Ngôn Tình Xuyên Không Hay",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_b3893785ee5accb89f7ecaf3421b01ad_cf7be16ea9a18969566a9933ec81c761_2.mp3",
+    "title" : "Truyện Ngôn Tình Xuyên Không Hay Với Mỹ Nam (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_b3893785ee5accb89f7ecaf3421b01ad_ba78f8b5b1f2eb51f8420c37ffa38c9d_1.mp3",
+    "title" : "Vương Gia Ngốc Tỉ Tỉ Đến Đây [Phần 2 HẾT] Truyện Ngôn Tình Xuyên Không Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_b3893785ee5accb89f7ecaf3421b01ad_ba78f8b5b1f2eb51f8420c37ffa38c9d_2.mp3",
+    "title" : "Vương Gia Ngốc Tỉ Tỉ Đến Đây [Phần 2 HẾT] Truyện Ngôn Tình Xuyên Không Hay (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

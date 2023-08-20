@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 5602,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vungdattudia/VungDatTuDia.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_2c6154c2c8ec5633b9bde1e7c55cf4eb_1c042cc8966ee52dd771bb7418d78199_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5602,
-    "title" : "VungDatTuDia",
+    "duration" : 0,
+    "title" : "VungDatTuDia (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_2c6154c2c8ec5633b9bde1e7c55cf4eb_1c042cc8966ee52dd771bb7418d78199_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "VungDatTuDia (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vungdattudia/VungDatTuDia.mp3",
-    "title" : "VungDatTuDia",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_2c6154c2c8ec5633b9bde1e7c55cf4eb_1c042cc8966ee52dd771bb7418d78199_1.mp3",
+    "title" : "VungDatTuDia (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_2c6154c2c8ec5633b9bde1e7c55cf4eb_1c042cc8966ee52dd771bb7418d78199_2.mp3",
+    "title" : "VungDatTuDia (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
