@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 35039,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,113 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mu-loa/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_8b3771cb2e7cfd3803ff27f6a90ec244_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 16731,
-    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC",
+    "duration" : 0,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mu-loa/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_8b3771cb2e7cfd3803ff27f6a90ec244_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 18308,
-    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC",
+    "duration" : 0,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_8b3771cb2e7cfd3803ff27f6a90ec244_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_8b3771cb2e7cfd3803ff27f6a90ec244_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (5)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mu-loa/1.mp3",
-    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_8b3771cb2e7cfd3803ff27f6a90ec244_1.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mu-loa/2.mp3",
-    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_8b3771cb2e7cfd3803ff27f6a90ec244_2.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_8b3771cb2e7cfd3803ff27f6a90ec244_3.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_8b3771cb2e7cfd3803ff27f6a90ec244_4.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_1.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_2.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_3.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_4.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_def607eca75862d93dce83e6f87dfd1c_6a1dfb06a29c13c4c0d4848a7b9e3be4_5.mp3",
+    "title" : "MÙ LOÀ / JOSE SARAMAGO / PHẦN 2 (Hết) / AUDIOBOOK / ĐI và ĐỌC (5)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
