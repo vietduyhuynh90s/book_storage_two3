@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 10024,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/can-phong-409_202101/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_5bda2c7d50a8cf6f0c2bd19e435f6eea_721d398f80ff85eff248b220021c70fa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3094,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/can-phong-409_202101/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_5bda2c7d50a8cf6f0c2bd19e435f6eea_1f10b6f24506c6e8ec091b5e4ab2ea9a.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3360,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/can-phong-409_202101/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_5bda2c7d50a8cf6f0c2bd19e435f6eea_e475007a10bd6541e5943348a53f4a56.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3570,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/can-phong-409_202101/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_5bda2c7d50a8cf6f0c2bd19e435f6eea_721d398f80ff85eff248b220021c70fa.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/can-phong-409_202101/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_5bda2c7d50a8cf6f0c2bd19e435f6eea_1f10b6f24506c6e8ec091b5e4ab2ea9a.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/can-phong-409_202101/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_5bda2c7d50a8cf6f0c2bd19e435f6eea_e475007a10bd6541e5943348a53f4a56.mp3",
     "title" : "3",
     "children" : [ ]
   } ],
