@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-28",
     "duration" : 27829,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,101 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chuyen-xua-tich-cu/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_690945b94cfd3c5fe4e25414a8350a48_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyen-xua-tich-cu/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_690945b94cfd3c5fe4e25414a8350a48_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "2",
+    "duration" : 0,
+    "title" : "1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyen-xua-tich-cu/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_748f1528e76a5b337d7915ee9f27c5c9_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "3",
+    "duration" : 0,
+    "title" : "2 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuyen-xua-tich-cu/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_748f1528e76a5b337d7915ee9f27c5c9_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6229,
-    "title" : "4",
+    "duration" : 0,
+    "title" : "2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_fe7da0113ecfa21758427b2015b2e7e5_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_fe7da0113ecfa21758427b2015b2e7e5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_1f696c2a4cac11cb09d746f31a0d967b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_1f696c2a4cac11cb09d746f31a0d967b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chuyen-xua-tich-cu/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_690945b94cfd3c5fe4e25414a8350a48_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyen-xua-tich-cu/2.mp3",
-    "title" : "2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_690945b94cfd3c5fe4e25414a8350a48_2.mp3",
+    "title" : "1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyen-xua-tich-cu/3.mp3",
-    "title" : "3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_748f1528e76a5b337d7915ee9f27c5c9_1.mp3",
+    "title" : "2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuyen-xua-tich-cu/4.mp3",
-    "title" : "4",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_748f1528e76a5b337d7915ee9f27c5c9_2.mp3",
+    "title" : "2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_fe7da0113ecfa21758427b2015b2e7e5_1.mp3",
+    "title" : "3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_fe7da0113ecfa21758427b2015b2e7e5_2.mp3",
+    "title" : "3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_1f696c2a4cac11cb09d746f31a0d967b_1.mp3",
+    "title" : "4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bdf7b1b6cdd8dbd362eca60b2914f298_1f696c2a4cac11cb09d746f31a0d967b_2.mp3",
+    "title" : "4 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
