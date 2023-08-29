@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-28",
     "duration" : 26505,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,101 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bay-tinh-chiem-doat/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_154c67bffada397b4cbec77fadeb55f8_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bay-tinh-chiem-doat/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_154c67bffada397b4cbec77fadeb55f8_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "2",
+    "duration" : 0,
+    "title" : "1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bay-tinh-chiem-doat/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_dba56a3655bfb0a476345ac7aff26014_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "3",
+    "duration" : 0,
+    "title" : "2 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bay-tinh-chiem-doat/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_dba56a3655bfb0a476345ac7aff26014_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4905,
-    "title" : "4",
+    "duration" : 0,
+    "title" : "2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_1f6d4c33250d79374d0b0aaf1e42f372_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_1f6d4c33250d79374d0b0aaf1e42f372_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_734e012b3abde7486238e6f9571ca9a9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_734e012b3abde7486238e6f9571ca9a9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bay-tinh-chiem-doat/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_154c67bffada397b4cbec77fadeb55f8_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bay-tinh-chiem-doat/2.mp3",
-    "title" : "2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_154c67bffada397b4cbec77fadeb55f8_2.mp3",
+    "title" : "1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bay-tinh-chiem-doat/3.mp3",
-    "title" : "3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_dba56a3655bfb0a476345ac7aff26014_1.mp3",
+    "title" : "2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bay-tinh-chiem-doat/4.mp3",
-    "title" : "4",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_dba56a3655bfb0a476345ac7aff26014_2.mp3",
+    "title" : "2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_1f6d4c33250d79374d0b0aaf1e42f372_1.mp3",
+    "title" : "3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_1f6d4c33250d79374d0b0aaf1e42f372_2.mp3",
+    "title" : "3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_734e012b3abde7486238e6f9571ca9a9_1.mp3",
+    "title" : "4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bb2c7a9133ec777ef1a0d8b5163c926f_734e012b3abde7486238e6f9571ca9a9_2.mp3",
+    "title" : "4 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
