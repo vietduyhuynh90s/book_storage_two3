@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-21",
+    "published" : "2023-09-06",
     "duration" : 3735,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_149fc8a688c800b6a4720e1d55da9399_50095ac110ae36a85dcf72bd1f4a878c_1.mp3",
+    "href" : "https://archive.org/download/ra-bo-1/ra-bo-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Full (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_149fc8a688c800b6a4720e1d55da9399_50095ac110ae36a85dcf72bd1f4a878c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Full (2)",
+    "duration" : 3735,
+    "title" : "Full",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_149fc8a688c800b6a4720e1d55da9399_50095ac110ae36a85dcf72bd1f4a878c_1.mp3",
-    "title" : "Full (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_149fc8a688c800b6a4720e1d55da9399_50095ac110ae36a85dcf72bd1f4a878c_2.mp3",
-    "title" : "Full (2)",
+    "href" : "https://archive.org/download/ra-bo-1/ra-bo-1.mp3",
+    "title" : "Full",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

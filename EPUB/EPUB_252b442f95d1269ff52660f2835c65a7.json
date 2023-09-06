@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-24",
-    "duration" : 18215,
+    "published" : "2023-09-06",
+    "duration" : 32787,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_fe0ed2cd0855aba79b74ca34e2b905c4.mp3",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_99baa86547abcf107860fa491350e595.mp3",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_aa98ecbf9e43c70fd8800c95d266e405.mp3",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_f8c2f49510fa23891a3ddb745791e425.mp3",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -68,45 +68,33 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_248fe75c56ebd2f1dbec4bfecc8996e8_1.mp3",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P5 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_248fe75c56ebd2f1dbec4bfecc8996e8_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P5 (2)",
+    "duration" : 3643,
+    "title" : "P5",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_fe0ed2cd0855aba79b74ca34e2b905c4.mp3",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p1.mp3",
     "title" : "P1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_99baa86547abcf107860fa491350e595.mp3",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p2.mp3",
     "title" : "P2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_aa98ecbf9e43c70fd8800c95d266e405.mp3",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p3.mp3",
     "title" : "P3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_f8c2f49510fa23891a3ddb745791e425.mp3",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p4.mp3",
     "title" : "P4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_248fe75c56ebd2f1dbec4bfecc8996e8_1.mp3",
-    "title" : "P5 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two3/main/AUDIO/AUDIO_252b442f95d1269ff52660f2835c65a7_248fe75c56ebd2f1dbec4bfecc8996e8_2.mp3",
-    "title" : "P5 (2)",
+    "href" : "https://archive.org/download/yeu-di-dung-so-p5/yeu-di-dung-so-p5.mp3",
+    "title" : "P5",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
