@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 14899,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4e4507ddfcaf09365e0a7d2286a4341b_8afc02c1975798e37ad1a4dcd52d70e8_1.mp3",
+    "href" : "https://archive.org/download/chiem-doat-vo-yeu/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Đến Mê Mẩn Lòng Người (1)",
+    "duration" : 8021,
+    "title" : "Truyện Ngôn Tình Hay Đến Mê Mẩn Lòng Người",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4e4507ddfcaf09365e0a7d2286a4341b_8afc02c1975798e37ad1a4dcd52d70e8_2.mp3",
+    "href" : "https://archive.org/download/chiem-doat-vo-yeu/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Đến Mê Mẩn Lòng Người (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4e4507ddfcaf09365e0a7d2286a4341b_179385b4283e68e76e60f2716afa9906_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chiếm Đoạt Vợ Yêu [Phần 2 HẾT] Kết Thúc Thú Vị (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4e4507ddfcaf09365e0a7d2286a4341b_179385b4283e68e76e60f2716afa9906_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chiếm Đoạt Vợ Yêu [Phần 2 HẾT] Kết Thúc Thú Vị (2)",
+    "duration" : 6878,
+    "title" : "Chiếm Đoạt Vợ Yêu [Phần 2 HẾT] Kết Thúc Thú Vị",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4e4507ddfcaf09365e0a7d2286a4341b_8afc02c1975798e37ad1a4dcd52d70e8_1.mp3",
-    "title" : "Truyện Ngôn Tình Hay Đến Mê Mẩn Lòng Người (1)",
+    "href" : "https://archive.org/download/chiem-doat-vo-yeu/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Đến Mê Mẩn Lòng Người",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4e4507ddfcaf09365e0a7d2286a4341b_8afc02c1975798e37ad1a4dcd52d70e8_2.mp3",
-    "title" : "Truyện Ngôn Tình Hay Đến Mê Mẩn Lòng Người (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4e4507ddfcaf09365e0a7d2286a4341b_179385b4283e68e76e60f2716afa9906_1.mp3",
-    "title" : "Chiếm Đoạt Vợ Yêu [Phần 2 HẾT] Kết Thúc Thú Vị (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4e4507ddfcaf09365e0a7d2286a4341b_179385b4283e68e76e60f2716afa9906_2.mp3",
-    "title" : "Chiếm Đoạt Vợ Yêu [Phần 2 HẾT] Kết Thúc Thú Vị (2)",
+    "href" : "https://archive.org/download/chiem-doat-vo-yeu/2.mp3",
+    "title" : "Chiếm Đoạt Vợ Yêu [Phần 2 HẾT] Kết Thúc Thú Vị",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

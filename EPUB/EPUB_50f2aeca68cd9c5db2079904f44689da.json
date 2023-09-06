@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
-    "duration" : 13317,
+    "published" : "2023-09-06",
+    "duration" : 17582,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,39 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_1ddb9df15f0245e1da5a178f655991cb_1.mp3",
+    "href" : "https://archive.org/download/sung-em-den-nghien/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Sủng Em Đến Nghiện Phần 1 (1)",
+    "duration" : 4535,
+    "title" : "Sủng Em Đến Nghiện Phần 1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_1ddb9df15f0245e1da5a178f655991cb_2.mp3",
+    "href" : "https://archive.org/download/sung-em-den-nghien/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Sủng Em Đến Nghiện Phần 1 (2)",
+    "duration" : 4517,
+    "title" : "Sủng Em Đến Nghiện Phần 2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_00316b45ef6bb2d6bd93bd5fced62619_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Sủng Em Đến Nghiện Phần 2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_00316b45ef6bb2d6bd93bd5fced62619_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Sủng Em Đến Nghiện Phần 2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_a221697f9d714656257a9fcacc929e83.mp3",
+    "href" : "https://archive.org/download/sung-em-den-nghien/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4265,
@@ -77,23 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_1ddb9df15f0245e1da5a178f655991cb_1.mp3",
-    "title" : "Sủng Em Đến Nghiện Phần 1 (1)",
+    "href" : "https://archive.org/download/sung-em-den-nghien/1.mp3",
+    "title" : "Sủng Em Đến Nghiện Phần 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_1ddb9df15f0245e1da5a178f655991cb_2.mp3",
-    "title" : "Sủng Em Đến Nghiện Phần 1 (2)",
+    "href" : "https://archive.org/download/sung-em-den-nghien/2.mp3",
+    "title" : "Sủng Em Đến Nghiện Phần 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_00316b45ef6bb2d6bd93bd5fced62619_1.mp3",
-    "title" : "Sủng Em Đến Nghiện Phần 2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_00316b45ef6bb2d6bd93bd5fced62619_2.mp3",
-    "title" : "Sủng Em Đến Nghiện Phần 2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_50f2aeca68cd9c5db2079904f44689da_a221697f9d714656257a9fcacc929e83.mp3",
+    "href" : "https://archive.org/download/sung-em-den-nghien/3.mp3",
     "title" : "Sủng Em Đến Nghiện Phần 3 Hết",
     "children" : [ ]
   } ],

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
-    "duration" : 8492,
+    "published" : "2023-09-06",
+    "duration" : 12238,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_9b9959e3bac58c9d06ccf77f10125227_9e33d79d350fafaca46a1f97a4b1304c.mp3",
+    "href" : "https://archive.org/download/om-em-om-toi-nghien/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3746,
@@ -44,33 +44,21 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_9b9959e3bac58c9d06ccf77f10125227_614567b517f13b684c5cab1f0f13272f_1.mp3",
+    "href" : "https://archive.org/download/om-em-om-toi-nghien/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_9b9959e3bac58c9d06ccf77f10125227_614567b517f13b684c5cab1f0f13272f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (2)",
+    "duration" : 4746,
+    "title" : "2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_9b9959e3bac58c9d06ccf77f10125227_9e33d79d350fafaca46a1f97a4b1304c.mp3",
+    "href" : "https://archive.org/download/om-em-om-toi-nghien/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_9b9959e3bac58c9d06ccf77f10125227_614567b517f13b684c5cab1f0f13272f_1.mp3",
-    "title" : "2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_9b9959e3bac58c9d06ccf77f10125227_614567b517f13b684c5cab1f0f13272f_2.mp3",
-    "title" : "2 (2)",
+    "href" : "https://archive.org/download/om-em-om-toi-nghien/2.mp3",
+    "title" : "2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
