@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
-    "duration" : 68620,
+    "published" : "2023-11-09",
+    "duration" : 93277,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,161 +36,245 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL001%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20I.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/Bach%20Da%20Hanh%20-%20Chuong%2001.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6553,
-    "title" : "SNNL001 ― Bạch Dạ Hành ― Chương I",
+    "duration" : 2507,
+    "title" : "Bach Da Hanh - Chuong 01",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL002%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20II.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/Bach%20Da%20Hanh%20-%20Chuong%2002.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4033,
-    "title" : "SNNL002 ― Bạch Dạ Hành ― Chương II",
+    "duration" : 4522,
+    "title" : "Bach Da Hanh - Chuong 02",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL003%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20III.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2398,
+    "title" : "Bach Da Hanh - Chuong 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3089,
+    "title" : "Bach Da Hanh - Chuong 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2775,
+    "title" : "Bach Da Hanh - Chuong 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "Bach Da Hanh - Chuong 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2959,
+    "title" : "Bach Da Hanh - Chuong 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1763,
+    "title" : "Bach Da Hanh - Chuong 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5093,
+    "title" : "Bach Da Hanh - Chuong 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5187,
+    "title" : "Bach Da Hanh - Chuong 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4629,
+    "title" : "Bach Da Hanh - Chuong 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4528,
+    "title" : "Bach Da Hanh - Chuong 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5552,
-    "title" : "SNNL003 ― Bạch Dạ Hành ― Chương III",
+    "title" : "Bach Da Hanh - Chuong 13",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL004%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20IV.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3820,
-    "title" : "SNNL004 ― Bạch Dạ Hành ― Chương IV",
+    "duration" : 5869,
+    "title" : "Bach Da Hanh - Chuong 14",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL005%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20V.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3865,
-    "title" : "SNNL005 ― Bạch Dạ Hành ― Chương V",
+    "duration" : 7779,
+    "title" : "Bach Da Hanh - Chuong 15",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL006%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VI.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong16.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3679,
-    "title" : "SNNL006 ― Bạch Dạ Hành ― Chương VI",
+    "duration" : 5834,
+    "title" : "Bach Da Hanh - Chuong 16",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL007%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VII.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong17.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3817,
-    "title" : "SNNL007 ― Bạch Dạ Hành ― Chương VII",
+    "duration" : 4347,
+    "title" : "Bach Da Hanh - Chuong 17",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL008%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VIII.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong18.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4197,
-    "title" : "SNNL008 ― Bạch Dạ Hành ― Chương VIII",
+    "duration" : 6149,
+    "title" : "Bach Da Hanh - Chuong 18",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL009%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20IX.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong19.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4271,
-    "title" : "SNNL009 ― Bạch Dạ Hành ― Chương IX",
+    "duration" : 7937,
+    "title" : "Bach Da Hanh - Chuong 19",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL010%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20X.mp3",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-ChuongCuoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5666,
-    "title" : "SNNL010 ― Bạch Dạ Hành ― Chương X",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL011%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XI.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 4424,
-    "title" : "SNNL011 ― Bạch Dạ Hành ― Chương XI",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL012%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XII.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 7863,
-    "title" : "SNNL012 ― Bạch Dạ Hành ― Chương XII",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL013%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XIII.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 10880,
-    "title" : "SNNL013 ― Bạch Dạ Hành ― Chương XIII",
+    "duration" : 7251,
+    "title" : "Bach Da Hanh - Chuong cuoi",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL001%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20I.mp3",
-    "title" : "SNNL001 ― Bạch Dạ Hành ― Chương I",
+    "href" : "https://archive.org/download/BachDaHanh/Bach%20Da%20Hanh%20-%20Chuong%2001.mp3",
+    "title" : "Bach Da Hanh - Chuong 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL002%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20II.mp3",
-    "title" : "SNNL002 ― Bạch Dạ Hành ― Chương II",
+    "href" : "https://archive.org/download/BachDaHanh/Bach%20Da%20Hanh%20-%20Chuong%2002.mp3",
+    "title" : "Bach Da Hanh - Chuong 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL003%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20III.mp3",
-    "title" : "SNNL003 ― Bạch Dạ Hành ― Chương III",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong03.mp3",
+    "title" : "Bach Da Hanh - Chuong 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL004%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20IV.mp3",
-    "title" : "SNNL004 ― Bạch Dạ Hành ― Chương IV",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong04.mp3",
+    "title" : "Bach Da Hanh - Chuong 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL005%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20V.mp3",
-    "title" : "SNNL005 ― Bạch Dạ Hành ― Chương V",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong05.mp3",
+    "title" : "Bach Da Hanh - Chuong 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL006%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VI.mp3",
-    "title" : "SNNL006 ― Bạch Dạ Hành ― Chương VI",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong06.mp3",
+    "title" : "Bach Da Hanh - Chuong 06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL007%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VII.mp3",
-    "title" : "SNNL007 ― Bạch Dạ Hành ― Chương VII",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong07.mp3",
+    "title" : "Bach Da Hanh - Chuong 07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL008%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20VIII.mp3",
-    "title" : "SNNL008 ― Bạch Dạ Hành ― Chương VIII",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong08.mp3",
+    "title" : "Bach Da Hanh - Chuong 08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL009%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20IX.mp3",
-    "title" : "SNNL009 ― Bạch Dạ Hành ― Chương IX",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong09.mp3",
+    "title" : "Bach Da Hanh - Chuong 09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL010%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20X.mp3",
-    "title" : "SNNL010 ― Bạch Dạ Hành ― Chương X",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong10.mp3",
+    "title" : "Bach Da Hanh - Chuong 10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL011%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XI.mp3",
-    "title" : "SNNL011 ― Bạch Dạ Hành ― Chương XI",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong11.mp3",
+    "title" : "Bach Da Hanh - Chuong 11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL012%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XII.mp3",
-    "title" : "SNNL012 ― Bạch Dạ Hành ― Chương XII",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong12.mp3",
+    "title" : "Bach Da Hanh - Chuong 12",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmsachnoi-202331-Bach-Da-Hanh/SNNL013%20%E2%80%95%20B%E1%BA%A1ch%20D%E1%BA%A1%20H%C3%A0nh%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20XIII.mp3",
-    "title" : "SNNL013 ― Bạch Dạ Hành ― Chương XIII",
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong13.mp3",
+    "title" : "Bach Da Hanh - Chuong 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong14.mp3",
+    "title" : "Bach Da Hanh - Chuong 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong15.mp3",
+    "title" : "Bach Da Hanh - Chuong 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong16.mp3",
+    "title" : "Bach Da Hanh - Chuong 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong17.mp3",
+    "title" : "Bach Da Hanh - Chuong 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong18.mp3",
+    "title" : "Bach Da Hanh - Chuong 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-Chuong19.mp3",
+    "title" : "Bach Da Hanh - Chuong 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BachDaHanh/BachDaHanh-ChuongCuoi.mp3",
+    "title" : "Bach Da Hanh - Chuong cuoi",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
